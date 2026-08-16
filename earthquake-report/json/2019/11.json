@@ -1,0 +1,257 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-28T18:46:43+08:00",
+      "longitude": 120.58,
+      "latitude": 23.18,
+      "magnitude": 3.2,
+      "depth_km": 8.1,
+      "maximum_intensity": 2,
+      "location": "臺南市政府東偏北方 46.0 公里 (位於臺南市南化區)(臺南市南化區)",
+      "event_id": "cwa-report-20191128184643-1879420fe8b0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-27T02:07:17+08:00",
+      "longitude": 121.57,
+      "latitude": 25.13,
+      "magnitude": 2.5,
+      "depth_km": 7.6,
+      "maximum_intensity": 1,
+      "location": "臺北市政府北方 10.2 公里 (位於臺北市士林區)(臺北市士林區)",
+      "event_id": "cwa-report-20191127020717-e4be51bc30a6"
+    },
+    {
+      "report_number": "061",
+      "origin_time": "2019-11-25T09:32:42+08:00",
+      "longitude": 121.75,
+      "latitude": 24.03,
+      "magnitude": 4.6,
+      "depth_km": 5.1,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府東偏北方 13.7 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20191125093242-c7e434dd2f44"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-23T18:56:32+08:00",
+      "longitude": 120.17,
+      "latitude": 22.97,
+      "magnitude": 3,
+      "depth_km": 18,
+      "maximum_intensity": 2,
+      "location": "臺南市政府西南方 2.7 公里 (位於臺南市南區)(臺南市南區)",
+      "event_id": "cwa-report-20191123185632-0480a8091772"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-19T17:15:39+08:00",
+      "longitude": 121.05,
+      "latitude": 22.78,
+      "magnitude": 3.7,
+      "depth_km": 4.9,
+      "maximum_intensity": 4,
+      "location": "臺東縣政府西偏北方 11.3 公里 (位於臺東縣卑南鄉)(臺東縣卑南鄉)",
+      "event_id": "cwa-report-20191119171539-fd4b3b4499b8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-18T02:56:56+08:00",
+      "longitude": 121.7,
+      "latitude": 24.53,
+      "magnitude": 4.2,
+      "depth_km": 59.8,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府南偏西方 23.4 公里 (位於宜蘭縣南澳鄉)(宜蘭縣南澳鄉)",
+      "event_id": "cwa-report-20191118025656-e0dc909dc75a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-12T02:11:33+08:00",
+      "longitude": 121.92,
+      "latitude": 24.88,
+      "magnitude": 4.5,
+      "depth_km": 109,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東北方 22.9 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20191112021133-5b7866b6c0a9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-12T00:54:57+08:00",
+      "longitude": 121.66,
+      "latitude": 21.05,
+      "magnitude": 5,
+      "depth_km": 114.6,
+      "maximum_intensity": 1,
+      "location": "臺東縣政府南偏東方 195.7 公里(臺東縣政府南偏東方 195.7 公里)",
+      "event_id": "cwa-report-20191112005457-21d6312e7482"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-11T00:01:27+08:00",
+      "longitude": 121.36,
+      "latitude": 23.19,
+      "magnitude": 3.1,
+      "depth_km": 17,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府北偏東方 53.1 公里 (位於臺東縣成功鎮)(臺東縣成功鎮)",
+      "event_id": "cwa-report-20191111000127-181c47c3ef4c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-10T08:13:21+08:00",
+      "longitude": 121.92,
+      "latitude": 23.94,
+      "magnitude": 4.4,
+      "depth_km": 37.9,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府東方 31.5 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20191110081321-581423b0c68b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-09T07:47:05+08:00",
+      "longitude": 121.83,
+      "latitude": 24.81,
+      "magnitude": 3.7,
+      "depth_km": 83.3,
+      "maximum_intensity": 1,
+      "location": "宜蘭縣政府東北方 11.5 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20191109074705-521985b50519"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-08T15:29:01+08:00",
+      "longitude": 121.89,
+      "latitude": 24.54,
+      "magnitude": 4.1,
+      "depth_km": 38.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府東南方 24.5 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20191108152901-7f76d3f77ee2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-07T16:56:07+08:00",
+      "longitude": 120.84,
+      "latitude": 24.16,
+      "magnitude": 3,
+      "depth_km": 31.4,
+      "maximum_intensity": 1,
+      "location": "臺中市政府東方 16.6 公里 (位於臺中市新社區)(臺中市新社區)",
+      "event_id": "cwa-report-20191107165607-c21686ac83f9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-07T03:08:33+08:00",
+      "longitude": 121.52,
+      "latitude": 24.57,
+      "magnitude": 3.1,
+      "depth_km": 10,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府西南方 30.0 公里 (位於宜蘭縣大同鄉)(宜蘭縣大同鄉)",
+      "event_id": "cwa-report-20191107030833-096a5ef771c0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-07T03:08:24+08:00",
+      "longitude": 121.52,
+      "latitude": 24.56,
+      "magnitude": 3.1,
+      "depth_km": 10.1,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府西南方 31.1 公里 (位於宜蘭縣大同鄉)(宜蘭縣大同鄉)",
+      "event_id": "cwa-report-20191107030824-c7b05a494bb9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-05T10:08:13+08:00",
+      "longitude": 121.82,
+      "latitude": 24.45,
+      "magnitude": 2.9,
+      "depth_km": 16.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府南方 31.1 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20191105100813-bfed871fb0db"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-05T08:50:19+08:00",
+      "longitude": 121.82,
+      "latitude": 24.45,
+      "magnitude": 3.6,
+      "depth_km": 17.2,
+      "maximum_intensity": 5,
+      "location": "宜蘭縣政府南偏東方 31.2 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20191105085019-31614687ec9b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-05T03:23:03+08:00",
+      "longitude": 120.82,
+      "latitude": 24.16,
+      "magnitude": 3.4,
+      "depth_km": 27.5,
+      "maximum_intensity": 2,
+      "location": "臺中市政府東方 14.2 公里 (位於臺中市新社區)(臺中市新社區)",
+      "event_id": "cwa-report-20191105032303-f0fcf1e49a8f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-04T11:32:17+08:00",
+      "longitude": 121.51,
+      "latitude": 24.02,
+      "magnitude": 3.9,
+      "depth_km": 16.4,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府西偏北方 11.9 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20191104113217-1dbcef90e146"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-03T10:02:18+08:00",
+      "longitude": 121.57,
+      "latitude": 24.23,
+      "magnitude": 3.8,
+      "depth_km": 43.9,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北偏西方 27.1 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20191103100218-8a0c1bff520d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-03T03:26:34+08:00",
+      "longitude": 121.91,
+      "latitude": 24.41,
+      "magnitude": 4.4,
+      "depth_km": 26.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府南偏東方 38.1 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20191103032634-c13f34a795ee"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-03T00:28:08+08:00",
+      "longitude": 121.71,
+      "latitude": 24.68,
+      "magnitude": 3.5,
+      "depth_km": 48.6,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府西南方 8.0 公里 (位於宜蘭縣三星鄉)(宜蘭縣三星鄉)",
+      "event_id": "cwa-report-20191103002808-dca7fa3b54b0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-11-01T21:28:39+08:00",
+      "longitude": 121.33,
+      "latitude": 22.6,
+      "magnitude": 4,
+      "depth_km": 36,
+      "maximum_intensity": 1,
+      "location": "臺東縣政府東南方 25.2 公里 (位於臺灣東南部海域)(臺灣東南部海域)",
+      "event_id": "cwa-report-20191101212839-32d11b552254"
+    }
+  ]
+}

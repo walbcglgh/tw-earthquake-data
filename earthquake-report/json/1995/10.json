@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "report_number": "050",
+      "origin_time": "1995-10-14T11:01:36+08:00",
+      "longitude": 122.53,
+      "latitude": 24.63,
+      "magnitude": 5,
+      "depth_km": 14.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東方 68.0 公里(宜蘭蘇澳地震站東方 68.0 公里)",
+      "event_id": "cwa-report-19951014110136-16ed1caebc7b"
+    },
+    {
+      "report_number": "049",
+      "origin_time": "1995-10-07T19:08:42+08:00",
+      "longitude": 121.68,
+      "latitude": 23.87,
+      "magnitude": 4.7,
+      "depth_km": 0.6,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站南偏東方 13.7 公里(花蓮市地震站南偏東方 13.7 公里)",
+      "event_id": "cwa-report-19951007190842-8aa27d2c8597"
+    },
+    {
+      "report_number": "048",
+      "origin_time": "1995-10-04T13:01:48+08:00",
+      "longitude": 122,
+      "latitude": 24.87,
+      "magnitude": 4.5,
+      "depth_km": 4.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東偏北方 27.6 公里(宜蘭市地震站東偏北方 27.6 公里)",
+      "event_id": "cwa-report-19951004130148-9fd4928e4a3f"
+    }
+  ]
+}

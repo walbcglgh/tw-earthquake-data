@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "006",
+      "origin_time": "1999-01-28T09:19:33+08:00",
+      "longitude": 120.7,
+      "latitude": 23.65,
+      "magnitude": 3.5,
+      "depth_km": 15,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東偏南方 18.0 公里(斗六市地震站東偏南方 18.0 公里)",
+      "event_id": "cwa-report-19990128091933-298f5a67a772"
+    },
+    {
+      "report_number": "005",
+      "origin_time": "1999-01-14T09:18:23+08:00",
+      "longitude": 121.85,
+      "latitude": 24.45,
+      "magnitude": 3.9,
+      "depth_km": 5,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東偏北方 11.1 公里(宜蘭南澳地震站東偏北方 11.1 公里)",
+      "event_id": "cwa-report-19990114091823-ab4c8787ac8c"
+    },
+    {
+      "report_number": "004",
+      "origin_time": "1999-01-12T14:24:16+08:00",
+      "longitude": 121.75,
+      "latitude": 23.3,
+      "magnitude": 4.8,
+      "depth_km": 13.9,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站東偏北方 44.0 公里(台東成功地震站東偏北方 44.0 公里)",
+      "event_id": "cwa-report-19990112142416-6e00595823a2"
+    },
+    {
+      "report_number": "003",
+      "origin_time": "1999-01-11T11:02:18+08:00",
+      "longitude": 121.6,
+      "latitude": 24.02,
+      "magnitude": 3.4,
+      "depth_km": 10.5,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站北偏西方 5.1 公里(花蓮市地震站北偏西方 5.1 公里)",
+      "event_id": "cwa-report-19990111110218-cc4cbe50cad7"
+    },
+    {
+      "report_number": "002",
+      "origin_time": "1999-01-08T04:06:05+08:00",
+      "longitude": 121.9,
+      "latitude": 24.44,
+      "magnitude": 4.1,
+      "depth_km": 15,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東方 14.9 公里(宜蘭南澳地震站東方 14.9 公里)",
+      "event_id": "cwa-report-19990108040605-15e0dad4a218"
+    },
+    {
+      "report_number": "001",
+      "origin_time": "1999-01-02T17:15:55+08:00",
+      "longitude": 121.76,
+      "latitude": 24.24,
+      "magnitude": 4.1,
+      "depth_km": 13.2,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站南方 21.1 公里(宜蘭南澳地震站南方 21.1 公里)",
+      "event_id": "cwa-report-19990102171555-ccbbd97a518e"
+    }
+  ]
+}

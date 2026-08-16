@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "report_number": "037",
+      "origin_time": "1995-06-28T22:14:53+08:00",
+      "longitude": 121.35,
+      "latitude": 22.23,
+      "magnitude": 5.3,
+      "depth_km": 6.6,
+      "maximum_intensity": 1,
+      "location": "台東蘭嶼地震站西北方 30.2 公里(台東蘭嶼地震站西北方 30.2 公里)",
+      "event_id": "cwa-report-19950628221453-a9c761f4a09b"
+    },
+    {
+      "report_number": "036",
+      "origin_time": "1995-06-25T14:59:07+08:00",
+      "longitude": 121.67,
+      "latitude": 24.61,
+      "magnitude": 6.5,
+      "depth_km": 39.9,
+      "maximum_intensity": 5,
+      "location": "宜蘭牛鬥地震站東偏南方 10.2 公里(宜蘭牛鬥地震站東偏南方 10.2 公里)",
+      "event_id": "cwa-report-19950625145907-8063682bd3c9"
+    },
+    {
+      "report_number": "035",
+      "origin_time": "1995-06-10T22:31:28+08:00",
+      "longitude": 121.12,
+      "latitude": 22.78,
+      "magnitude": 4.6,
+      "depth_km": 10.2,
+      "maximum_intensity": 4,
+      "location": "台東市地震站西北方 4.5 公里(台東市地震站西北方 4.5 公里)",
+      "event_id": "cwa-report-19950610223128-180b3d7dc1a7"
+    },
+    {
+      "report_number": "034",
+      "origin_time": "1995-06-07T07:21:22+08:00",
+      "longitude": 121.46,
+      "latitude": 23.01,
+      "magnitude": 5.1,
+      "depth_km": 23.7,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東南方 12.6 公里(台東成功地震站東南方 12.6 公里)",
+      "event_id": "cwa-report-19950607072122-f7e1d4d6ccb4"
+    }
+  ]
+}

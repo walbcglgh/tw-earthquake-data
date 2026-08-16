@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "report_number": "017",
+      "origin_time": "1998-04-30T02:29:59+08:00",
+      "longitude": 121.81,
+      "latitude": 24.52,
+      "magnitude": 3.8,
+      "depth_km": 18.1,
+      "maximum_intensity": 4,
+      "location": "宜蘭蘇澳地震站南偏西方 10.9 公里(宜蘭蘇澳地震站南偏西方 10.9 公里)",
+      "event_id": "cwa-report-19980430022959-f04d9c437387"
+    },
+    {
+      "report_number": "016",
+      "origin_time": "1998-04-29T17:18:24+08:00",
+      "longitude": 121.94,
+      "latitude": 24.4,
+      "magnitude": 4.2,
+      "depth_km": 16.6,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東方 19.2 公里(宜蘭南澳地震站東方 19.2 公里)",
+      "event_id": "cwa-report-19980429171824-36ffb12eb74c"
+    },
+    {
+      "report_number": "015",
+      "origin_time": "1998-04-19T18:06:26+08:00",
+      "longitude": 121.71,
+      "latitude": 24.39,
+      "magnitude": 4.8,
+      "depth_km": 24.9,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站西南方 5.7 公里(宜蘭南澳地震站西南方 5.7 公里)",
+      "event_id": "cwa-report-19980419180626-f2753b7d30f9"
+    },
+    {
+      "report_number": "014",
+      "origin_time": "1998-04-12T07:52:13+08:00",
+      "longitude": 121.79,
+      "latitude": 21.73,
+      "magnitude": 4.3,
+      "depth_km": 5,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站東南方 41.4 公里(台東蘭嶼地震站東南方 41.4 公里)",
+      "event_id": "cwa-report-19980412075213-a2004620cfa7"
+    }
+  ]
+}

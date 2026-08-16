@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "017",
+      "origin_time": "1996-04-19T15:26:23+08:00",
+      "longitude": 121.8,
+      "latitude": 23.71,
+      "magnitude": 4.6,
+      "depth_km": 29.8,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站東南方 34.7 公里(花蓮市地震站東南方 34.7 公里)",
+      "event_id": "cwa-report-19960419152623-70b6539d0778"
+    },
+    {
+      "report_number": "016",
+      "origin_time": "1996-04-10T22:14:49+08:00",
+      "longitude": 121.51,
+      "latitude": 22.97,
+      "magnitude": 4.7,
+      "depth_km": 13.6,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站東南方 19.3 公里(台東成功地震站東南方 19.3 公里)",
+      "event_id": "cwa-report-19960410221449-3afb502a0b51"
+    },
+    {
+      "report_number": "015",
+      "origin_time": "1996-04-10T16:59:19+08:00",
+      "longitude": 120.35,
+      "latitude": 22.67,
+      "magnitude": 4.3,
+      "depth_km": 31.8,
+      "maximum_intensity": 2,
+      "location": "高雄市地震站北偏東方 12.1 公里(高雄市地震站北偏東方 12.1 公里)",
+      "event_id": "cwa-report-19960410165919-348268ce419c"
+    },
+    {
+      "report_number": "014",
+      "origin_time": "1996-04-09T20:13:37+08:00",
+      "longitude": 120.43,
+      "latitude": 23.14,
+      "magnitude": 4,
+      "depth_km": 11.4,
+      "maximum_intensity": 4,
+      "location": "台南東山地震站南偏西方 15.1 公里(台南東山地震站南偏西方 15.1 公里)",
+      "event_id": "cwa-report-19960409201337-a4b299da4f11"
+    },
+    {
+      "report_number": "013",
+      "origin_time": "1996-04-09T20:09:05+08:00",
+      "longitude": 120.44,
+      "latitude": 23.14,
+      "magnitude": 3.8,
+      "depth_km": 12,
+      "maximum_intensity": 4,
+      "location": "台南東山地震站南偏西方 15.4 公里(台南東山地震站南偏西方 15.4 公里)",
+      "event_id": "cwa-report-19960409200905-1231c2eaaa7c"
+    },
+    {
+      "report_number": "012",
+      "origin_time": "1996-04-08T00:55:36+08:00",
+      "longitude": 120.66,
+      "latitude": 23.47,
+      "magnitude": 4.7,
+      "depth_km": 1.2,
+      "maximum_intensity": 4,
+      "location": "嘉義市地震站東方 23.6 公里(嘉義市地震站東方 23.6 公里)",
+      "event_id": "cwa-report-19960408005536-6233cffb16d4"
+    }
+  ]
+}

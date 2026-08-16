@@ -1,0 +1,323 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-30T16:02:37+08:00",
+      "longitude": 121.47,
+      "latitude": 23.96,
+      "magnitude": 3.4,
+      "depth_km": 20.6,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府西方 15.1 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190730160237-d927838ea768"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-29T17:48:28+08:00",
+      "longitude": 121.41,
+      "latitude": 23.74,
+      "magnitude": 3.2,
+      "depth_km": 20.3,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 35.7 公里 (位於花蓮縣萬榮鄉)(花蓮縣萬榮鄉)",
+      "event_id": "cwa-report-20190729174828-4e44cd292119"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-29T11:59:58+08:00",
+      "longitude": 120.41,
+      "latitude": 23.94,
+      "magnitude": 3.4,
+      "depth_km": 28.9,
+      "maximum_intensity": 3,
+      "location": "彰化縣政府西南方 20.7 公里 (位於彰化縣二林鎮)(彰化縣二林鎮)",
+      "event_id": "cwa-report-20190729115958-a012cc30a684"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-29T02:12:20+08:00",
+      "longitude": 121.47,
+      "latitude": 23.88,
+      "magnitude": 3.3,
+      "depth_km": 15.8,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 20.1 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190729021220-95134a34e3a7"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-28T19:52:59+08:00",
+      "longitude": 120.8,
+      "latitude": 23.15,
+      "magnitude": 2.9,
+      "depth_km": 4.7,
+      "maximum_intensity": 4,
+      "location": "高雄市政府東北方 77.1 公里 (位於高雄市桃源區)(高雄市桃源區)",
+      "event_id": "cwa-report-20190728195259-fa624169ba79"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-27T20:23:36+08:00",
+      "longitude": 121.62,
+      "latitude": 24.19,
+      "magnitude": 3.8,
+      "depth_km": 18.5,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府北方 22.5 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190727202336-50b8aba4d48f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-27T09:24:43+08:00",
+      "longitude": 121.86,
+      "latitude": 20.76,
+      "magnitude": 5.8,
+      "depth_km": 75.4,
+      "maximum_intensity": 1,
+      "location": "臺東縣政府南偏東方 232.9 公里(臺東縣政府南偏東方 232.9 公里)",
+      "event_id": "cwa-report-20190727092443-c9ddebbabae3"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-26T14:39:56+08:00",
+      "longitude": 121.84,
+      "latitude": 24.75,
+      "magnitude": 4.7,
+      "depth_km": 62.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東偏北方 8.4 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20190726143956-8e3eeb4edb2d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-25T14:40:57+08:00",
+      "longitude": 121.68,
+      "latitude": 24.24,
+      "magnitude": 3.3,
+      "depth_km": 28.6,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北偏東方 28.7 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190725144057-4d53ecba044e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-20T18:15:11+08:00",
+      "longitude": 121.43,
+      "latitude": 23.84,
+      "magnitude": 3.4,
+      "depth_km": 18.9,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 25.4 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190720181511-b3a0f823fef4"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-19T18:13:50+08:00",
+      "longitude": 122.06,
+      "latitude": 21.78,
+      "magnitude": 5.1,
+      "depth_km": 28.6,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府東南方 143.4 公里 (位於臺灣東南部海域)(臺灣東南部海域)",
+      "event_id": "cwa-report-20190719181350-3734d1a8f1ca"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-19T10:58:55+08:00",
+      "longitude": 121.52,
+      "latitude": 24.06,
+      "magnitude": 3.5,
+      "depth_km": 21.6,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西北方 12.9 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190719105855-ff0134159e27"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-19T00:30:44+08:00",
+      "longitude": 120.38,
+      "latitude": 23.43,
+      "magnitude": 3.7,
+      "depth_km": 10.2,
+      "maximum_intensity": 3,
+      "location": "嘉義縣政府東偏南方 8.9 公里 (位於嘉義縣水上鄉)(嘉義縣水上鄉)",
+      "event_id": "cwa-report-20190719003044-7ee1ecc33a80"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-17T03:22:55+08:00",
+      "longitude": 121.69,
+      "latitude": 24.02,
+      "magnitude": 3.4,
+      "depth_km": 31.2,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府東偏北方 8.1 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20190717032255-06a6c5057d81"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-16T23:56:01+08:00",
+      "longitude": 120.16,
+      "latitude": 22.96,
+      "magnitude": 3.3,
+      "depth_km": 18.4,
+      "maximum_intensity": 3,
+      "location": "臺南市政府西南方 4.7 公里 (位於臺南市南區)(臺南市南區)",
+      "event_id": "cwa-report-20190716235601-0627bb1104c1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-16T19:12:30+08:00",
+      "longitude": 122.43,
+      "latitude": 24.22,
+      "magnitude": 4.7,
+      "depth_km": 64.2,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府東偏北方 86.5 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20190716191230-12fe0cde31ed"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-16T02:58:09+08:00",
+      "longitude": 121.36,
+      "latitude": 23.54,
+      "magnitude": 2.7,
+      "depth_km": 8.3,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府南偏西方 55.9 公里 (位於花蓮縣萬榮鄉)(花蓮縣萬榮鄉)",
+      "event_id": "cwa-report-20190716025809-f0ab829fa911"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-15T16:02:07+08:00",
+      "longitude": 120.96,
+      "latitude": 22.39,
+      "magnitude": 4,
+      "depth_km": 13.9,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府南偏西方 44.6 公里 (位於臺東縣近海)(臺東縣近海)",
+      "event_id": "cwa-report-20190715160207-9f50ece58060"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-15T04:30:02+08:00",
+      "longitude": 122.09,
+      "latitude": 23.9,
+      "magnitude": 4.2,
+      "depth_km": 43.1,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府東方 49.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20190715043002-5965d7ea2a2f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-12T13:00:15+08:00",
+      "longitude": 121.43,
+      "latitude": 23.89,
+      "magnitude": 3.2,
+      "depth_km": 26.3,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西偏南方 22.0 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190712130015-6a8d622a67ee"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-12T05:21:56+08:00",
+      "longitude": 122.97,
+      "latitude": 23.87,
+      "magnitude": 5.2,
+      "depth_km": 21.5,
+      "maximum_intensity": 1,
+      "location": "花蓮縣政府東方 137.8 公里(花蓮縣政府東方 137.8 公里)",
+      "event_id": "cwa-report-20190712052156-1f3ad03f2d0b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-12T05:10:07+08:00",
+      "longitude": 121.65,
+      "latitude": 24.07,
+      "magnitude": 3.9,
+      "depth_km": 9.3,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府北偏東方 9.1 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20190712051007-df33a86d3189"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-11T03:18:40+08:00",
+      "longitude": 121.3,
+      "latitude": 22.94,
+      "magnitude": 3.4,
+      "depth_km": 6.3,
+      "maximum_intensity": 4,
+      "location": "臺東縣政府東北方 25.0 公里 (位於臺東縣近海)(臺東縣近海)",
+      "event_id": "cwa-report-20190711031840-a70a56802b6d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-09T02:35:35+08:00",
+      "longitude": 122.56,
+      "latitude": 23.8,
+      "magnitude": 4.9,
+      "depth_km": 27.6,
+      "maximum_intensity": 1,
+      "location": "花蓮縣政府東偏南方 98.1 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20190709023535-4c522901dd5d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-07T17:30:43+08:00",
+      "longitude": 120.79,
+      "latitude": 24.16,
+      "magnitude": 3.3,
+      "depth_km": 26.7,
+      "maximum_intensity": 2,
+      "location": "臺中市政府東偏北方 11.5 公里 (位於臺中市太平區)(臺中市太平區)",
+      "event_id": "cwa-report-20190707173043-d7ed42fee58f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-07T11:51:03+08:00",
+      "longitude": 120.13,
+      "latitude": 23.29,
+      "magnitude": 4,
+      "depth_km": 11.5,
+      "maximum_intensity": 3,
+      "location": "臺南市政府北方 33.8 公里 (位於臺南市北門區)(臺南市北門區)",
+      "event_id": "cwa-report-20190707115103-bd1e695cdcad"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-04T18:10:27+08:00",
+      "longitude": 121.61,
+      "latitude": 23.98,
+      "magnitude": 4,
+      "depth_km": 44.5,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府南偏西方 1.8 公里 (位於花蓮縣花蓮市)(花蓮縣花蓮市)",
+      "event_id": "cwa-report-20190704181027-b08a66a5c31f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-04T07:06:00+08:00",
+      "longitude": 121.04,
+      "latitude": 24.66,
+      "magnitude": 2.5,
+      "depth_km": 7.3,
+      "maximum_intensity": 2,
+      "location": "新竹縣政府南方 18.4 公里 (位於新竹縣北埔鄉)(新竹縣北埔鄉)",
+      "event_id": "cwa-report-20190704070600-d3ffa3b2aff3"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2019-07-03T22:47:03+08:00",
+      "longitude": 121.49,
+      "latitude": 24.02,
+      "magnitude": 3.3,
+      "depth_km": 20.5,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西偏北方 13.5 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20190703224703-b7a5ce166de3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "034",
+      "origin_time": "1999-07-23T22:30:25+08:00",
+      "longitude": 120.51,
+      "latitude": 23.39,
+      "magnitude": 4,
+      "depth_km": 7,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站東南方 14.0 公里(嘉義市地震站東南方 14.0 公里)",
+      "event_id": "cwa-report-19990723223025-961968af8007"
+    },
+    {
+      "report_number": "033",
+      "origin_time": "1999-07-17T23:38:48+08:00",
+      "longitude": 121.76,
+      "latitude": 24.33,
+      "magnitude": 4.4,
+      "depth_km": 53.5,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站南方 10.3 公里(宜蘭南澳地震站南方 10.3 公里)",
+      "event_id": "cwa-report-19990717233848-0c33cde948d0"
+    },
+    {
+      "report_number": "032",
+      "origin_time": "1999-07-12T04:25:10+08:00",
+      "longitude": 121.84,
+      "latitude": 24.61,
+      "magnitude": 5.1,
+      "depth_km": 73.2,
+      "maximum_intensity": 4,
+      "location": "宜蘭蘇澳地震站西方 1.7 公里(宜蘭蘇澳地震站西方 1.7 公里)",
+      "event_id": "cwa-report-19990712042510-128bcebdf17d"
+    },
+    {
+      "report_number": "031",
+      "origin_time": "1999-07-09T09:36:51+08:00",
+      "longitude": 120.75,
+      "latitude": 23.32,
+      "magnitude": 4.5,
+      "depth_km": 9.7,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東偏北方 15.5 公里(嘉義大埔地震站東偏北方 15.5 公里)",
+      "event_id": "cwa-report-19990709093651-821a4347b0ce"
+    },
+    {
+      "report_number": "030",
+      "origin_time": "1999-07-07T21:53:13+08:00",
+      "longitude": 120.74,
+      "latitude": 23.32,
+      "magnitude": 5.1,
+      "depth_km": 13.8,
+      "maximum_intensity": 5,
+      "location": "嘉義大埔地震站東偏北方 14.2 公里(嘉義大埔地震站東偏北方 14.2 公里)",
+      "event_id": "cwa-report-19990707215313-8b064fd6f7a3"
+    },
+    {
+      "report_number": "029",
+      "origin_time": "1999-07-06T11:06:01+08:00",
+      "longitude": 121.58,
+      "latitude": 24.02,
+      "magnitude": 4.1,
+      "depth_km": 17.6,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站西北方 5.8 公里(花蓮市地震站西北方 5.8 公里)",
+      "event_id": "cwa-report-19990706110601-4f26b54a318f"
+    }
+  ]
+}

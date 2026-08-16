@@ -1,0 +1,213 @@
+{
+  "records": [
+    {
+      "report_number": "084",
+      "origin_time": "2006-09-30T14:49:28+08:00",
+      "longitude": 122.45,
+      "latitude": 24.5,
+      "magnitude": 4.9,
+      "depth_km": 88.4,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東方 61.1 公里(宜蘭蘇澳地震站東方 61.1 公里)",
+      "event_id": "cwa-report-20060930144928-53d8dbd1a487"
+    },
+    {
+      "report_number": "083",
+      "origin_time": "2006-09-27T14:13:05+08:00",
+      "longitude": 120.48,
+      "latitude": 23.67,
+      "magnitude": 3.7,
+      "depth_km": 8.1,
+      "maximum_intensity": 4,
+      "location": "斗六市地震站西南方 7.6 公里(斗六市地震站西南方 7.6 公里)",
+      "event_id": "cwa-report-20060927141305-8f3ca3c4ea28"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-21T17:27:41+08:00",
+      "longitude": 121.67,
+      "latitude": 24.12,
+      "magnitude": 3.6,
+      "depth_km": 9.7,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東偏北方 8.0 公里(花蓮秀林地震站東偏北方 8.0 公里)",
+      "event_id": "cwa-report-20060921172741-36dadaebb444"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-21T16:56:19+08:00",
+      "longitude": 120.65,
+      "latitude": 23.42,
+      "magnitude": 3.3,
+      "depth_km": 6.4,
+      "maximum_intensity": 1,
+      "location": "嘉義大埔地震站北方 19.7 公里(嘉義大埔地震站北方 19.7 公里)",
+      "event_id": "cwa-report-20060921165619-808cd87be8e3"
+    },
+    {
+      "report_number": "082",
+      "origin_time": "2006-09-19T21:00:06+08:00",
+      "longitude": 121.21,
+      "latitude": 24.71,
+      "magnitude": 3.7,
+      "depth_km": 8.3,
+      "maximum_intensity": 2,
+      "location": "桃園三光地震站西偏北方 16.5 公里(桃園三光地震站西偏北方 16.5 公里)",
+      "event_id": "cwa-report-20060919210006-abc9d2b05f1c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-19T04:15:00+08:00",
+      "longitude": 121.38,
+      "latitude": 22.43,
+      "magnitude": 4.2,
+      "depth_km": 19.9,
+      "maximum_intensity": 2,
+      "location": "台東市地震站東南方 42.9 公里(台東市地震站東南方 42.9 公里)",
+      "event_id": "cwa-report-20060919041500-8657e3533766"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-18T13:32:26+08:00",
+      "longitude": 122.12,
+      "latitude": 24.48,
+      "magnitude": 4.4,
+      "depth_km": 49.3,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東偏南方 30.3 公里(宜蘭蘇澳地震站東偏南方 30.3 公里)",
+      "event_id": "cwa-report-20060918133226-78f80b231669"
+    },
+    {
+      "report_number": "081",
+      "origin_time": "2006-09-16T04:54:36+08:00",
+      "longitude": 121.57,
+      "latitude": 24.15,
+      "magnitude": 4.1,
+      "depth_km": 21.8,
+      "maximum_intensity": 5,
+      "location": "花蓮秀林地震站北偏西方 8.4 公里(花蓮秀林地震站北偏西方 8.4 公里)",
+      "event_id": "cwa-report-20060916045436-68e02e88a722"
+    },
+    {
+      "report_number": "080",
+      "origin_time": "2006-09-15T04:47:34+08:00",
+      "longitude": 121.99,
+      "latitude": 24.93,
+      "magnitude": 4.8,
+      "depth_km": 113,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東北方 30.3 公里(宜蘭市地震站東北方 30.3 公里)",
+      "event_id": "cwa-report-20060915044734-70dcc545221c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-15T02:10:31+08:00",
+      "longitude": 120.14,
+      "latitude": 22.37,
+      "magnitude": 3.7,
+      "depth_km": 32,
+      "maximum_intensity": 2,
+      "location": "高雄市地震站西南方 28.7 公里(高雄市地震站西南方 28.7 公里)",
+      "event_id": "cwa-report-20060915021031-a2f551e96cb2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-14T07:52:47+08:00",
+      "longitude": 121.79,
+      "latitude": 24.26,
+      "magnitude": 3.9,
+      "depth_km": 66.2,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站南偏東方 18.7 公里(宜蘭南澳地震站南偏東方 18.7 公里)",
+      "event_id": "cwa-report-20060914075247-07bc516dc36e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-13T03:07:48+08:00",
+      "longitude": 121.8,
+      "latitude": 23.87,
+      "magnitude": 3.8,
+      "depth_km": 44.6,
+      "maximum_intensity": 1,
+      "location": "花蓮市地震站東偏南方 22.2 公里(花蓮市地震站東偏南方 22.2 公里)",
+      "event_id": "cwa-report-20060913030748-b2b77656e052"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-12T07:35:08+08:00",
+      "longitude": 120.42,
+      "latitude": 23.54,
+      "magnitude": 2.8,
+      "depth_km": 8,
+      "maximum_intensity": 2,
+      "location": "嘉義市地震站北偏西方 5.6 公里(嘉義市地震站北偏西方 5.6 公里)",
+      "event_id": "cwa-report-20060912073508-9f97d8c31517"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-10T13:34:05+08:00",
+      "longitude": 120.64,
+      "latitude": 22.85,
+      "magnitude": 4.1,
+      "depth_km": 18.6,
+      "maximum_intensity": 3,
+      "location": "高雄旗山地震站東方 22.0 公里(高雄旗山地震站東方 22.0 公里)",
+      "event_id": "cwa-report-20060910133405-9b02e6a2961a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-07T19:54:34+08:00",
+      "longitude": 121.42,
+      "latitude": 24.44,
+      "magnitude": 3.3,
+      "depth_km": 4.8,
+      "maximum_intensity": 5,
+      "location": "桃園三光地震站南偏東方 26.3 公里(桃園三光地震站南偏東方 26.3 公里)",
+      "event_id": "cwa-report-20060907195434-8d25e9f2e153"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-07T07:22:51+08:00",
+      "longitude": 121.46,
+      "latitude": 23.92,
+      "magnitude": 3,
+      "depth_km": 17.3,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站北方 12.7 公里(花蓮西林地震站北方 12.7 公里)",
+      "event_id": "cwa-report-20060907072251-4ccc7eb4af5a"
+    },
+    {
+      "report_number": "079",
+      "origin_time": "2006-09-07T06:24:41+08:00",
+      "longitude": 121.76,
+      "latitude": 24.26,
+      "magnitude": 3.5,
+      "depth_km": 15.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站南方 18.6 公里(宜蘭南澳地震站南方 18.6 公里)",
+      "event_id": "cwa-report-20060907062441-a236644e6806"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-03T00:17:51+08:00",
+      "longitude": 121.41,
+      "latitude": 24.44,
+      "magnitude": 3.3,
+      "depth_km": 5.2,
+      "maximum_intensity": 4,
+      "location": "桃園三光地震站南方 26.8 公里(桃園三光地震站南方 26.8 公里)",
+      "event_id": "cwa-report-20060903001751-dd99c3983831"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-09-01T11:20:27+08:00",
+      "longitude": 121.54,
+      "latitude": 23.96,
+      "magnitude": 3.4,
+      "depth_km": 29.4,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站西偏南 7.3 公里(花蓮市地震站西偏南 7.3 公里)",
+      "event_id": "cwa-report-20060901112027-1c6bcfa3bdff"
+    }
+  ]
+}

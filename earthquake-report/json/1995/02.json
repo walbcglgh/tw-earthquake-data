@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "010",
+      "origin_time": "1995-02-26T16:08:18+08:00",
+      "longitude": 121.46,
+      "latitude": 23.06,
+      "magnitude": 4.9,
+      "depth_km": 16.5,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東偏南方 10.2 公里(台東成功地震站東偏南方 10.2 公里)",
+      "event_id": "cwa-report-19950226160818-21c8c2dd90f5"
+    },
+    {
+      "report_number": "009",
+      "origin_time": "1995-02-24T11:12:00+08:00",
+      "longitude": 120.23,
+      "latitude": 23.06,
+      "magnitude": 4,
+      "depth_km": 12.1,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北偏東方 8.7 公里(台南市地震站北偏東方 8.7 公里)",
+      "event_id": "cwa-report-19950224111200-1acbe3d5c61a"
+    },
+    {
+      "report_number": "008",
+      "origin_time": "1995-02-24T09:00:46+08:00",
+      "longitude": 121.7,
+      "latitude": 24.26,
+      "magnitude": 4.4,
+      "depth_km": 25.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站南偏西方 19.2 公里(宜蘭南澳地震站南偏西方 19.2 公里)",
+      "event_id": "cwa-report-19950224090046-cfee8eef3ad2"
+    },
+    {
+      "report_number": "007",
+      "origin_time": "1995-02-23T13:19:02+08:00",
+      "longitude": 121.69,
+      "latitude": 24.2,
+      "magnitude": 5.8,
+      "depth_km": 21.7,
+      "maximum_intensity": 5,
+      "location": "花蓮秀林地震站東北方 16.0 公里(花蓮秀林地震站東北方 16.0 公里)",
+      "event_id": "cwa-report-19950223131902-29e01e328b58"
+    },
+    {
+      "report_number": "006",
+      "origin_time": "1995-02-20T10:44:26+08:00",
+      "longitude": 121.74,
+      "latitude": 24.03,
+      "magnitude": 4.7,
+      "depth_km": 27,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東偏北方 13.8 公里(花蓮市地震站東偏北方 13.8 公里)",
+      "event_id": "cwa-report-19950220104426-f7ad23776200"
+    },
+    {
+      "report_number": "005",
+      "origin_time": "1995-02-10T10:21:59+08:00",
+      "longitude": 121.92,
+      "latitude": 23.76,
+      "magnitude": 5.2,
+      "depth_km": 24.6,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東南方 39.2 公里(花蓮市地震站東南方 39.2 公里)",
+      "event_id": "cwa-report-19950210102159-477ae05aa46e"
+    }
+  ]
+}

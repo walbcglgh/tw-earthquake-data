@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "report_number": "052",
+      "origin_time": "1997-10-30T07:18:37+08:00",
+      "longitude": 120.6,
+      "latitude": 23.63,
+      "magnitude": 4.3,
+      "depth_km": 11.3,
+      "maximum_intensity": 5,
+      "location": "斗六市地震站東南方 11.5 公里(斗六市地震站東南方 11.5 公里)",
+      "event_id": "cwa-report-19971030071837-5fb949c56db0"
+    },
+    {
+      "report_number": "051",
+      "origin_time": "1997-10-23T03:01:47+08:00",
+      "longitude": 121.88,
+      "latitude": 24.13,
+      "magnitude": 4.5,
+      "depth_km": 51.9,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站東方 28.3 公里(花蓮秀林地震站東方 28.3 公里)",
+      "event_id": "cwa-report-19971023030147-b8e4d7e0b986"
+    },
+    {
+      "report_number": "050",
+      "origin_time": "1997-10-22T19:16:26+08:00",
+      "longitude": 121.46,
+      "latitude": 22.44,
+      "magnitude": 5.3,
+      "depth_km": 10.2,
+      "maximum_intensity": 2,
+      "location": "台東蘭嶼地震站北偏西方 46.2 公里(台東蘭嶼地震站北偏西方 46.2 公里)",
+      "event_id": "cwa-report-19971022191626-6bd6d44a3840"
+    },
+    {
+      "report_number": "049",
+      "origin_time": "1997-10-17T21:14:16+08:00",
+      "longitude": 121.43,
+      "latitude": 22.82,
+      "magnitude": 4.7,
+      "depth_km": 25.6,
+      "maximum_intensity": 2,
+      "location": "台東市地震站東偏北方 29.2 公里(台東市地震站東偏北方 29.2 公里)",
+      "event_id": "cwa-report-19971017211416-d2ab2873ace8"
+    },
+    {
+      "report_number": "048",
+      "origin_time": "1997-10-16T06:28:55+08:00",
+      "longitude": 121.64,
+      "latitude": 24.13,
+      "magnitude": 4.4,
+      "depth_km": 7.9,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站東北方 7.2 公里(花蓮秀林地震站東北方 7.2 公里)",
+      "event_id": "cwa-report-19971016062855-2908e9966665"
+    },
+    {
+      "report_number": "047",
+      "origin_time": "1997-10-12T02:24:25+08:00",
+      "longitude": 122.58,
+      "latitude": 24.98,
+      "magnitude": 6.1,
+      "depth_km": 146.4,
+      "maximum_intensity": 3,
+      "location": "基隆市地震站東偏南方 83.1 公里(基隆市地震站東偏南方 83.1 公里)",
+      "event_id": "cwa-report-19971012022425-518732390317"
+    },
+    {
+      "report_number": "046",
+      "origin_time": "1997-10-03T04:47:45+08:00",
+      "longitude": 120.7,
+      "latitude": 23.45,
+      "magnitude": 4.5,
+      "depth_km": 2.6,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站北偏東方 24.1 公里(嘉義大埔地震站北偏東方 24.1 公里)",
+      "event_id": "cwa-report-19971003044745-4c845a48fd9d"
+    }
+  ]
+}

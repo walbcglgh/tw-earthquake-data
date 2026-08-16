@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "report_number": "033",
+      "origin_time": "1995-05-31T22:09:30+08:00",
+      "longitude": 121.88,
+      "latitude": 24.44,
+      "magnitude": 4.8,
+      "depth_km": 37.3,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東方 13.1 公里(宜蘭南澳地震站東方 13.1 公里)",
+      "event_id": "cwa-report-19950531220930-d549c60b4d10"
+    },
+    {
+      "report_number": "032",
+      "origin_time": "1995-05-31T02:42:43+08:00",
+      "longitude": 121.89,
+      "latitude": 24.44,
+      "magnitude": 4.3,
+      "depth_km": 13.8,
+      "maximum_intensity": 5,
+      "location": "宜蘭南澳地震站東方 14.7 公里(宜蘭南澳地震站東方 14.7 公里)",
+      "event_id": "cwa-report-19950531024243-b97a10e3c3bc"
+    },
+    {
+      "report_number": "031",
+      "origin_time": "1995-05-28T17:58:09+08:00",
+      "longitude": 121.24,
+      "latitude": 23.1,
+      "magnitude": 4.4,
+      "depth_km": 3.7,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西方 13.5 公里(台東成功地震站西方 13.5 公里)",
+      "event_id": "cwa-report-19950528175809-8ed33f915682"
+    },
+    {
+      "report_number": "030",
+      "origin_time": "1995-05-28T02:11:11+08:00",
+      "longitude": 121.46,
+      "latitude": 23.01,
+      "magnitude": 5.3,
+      "depth_km": 19.7,
+      "maximum_intensity": 5,
+      "location": "台東成功地震站東南方 13.7 公里(台東成功地震站東南方 13.7 公里)",
+      "event_id": "cwa-report-19950528021111-268268aaa36c"
+    },
+    {
+      "report_number": "029",
+      "origin_time": "1995-05-16T02:58:38+08:00",
+      "longitude": 122.36,
+      "latitude": 24.74,
+      "magnitude": 5.4,
+      "depth_km": 79.4,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東偏北方 53.0 公里(宜蘭蘇澳地震站東偏北方 53.0 公里)",
+      "event_id": "cwa-report-19950516025838-ac3cbf9316b6"
+    },
+    {
+      "report_number": "028",
+      "origin_time": "1995-05-14T19:41:30+08:00",
+      "longitude": 120.23,
+      "latitude": 23.06,
+      "magnitude": 3.9,
+      "depth_km": 15.5,
+      "maximum_intensity": 3,
+      "location": "台南市地震站北偏東方 8.6 公里(台南市地震站北偏東方 8.6 公里)",
+      "event_id": "cwa-report-19950514194130-191dd83d0352"
+    },
+    {
+      "report_number": "027",
+      "origin_time": "1995-05-09T17:36:36+08:00",
+      "longitude": 121.61,
+      "latitude": 23.53,
+      "magnitude": 4.6,
+      "depth_km": 22.9,
+      "maximum_intensity": 2,
+      "location": "花蓮西林地震站南偏東方 36.0 公里(花蓮西林地震站南偏東方 36.0 公里)",
+      "event_id": "cwa-report-19950509173636-46382425b737"
+    },
+    {
+      "report_number": "026",
+      "origin_time": "1995-05-09T09:03:50+08:00",
+      "longitude": 121.47,
+      "latitude": 22.98,
+      "magnitude": 4.9,
+      "depth_km": 23,
+      "maximum_intensity": 5,
+      "location": "台東成功地震站東南方 16.6 公里(台東成功地震站東南方 16.6 公里)",
+      "event_id": "cwa-report-19950509090350-4b612b6f87c1"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "1995-05-03T06:48:20+08:00",
+      "longitude": 121.97,
+      "latitude": 23.83,
+      "magnitude": 5.2,
+      "depth_km": 23.9,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東偏南方 39.8 公里(花蓮市地震站東偏南方 39.8 公里)",
+      "event_id": "cwa-report-19950503064820-79bf2bd2af3b"
+    },
+    {
+      "report_number": "024",
+      "origin_time": "1995-05-02T14:17:21+08:00",
+      "longitude": 121.63,
+      "latitude": 24.01,
+      "magnitude": 4.6,
+      "depth_km": 8.9,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站北偏東方 4.6 公里(花蓮市地震站北偏東方 4.6 公里)",
+      "event_id": "cwa-report-19950502141721-94d3ed3ddf66"
+    },
+    {
+      "report_number": "023",
+      "origin_time": "1995-05-01T22:50:45+08:00",
+      "longitude": 121.65,
+      "latitude": 24.04,
+      "magnitude": 4.9,
+      "depth_km": 2.2,
+      "maximum_intensity": 4,
+      "location": "花蓮秀林地震站東南方 6.3 公里(花蓮秀林地震站東南方 6.3 公里)",
+      "event_id": "cwa-report-19950501225045-3c6ae588bf99"
+    },
+    {
+      "report_number": "022",
+      "origin_time": "1995-05-01T17:55:44+08:00",
+      "longitude": 121.63,
+      "latitude": 24.01,
+      "magnitude": 4,
+      "depth_km": 8.7,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站北偏東方 4.6 公里(花蓮市地震站北偏東方 4.6 公里)",
+      "event_id": "cwa-report-19950501175544-2cbe1bc7dd7a"
+    }
+  ]
+}

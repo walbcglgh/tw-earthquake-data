@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "report_number": "037",
+      "origin_time": "1997-07-15T19:05:33+08:00",
+      "longitude": 122.52,
+      "latitude": 24.62,
+      "magnitude": 6.1,
+      "depth_km": 86.6,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東方 66.5 公里(宜蘭蘇澳地震站東方 66.5 公里)",
+      "event_id": "cwa-report-19970715190533-43575a4325b4"
+    },
+    {
+      "report_number": "036",
+      "origin_time": "1997-07-10T16:19:53+08:00",
+      "longitude": 121.62,
+      "latitude": 21.79,
+      "magnitude": 4.9,
+      "depth_km": 4.7,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站南偏東方 28.3 公里(台東蘭嶼地震站南偏東方 28.3 公里)",
+      "event_id": "cwa-report-19970710161953-a19fbbfb5d57"
+    },
+    {
+      "report_number": "035",
+      "origin_time": "1997-07-05T02:37:30+08:00",
+      "longitude": 120.79,
+      "latitude": 23.06,
+      "magnitude": 5.2,
+      "depth_km": 5.2,
+      "maximum_intensity": 3,
+      "location": "高雄桃源地震站南偏東方 11.8 公里(高雄桃源地震站南偏東方 11.8 公里)",
+      "event_id": "cwa-report-19970705023730-7ea8e90a29c9"
+    }
+  ]
+}

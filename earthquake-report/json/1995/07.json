@@ -1,0 +1,81 @@
+{
+  "records": [
+    {
+      "report_number": "044",
+      "origin_time": "1995-07-28T16:00:31+08:00",
+      "longitude": 121.96,
+      "latitude": 24.71,
+      "magnitude": 4.7,
+      "depth_km": 71.5,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東北方 15.3 公里(宜蘭蘇澳地震站東北方 15.3 公里)",
+      "event_id": "cwa-report-19950728160031-573f3cf6354e"
+    },
+    {
+      "report_number": "043",
+      "origin_time": "1995-07-24T15:02:31+08:00",
+      "longitude": 121.83,
+      "latitude": 24.31,
+      "magnitude": 4.5,
+      "depth_km": 9.2,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東南方 14.7 公里(宜蘭南澳地震站東南方 14.7 公里)",
+      "event_id": "cwa-report-19950724150231-1c1dac269696"
+    },
+    {
+      "report_number": "042",
+      "origin_time": "1995-07-15T01:40:48+08:00",
+      "longitude": 121.84,
+      "latitude": 24.32,
+      "magnitude": 4.9,
+      "depth_km": 8.6,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東南方 15.1 公里(宜蘭南澳地震站東南方 15.1 公里)",
+      "event_id": "cwa-report-19950715014048-ec6d2b2f1a26"
+    },
+    {
+      "report_number": "041",
+      "origin_time": "1995-07-15T00:52:46+08:00",
+      "longitude": 121.85,
+      "latitude": 24.32,
+      "magnitude": 5.8,
+      "depth_km": 8.8,
+      "maximum_intensity": 5,
+      "location": "宜蘭南澳地震站東南方 15.6 公里(宜蘭南澳地震站東南方 15.6 公里)",
+      "event_id": "cwa-report-19950715005246-d2d3a11fa04b"
+    },
+    {
+      "report_number": "040",
+      "origin_time": "1995-07-07T16:46:09+08:00",
+      "longitude": 121.7,
+      "latitude": 24.62,
+      "magnitude": 4.6,
+      "depth_km": 44.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭牛鬥地震站東方 13.0 公里(宜蘭牛鬥地震站東方 13.0 公里)",
+      "event_id": "cwa-report-19950707164609-e3c4685e5097"
+    },
+    {
+      "report_number": "039",
+      "origin_time": "1995-07-07T11:04:48+08:00",
+      "longitude": 121.09,
+      "latitude": 23.89,
+      "magnitude": 5.3,
+      "depth_km": 13.1,
+      "maximum_intensity": 5,
+      "location": "花蓮西林地震站西偏北方 36.9 公里(花蓮西林地震站西偏北方 36.9 公里)",
+      "event_id": "cwa-report-19950707110448-af2f35f165a9"
+    },
+    {
+      "report_number": "038",
+      "origin_time": "1995-07-06T01:33:48+08:00",
+      "longitude": 122.12,
+      "latitude": 24.83,
+      "magnitude": 4.6,
+      "depth_km": 8.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東北方 35.9 公里(宜蘭蘇澳地震站東北方 35.9 公里)",
+      "event_id": "cwa-report-19950706013348-230bcf50966b"
+    }
+  ]
+}

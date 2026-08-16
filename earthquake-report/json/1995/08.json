@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "report_number": "046",
+      "origin_time": "1995-08-20T17:25:03+08:00",
+      "longitude": 121.58,
+      "latitude": 24.69,
+      "magnitude": 4.9,
+      "depth_km": 56.9,
+      "maximum_intensity": 4,
+      "location": "宜蘭牛鬥地震站北方 6.1 公里(宜蘭牛鬥地震站北方 6.1 公里)",
+      "event_id": "cwa-report-19950820172503-ce89150937ce"
+    },
+    {
+      "report_number": "045",
+      "origin_time": "1995-08-07T19:59:19+08:00",
+      "longitude": 121.87,
+      "latitude": 24.88,
+      "magnitude": 4.8,
+      "depth_km": 115.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東北方 17.9 公里(宜蘭市地震站東北方 17.9 公里)",
+      "event_id": "cwa-report-19950807195919-ea9e3a705e3a"
+    }
+  ]
+}

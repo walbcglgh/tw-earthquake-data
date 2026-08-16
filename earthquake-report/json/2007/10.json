@@ -1,0 +1,323 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-30T17:01:49+08:00",
+      "longitude": 120.55,
+      "latitude": 23.01,
+      "magnitude": 3.8,
+      "depth_km": 19.1,
+      "maximum_intensity": 2,
+      "location": "高雄甲仙地震站南偏西方 8.6 公里(高雄甲仙地震站南偏西方 8.6 公里)",
+      "event_id": "cwa-report-20071030170149-65338348e29f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-29T17:31:53+08:00",
+      "longitude": 122.04,
+      "latitude": 24.81,
+      "magnitude": 3.7,
+      "depth_km": 12.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東北方 29.1 公里(宜蘭蘇澳地震站東北方 29.1 公里)",
+      "event_id": "cwa-report-20071029173153-b510b8051df7"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-29T13:01:48+08:00",
+      "longitude": 121.08,
+      "latitude": 22.91,
+      "magnitude": 3.9,
+      "depth_km": 10.8,
+      "maximum_intensity": 2,
+      "location": "台東市地震站北偏西方 19.5 公里(台東市地震站北偏西方 19.5 公里)",
+      "event_id": "cwa-report-20071029130148-6d2b7603a6f8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-29T08:58:54+08:00",
+      "longitude": 120.28,
+      "latitude": 23.39,
+      "magnitude": 3.6,
+      "depth_km": 6.2,
+      "maximum_intensity": 1,
+      "location": "嘉義市地震站西南方 19.5 公里(嘉義市地震站西南方 19.5 公里)",
+      "event_id": "cwa-report-20071029085854-2c5b682699f6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-29T01:30:36+08:00",
+      "longitude": 121.64,
+      "latitude": 24.04,
+      "magnitude": 3.7,
+      "depth_km": 33.8,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東南方 6.0 公里(花蓮秀林地震站東南方 6.0 公里)",
+      "event_id": "cwa-report-20071029013036-b78ba0514da0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-27T13:40:09+08:00",
+      "longitude": 121.66,
+      "latitude": 24.01,
+      "magnitude": 3.9,
+      "depth_km": 36.2,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站東北方 6.2 公里(花蓮市地震站東北方 6.2 公里)",
+      "event_id": "cwa-report-20071027134009-1748420bae12"
+    },
+    {
+      "report_number": "071",
+      "origin_time": "2007-10-27T11:01:14+08:00",
+      "longitude": 121.49,
+      "latitude": 24.06,
+      "magnitude": 3.8,
+      "depth_km": 21,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西方 11.7 公里(花蓮秀林地震站西方 11.7 公里)",
+      "event_id": "cwa-report-20071027110114-e453caf01511"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-25T14:50:54+08:00",
+      "longitude": 121.8,
+      "latitude": 24.44,
+      "magnitude": 2.9,
+      "depth_km": 20.2,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 5.5 公里(宜蘭南澳地震站東偏北方 5.5 公里)",
+      "event_id": "cwa-report-20071025145054-10ca376cb68c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-23T01:19:42+08:00",
+      "longitude": 121.87,
+      "latitude": 24.47,
+      "magnitude": 3.5,
+      "depth_km": 16.9,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東偏北方 12.7 公里(宜蘭南澳地震站東偏北方 12.7 公里)",
+      "event_id": "cwa-report-20071023011942-e23a4980be7a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-22T03:57:39+08:00",
+      "longitude": 120.63,
+      "latitude": 22.96,
+      "magnitude": 4.1,
+      "depth_km": 17.8,
+      "maximum_intensity": 2,
+      "location": "高雄甲仙地震站南偏東方 13.8 公里(高雄甲仙地震站南偏東方 13.8 公里)",
+      "event_id": "cwa-report-20071022035739-6ca9a8a45365"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-20T01:04:51+08:00",
+      "longitude": 121.41,
+      "latitude": 23.63,
+      "magnitude": 3.4,
+      "depth_km": 9.4,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站南方 20.1 公里(花蓮西林地震站南方 20.1 公里)",
+      "event_id": "cwa-report-20071020010451-52453492ee21"
+    },
+    {
+      "report_number": "070",
+      "origin_time": "2007-10-19T22:25:20+08:00",
+      "longitude": 120.63,
+      "latitude": 22.96,
+      "magnitude": 4.3,
+      "depth_km": 18.7,
+      "maximum_intensity": 3,
+      "location": "高雄甲仙地震站南偏東方 14.1 公里(高雄甲仙地震站南偏東方 14.1 公里)",
+      "event_id": "cwa-report-20071019222520-b76ef6c7d5e0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-19T07:27:38+08:00",
+      "longitude": 121.66,
+      "latitude": 23.76,
+      "magnitude": 3.9,
+      "depth_km": 38.5,
+      "maximum_intensity": 2,
+      "location": "花蓮西林地震站東偏南方 23.4 公里(花蓮西林地震站東偏南方 23.4 公里)",
+      "event_id": "cwa-report-20071019072738-11d3fca59b7e"
+    },
+    {
+      "report_number": "069",
+      "origin_time": "2007-10-19T02:34:23+08:00",
+      "longitude": 121.87,
+      "latitude": 24.47,
+      "magnitude": 3.7,
+      "depth_km": 16.7,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東偏北方 13.1 公里(宜蘭南澳地震站東偏北方 13.1 公里)",
+      "event_id": "cwa-report-20071019023423-df601422400c"
+    },
+    {
+      "report_number": "068",
+      "origin_time": "2007-10-19T02:24:28+08:00",
+      "longitude": 121.86,
+      "latitude": 24.47,
+      "magnitude": 3.9,
+      "depth_km": 17.6,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東偏北方 12.3 公里(宜蘭南澳地震站東偏北方 12.3 公里)",
+      "event_id": "cwa-report-20071019022428-523edd324fe6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-18T10:27:38+08:00",
+      "longitude": 121.6,
+      "latitude": 23.56,
+      "magnitude": 3.7,
+      "depth_km": 27.8,
+      "maximum_intensity": 2,
+      "location": "花蓮西林地震站南偏東方 31.9 公里(花蓮西林地震站南偏東方 31.9 公里)",
+      "event_id": "cwa-report-20071018102738-1dacdf9818ed"
+    },
+    {
+      "report_number": "067",
+      "origin_time": "2007-10-17T22:40:00+08:00",
+      "longitude": 121.61,
+      "latitude": 23.5,
+      "magnitude": 5.4,
+      "depth_km": 42.1,
+      "maximum_intensity": 4,
+      "location": "花蓮玉里地震站東偏北方 35.5 公里(花蓮玉里地震站東偏北方 35.5 公里)",
+      "event_id": "cwa-report-20071017224000-a190d25f9e3a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-16T10:14:57+08:00",
+      "longitude": 121.44,
+      "latitude": 22.08,
+      "magnitude": 2.8,
+      "depth_km": 5.6,
+      "maximum_intensity": 3,
+      "location": "台東蘭嶼地震站西偏北方 13.1 公里(台東蘭嶼地震站西偏北方 13.1 公里)",
+      "event_id": "cwa-report-20071016101457-8fb99a214cb7"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-14T22:23:58+08:00",
+      "longitude": 121.33,
+      "latitude": 24.39,
+      "magnitude": 3.6,
+      "depth_km": 10.2,
+      "maximum_intensity": 4,
+      "location": "台中德基地震站東北方 23.2 公里(台中德基地震站東北方 23.2 公里)",
+      "event_id": "cwa-report-20071014222358-516ed332d61a"
+    },
+    {
+      "report_number": "066",
+      "origin_time": "2007-10-11T11:05:01+08:00",
+      "longitude": 121.85,
+      "latitude": 24.75,
+      "magnitude": 5.2,
+      "depth_km": 80,
+      "maximum_intensity": 4,
+      "location": "宜蘭市地震站東方 9.7 公里(宜蘭市地震站東方 9.7 公里)",
+      "event_id": "cwa-report-20071011110501-436b912f63c0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-08T20:26:54+08:00",
+      "longitude": 120.16,
+      "latitude": 22.39,
+      "magnitude": 3.4,
+      "depth_km": 33.1,
+      "maximum_intensity": 1,
+      "location": "高雄市地震站西南方 24.7 公里(高雄市地震站西南方 24.7 公里)",
+      "event_id": "cwa-report-20071008202654-ee2c690a9b64"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-08T17:48:51+08:00",
+      "longitude": 121.3,
+      "latitude": 22.99,
+      "magnitude": 4,
+      "depth_km": 40.6,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站南偏西方 14.4 公里(台東成功地震站南偏西方 14.4 公里)",
+      "event_id": "cwa-report-20071008174851-808b19af3089"
+    },
+    {
+      "report_number": "065",
+      "origin_time": "2007-10-08T08:01:38+08:00",
+      "longitude": 121.62,
+      "latitude": 24.33,
+      "magnitude": 3.6,
+      "depth_km": 24,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站西南方 17.3 公里(宜蘭南澳地震站西南方 17.3 公里)",
+      "event_id": "cwa-report-20071008080138-feff81ba2b12"
+    },
+    {
+      "report_number": "064",
+      "origin_time": "2007-10-08T07:45:56+08:00",
+      "longitude": 121.62,
+      "latitude": 24.33,
+      "magnitude": 3.7,
+      "depth_km": 25.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站西南方 16.8 公里(宜蘭南澳地震站西南方 16.8 公里)",
+      "event_id": "cwa-report-20071008074556-a5b418bbd132"
+    },
+    {
+      "report_number": "063",
+      "origin_time": "2007-10-07T15:39:15+08:00",
+      "longitude": 122.48,
+      "latitude": 24.6,
+      "magnitude": 5.1,
+      "depth_km": 98.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東方 62.5 公里(宜蘭蘇澳地震站東方 62.5 公里)",
+      "event_id": "cwa-report-20071007153915-b1fef35a3738"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-06T00:08:01+08:00",
+      "longitude": 120.6,
+      "latitude": 23.57,
+      "magnitude": 2.9,
+      "depth_km": 9.3,
+      "maximum_intensity": 1,
+      "location": "斗六市地震站南偏東方 17.1 公里(斗六市地震站南偏東方 17.1 公里)",
+      "event_id": "cwa-report-20071006000801-de98665c83c6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-05T06:11:56+08:00",
+      "longitude": 121.51,
+      "latitude": 24.04,
+      "magnitude": 2.7,
+      "depth_km": 20.2,
+      "maximum_intensity": 1,
+      "location": "花蓮秀林地震站西偏南 11.0 公里(花蓮秀林地震站西偏南 11.0 公里)",
+      "event_id": "cwa-report-20071005061156-5b44ebcfabd2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-04T08:22:51+08:00",
+      "longitude": 120.75,
+      "latitude": 23.53,
+      "magnitude": 3.4,
+      "depth_km": 6.5,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東南方 29.5 公里(斗六市地震站東南方 29.5 公里)",
+      "event_id": "cwa-report-20071004082251-dd6cd9a74ea5"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2007-10-03T07:12:18+08:00",
+      "longitude": 121.72,
+      "latitude": 24.65,
+      "magnitude": 2.9,
+      "depth_km": 12,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站南偏西方 13.2 公里(宜蘭市地震站南偏西方 13.2 公里)",
+      "event_id": "cwa-report-20071003071218-f3773f2fa29b"
+    }
+  ]
+}

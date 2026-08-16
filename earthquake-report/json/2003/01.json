@@ -1,0 +1,213 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-30T14:20:25+08:00",
+      "longitude": 120.88,
+      "latitude": 23.02,
+      "magnitude": 3.8,
+      "depth_km": 6.9,
+      "maximum_intensity": 1,
+      "location": "高雄桃源地震站東南方 19.0 公里(高雄桃源地震站東南方 19.0 公里)",
+      "event_id": "cwa-report-20030130142025-022b86a83c70"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-27T03:07:12+08:00",
+      "longitude": 120.88,
+      "latitude": 23.03,
+      "magnitude": 4.5,
+      "depth_km": 3.1,
+      "maximum_intensity": 2,
+      "location": "高雄桃源地震站東南方 18.2 公里(高雄桃源地震站東南方 18.2 公里)",
+      "event_id": "cwa-report-20030127030712-163203eba4a8"
+    },
+    {
+      "report_number": "006",
+      "origin_time": "2003-01-27T02:59:22+08:00",
+      "longitude": 120.88,
+      "latitude": 23.04,
+      "magnitude": 4.5,
+      "depth_km": 6.4,
+      "maximum_intensity": 2,
+      "location": "高雄桃源地震站東南方 17.9 公里(高雄桃源地震站東南方 17.9 公里)",
+      "event_id": "cwa-report-20030127025922-708ea63691b0"
+    },
+    {
+      "report_number": "005",
+      "origin_time": "2003-01-22T13:16:39+08:00",
+      "longitude": 120.86,
+      "latitude": 24.38,
+      "magnitude": 3.4,
+      "depth_km": 30.5,
+      "maximum_intensity": 2,
+      "location": "苗栗三義地震站東偏南方 10.0 公里(苗栗三義地震站東偏南方 10.0 公里)",
+      "event_id": "cwa-report-20030122131639-e63951e75e60"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-20T03:46:02+08:00",
+      "longitude": 121.39,
+      "latitude": 23.05,
+      "magnitude": 4.1,
+      "depth_km": 18.3,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站南偏東方 5.0 公里(台東成功地震站南偏東方 5.0 公里)",
+      "event_id": "cwa-report-20030120034602-8f7cc42a0e54"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-19T01:57:09+08:00",
+      "longitude": 121.85,
+      "latitude": 24.3,
+      "magnitude": 3.9,
+      "depth_km": 9.4,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東南方 17.6 公里(宜蘭南澳地震站東南方 17.6 公里)",
+      "event_id": "cwa-report-20030119015709-8b1de0f2370e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-18T18:31:06+08:00",
+      "longitude": 121.92,
+      "latitude": 24.39,
+      "magnitude": 4,
+      "depth_km": 19,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏南方 17.8 公里(宜蘭南澳地震站東偏南方 17.8 公里)",
+      "event_id": "cwa-report-20030118183106-bfcc25eb7e66"
+    },
+    {
+      "report_number": "004",
+      "origin_time": "2003-01-17T21:23:33+08:00",
+      "longitude": 120.57,
+      "latitude": 23.6,
+      "magnitude": 4.7,
+      "depth_km": 9.8,
+      "maximum_intensity": 4,
+      "location": "斗六市地震站南偏東方 13.7 公里(斗六市地震站南偏東方 13.7 公里)",
+      "event_id": "cwa-report-20030117212333-fbcbad3362d9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-16T18:00:49+08:00",
+      "longitude": 120.9,
+      "latitude": 22.79,
+      "magnitude": 3.6,
+      "depth_km": 9.9,
+      "maximum_intensity": 2,
+      "location": "台東市地震站西方 26.4 公里(台東市地震站西方 26.4 公里)",
+      "event_id": "cwa-report-20030116180049-442c2614b47b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-13T15:50:37+08:00",
+      "longitude": 120.57,
+      "latitude": 23.6,
+      "magnitude": 2.9,
+      "depth_km": 11.4,
+      "maximum_intensity": 2,
+      "location": "斗六市地震站南偏東方 13.0 公里(斗六市地震站南偏東方 13.0 公里)",
+      "event_id": "cwa-report-20030113155037-dee19eb8409f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-12T03:21:54+08:00",
+      "longitude": 121.1,
+      "latitude": 24.65,
+      "magnitude": 3.3,
+      "depth_km": 3.8,
+      "maximum_intensity": 1,
+      "location": "新竹竹北地震站南偏東方 21.7 公里(新竹竹北地震站南偏東方 21.7 公里)",
+      "event_id": "cwa-report-20030112032154-5f43b1e6f4fb"
+    },
+    {
+      "report_number": "003",
+      "origin_time": "2003-01-10T12:33:52+08:00",
+      "longitude": 121.61,
+      "latitude": 24.33,
+      "magnitude": 3.2,
+      "depth_km": 21.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站西偏南 17.8 公里(宜蘭南澳地震站西偏南 17.8 公里)",
+      "event_id": "cwa-report-20030110123352-e54616d08b3e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-10T06:46:42+08:00",
+      "longitude": 121.14,
+      "latitude": 24.05,
+      "magnitude": 3.6,
+      "depth_km": 5,
+      "maximum_intensity": 3,
+      "location": "台中德基地震站南方 22.2 公里(台中德基地震站南方 22.2 公里)",
+      "event_id": "cwa-report-20030110064642-0d056696829d"
+    },
+    {
+      "report_number": "002",
+      "origin_time": "2003-01-09T19:25:48+08:00",
+      "longitude": 121.63,
+      "latitude": 24.31,
+      "magnitude": 3.4,
+      "depth_km": 18.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站西南方 18.0 公里(宜蘭南澳地震站西南方 18.0 公里)",
+      "event_id": "cwa-report-20030109192548-2f219999be8e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-07T19:17:59+08:00",
+      "longitude": 121.96,
+      "latitude": 24.41,
+      "magnitude": 4.1,
+      "depth_km": 13,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東方 21.5 公里(宜蘭南澳地震站東方 21.5 公里)",
+      "event_id": "cwa-report-20030107191759-21ced7156f2d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-05T00:41:41+08:00",
+      "longitude": 121.83,
+      "latitude": 24.49,
+      "magnitude": 3,
+      "depth_km": 11.5,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東北方 11.2 公里(宜蘭南澳地震站東北方 11.2 公里)",
+      "event_id": "cwa-report-20030105004141-6cf7f84e817f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-04T06:27:35+08:00",
+      "longitude": 121.93,
+      "latitude": 24.78,
+      "magnitude": 4.6,
+      "depth_km": 13.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東方 17.5 公里(宜蘭市地震站東方 17.5 公里)",
+      "event_id": "cwa-report-20030104062735-d79ddcffb94e"
+    },
+    {
+      "report_number": "001",
+      "origin_time": "2003-01-04T06:27:22+08:00",
+      "longitude": 121.92,
+      "latitude": 24.78,
+      "magnitude": 4.3,
+      "depth_km": 11.6,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東方 16.8 公里(宜蘭市地震站東方 16.8 公里)",
+      "event_id": "cwa-report-20030104062722-572e13cd204b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2003-01-01T00:36:48+08:00",
+      "longitude": 121.04,
+      "latitude": 23.31,
+      "magnitude": 4.1,
+      "depth_km": 3.9,
+      "maximum_intensity": 4,
+      "location": "台東利稻地震站北方 13.7 公里(台東利稻地震站北方 13.7 公里)",
+      "event_id": "cwa-report-20030101003648-fa1a93700535"
+    }
+  ]
+}

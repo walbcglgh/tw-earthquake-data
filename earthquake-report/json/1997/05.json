@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "028",
+      "origin_time": "1997-05-28T22:10:55+08:00",
+      "longitude": 121.93,
+      "latitude": 24.52,
+      "magnitude": 3.7,
+      "depth_km": 9.2,
+      "maximum_intensity": 4,
+      "location": "宜蘭蘇澳地震站東南方 12.0 公里(宜蘭蘇澳地震站東南方 12.0 公里)",
+      "event_id": "cwa-report-19970528221055-e93159117790"
+    },
+    {
+      "report_number": "027",
+      "origin_time": "1997-05-16T19:24:16+08:00",
+      "longitude": 121.95,
+      "latitude": 24.58,
+      "magnitude": 4.2,
+      "depth_km": 10,
+      "maximum_intensity": 4,
+      "location": "宜蘭蘇澳地震站東偏南方 9.9 公里(宜蘭蘇澳地震站東偏南方 9.9 公里)",
+      "event_id": "cwa-report-19970516192416-d60809a41745"
+    },
+    {
+      "report_number": "026",
+      "origin_time": "1997-05-15T18:43:47+08:00",
+      "longitude": 121.93,
+      "latitude": 24.79,
+      "magnitude": 4.9,
+      "depth_km": 93,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東方 18.3 公里(宜蘭市地震站東方 18.3 公里)",
+      "event_id": "cwa-report-19970515184347-ad31ce485ad9"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "1997-05-06T13:14:55+08:00",
+      "longitude": 121.75,
+      "latitude": 24.19,
+      "magnitude": 3.9,
+      "depth_km": 16.4,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站東北方 19.3 公里(花蓮秀林地震站東北方 19.3 公里)",
+      "event_id": "cwa-report-19970506131455-f723b7807ec9"
+    },
+    {
+      "report_number": "024",
+      "origin_time": "1997-05-03T10:46:13+08:00",
+      "longitude": 121.4,
+      "latitude": 22.54,
+      "magnitude": 5.3,
+      "depth_km": 3.6,
+      "maximum_intensity": 2,
+      "location": "台東市地震站東南方 34.9 公里(台東市地震站東南方 34.9 公里)",
+      "event_id": "cwa-report-19970503104613-a993f5715bdf"
+    },
+    {
+      "report_number": "023",
+      "origin_time": "1997-05-03T05:30:23+08:00",
+      "longitude": 120.18,
+      "latitude": 24.19,
+      "magnitude": 4.5,
+      "depth_km": 22.7,
+      "maximum_intensity": 3,
+      "location": "彰化大城地震站北偏西方 37.7 公里(彰化大城地震站北偏西方 37.7 公里)",
+      "event_id": "cwa-report-19970503053023-cda596b0b8f9"
+    }
+  ]
+}

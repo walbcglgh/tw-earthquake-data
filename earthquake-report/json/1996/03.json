@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "report_number": "011",
+      "origin_time": "1996-03-29T11:28:53+08:00",
+      "longitude": 122.33,
+      "latitude": 23.97,
+      "magnitude": 5.6,
+      "depth_km": 5.8,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東方 73.0 公里(花蓮市地震站東方 73.0 公里)",
+      "event_id": "cwa-report-19960329112853-bb0ec5a45112"
+    },
+    {
+      "report_number": "010",
+      "origin_time": "1996-03-19T15:25:02+08:00",
+      "longitude": 122.31,
+      "latitude": 23.91,
+      "magnitude": 5,
+      "depth_km": 1.6,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站東方 71.1 公里(花蓮市地震站東方 71.1 公里)",
+      "event_id": "cwa-report-19960319152502-3191335762a6"
+    },
+    {
+      "report_number": "009",
+      "origin_time": "1996-03-06T01:32:08+08:00",
+      "longitude": 122.3,
+      "latitude": 23.9,
+      "magnitude": 6,
+      "depth_km": 10.8,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東方 70.7 公里(花蓮市地震站東方 70.7 公里)",
+      "event_id": "cwa-report-19960306013208-95616da04fa3"
+    },
+    {
+      "report_number": "008",
+      "origin_time": "1996-03-05T22:52:27+08:00",
+      "longitude": 122.36,
+      "latitude": 23.93,
+      "magnitude": 6.4,
+      "depth_km": 6,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站東方 76.3 公里(花蓮市地震站東方 76.3 公里)",
+      "event_id": "cwa-report-19960305225227-1e0b132628f4"
+    },
+    {
+      "report_number": "007",
+      "origin_time": "1996-03-04T12:28:43+08:00",
+      "longitude": 120.28,
+      "latitude": 23.1,
+      "magnitude": 4,
+      "depth_km": 16.1,
+      "maximum_intensity": 3,
+      "location": "台南佳里地震站東南方 11.9 公里(台南佳里地震站東南方 11.9 公里)",
+      "event_id": "cwa-report-19960304122843-d453cad884de"
+    }
+  ]
+}

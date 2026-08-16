@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "report_number": "064",
+      "origin_time": "1995-11-28T13:24:29+08:00",
+      "longitude": 121.89,
+      "latitude": 24.42,
+      "magnitude": 3.9,
+      "depth_km": 10.1,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東方 14.2 公里(宜蘭南澳地震站東方 14.2 公里)",
+      "event_id": "cwa-report-19951128132429-0bcd5b68f02d"
+    },
+    {
+      "report_number": "063",
+      "origin_time": "1995-11-27T19:40:24+08:00",
+      "longitude": 120.2,
+      "latitude": 23.04,
+      "magnitude": 3.7,
+      "depth_km": 17,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北方 6.2 公里(台南市地震站北方 6.2 公里)",
+      "event_id": "cwa-report-19951127194024-6387fba5d63a"
+    },
+    {
+      "report_number": "062",
+      "origin_time": "1995-11-27T13:17:58+08:00",
+      "longitude": 120.19,
+      "latitude": 23.05,
+      "magnitude": 3.6,
+      "depth_km": 12.4,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北偏西方 7.2 公里(台南市地震站北偏西方 7.2 公里)",
+      "event_id": "cwa-report-19951127131758-7919c9f9955c"
+    },
+    {
+      "report_number": "061",
+      "origin_time": "1995-11-27T09:16:36+08:00",
+      "longitude": 120.18,
+      "latitude": 23.03,
+      "magnitude": 3.3,
+      "depth_km": 18.5,
+      "maximum_intensity": 1,
+      "location": "台南市地震站西北方 5.1 公里(台南市地震站西北方 5.1 公里)",
+      "event_id": "cwa-report-19951127091636-33f5a6b90bf9"
+    },
+    {
+      "report_number": "060",
+      "origin_time": "1995-11-27T08:54:03+08:00",
+      "longitude": 120.2,
+      "latitude": 23.05,
+      "magnitude": 4.2,
+      "depth_km": 14.6,
+      "maximum_intensity": 3,
+      "location": "台南市地震站北方 7.7 公里(台南市地震站北方 7.7 公里)",
+      "event_id": "cwa-report-19951127085403-12a2bb628207"
+    },
+    {
+      "report_number": "059",
+      "origin_time": "1995-11-27T03:26:00+08:00",
+      "longitude": 121.59,
+      "latitude": 23.99,
+      "magnitude": 4.2,
+      "depth_km": 6.4,
+      "maximum_intensity": 5,
+      "location": "花蓮市地震站西偏北方 3.1 公里(花蓮市地震站西偏北方 3.1 公里)",
+      "event_id": "cwa-report-19951127032600-eef4a6b41fc7"
+    },
+    {
+      "report_number": "058",
+      "origin_time": "1995-11-24T04:21:14+08:00",
+      "longitude": 120.45,
+      "latitude": 23.51,
+      "magnitude": 3.4,
+      "depth_km": 8.1,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站東北方 2.3 公里(嘉義市地震站東北方 2.3 公里)",
+      "event_id": "cwa-report-19951124042114-a752c7aca61f"
+    },
+    {
+      "report_number": "057",
+      "origin_time": "1995-11-21T07:58:09+08:00",
+      "longitude": 120.08,
+      "latitude": 23.2,
+      "magnitude": 4.3,
+      "depth_km": 14.8,
+      "maximum_intensity": 2,
+      "location": "台南佳里地震站西偏北方 12.9 公里(台南佳里地震站西偏北方 12.9 公里)",
+      "event_id": "cwa-report-19951121075809-cfbea846f400"
+    },
+    {
+      "report_number": "056",
+      "origin_time": "1995-11-14T15:26:26+08:00",
+      "longitude": 121.53,
+      "latitude": 24.05,
+      "magnitude": 4.2,
+      "depth_km": 17.9,
+      "maximum_intensity": 4,
+      "location": "花蓮秀林地震站西偏南 8.7 公里(花蓮秀林地震站西偏南 8.7 公里)",
+      "event_id": "cwa-report-19951114152626-761792dc3aac"
+    },
+    {
+      "report_number": "055",
+      "origin_time": "1995-11-11T08:44:28+08:00",
+      "longitude": 121.62,
+      "latitude": 24.05,
+      "magnitude": 4,
+      "depth_km": 8.7,
+      "maximum_intensity": 4,
+      "location": "花蓮秀林地震站南偏東方 4.0 公里(花蓮秀林地震站南偏東方 4.0 公里)",
+      "event_id": "cwa-report-19951111084428-2fd940981c03"
+    },
+    {
+      "report_number": "054",
+      "origin_time": "1995-11-11T05:07:51+08:00",
+      "longitude": 121.38,
+      "latitude": 22.82,
+      "magnitude": 4.8,
+      "depth_km": 5,
+      "maximum_intensity": 3,
+      "location": "台東市地震站東偏北方 24.5 公里(台東市地震站東偏北方 24.5 公里)",
+      "event_id": "cwa-report-19951111050751-180699f3562c"
+    },
+    {
+      "report_number": "053",
+      "origin_time": "1995-11-07T03:31:27+08:00",
+      "longitude": 121.82,
+      "latitude": 24.45,
+      "magnitude": 4.6,
+      "depth_km": 7.9,
+      "maximum_intensity": 5,
+      "location": "宜蘭南澳地震站東偏北方 7.1 公里(宜蘭南澳地震站東偏北方 7.1 公里)",
+      "event_id": "cwa-report-19951107033127-5d4bc9502593"
+    },
+    {
+      "report_number": "052",
+      "origin_time": "1995-11-06T08:45:24+08:00",
+      "longitude": 120.76,
+      "latitude": 23.42,
+      "magnitude": 4.3,
+      "depth_km": 14.8,
+      "maximum_intensity": 2,
+      "location": "嘉義大埔地震站東北方 24.5 公里(嘉義大埔地震站東北方 24.5 公里)",
+      "event_id": "cwa-report-19951106084524-a6df26b92efd"
+    },
+    {
+      "report_number": "051",
+      "origin_time": "1995-11-01T06:27:06+08:00",
+      "longitude": 120.36,
+      "latitude": 23.29,
+      "magnitude": 5.2,
+      "depth_km": 10.7,
+      "maximum_intensity": 4,
+      "location": "台南東山地震站西方 15.0 公里(台南東山地震站西方 15.0 公里)",
+      "event_id": "cwa-report-19951101062706-839329db9668"
+    }
+  ]
+}

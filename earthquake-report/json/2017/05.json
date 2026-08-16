@@ -1,0 +1,268 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-26T10:10:14+08:00",
+      "longitude": 120.87,
+      "latitude": 23.7,
+      "magnitude": 3.1,
+      "depth_km": 22.7,
+      "maximum_intensity": 1,
+      "location": "南投縣政府東南方 29.0 公里 (位於南投縣信義鄉)(南投縣信義鄉)",
+      "event_id": "cwa-report-20170526101014-9020143bce48"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "2017-05-25T13:48:11+08:00",
+      "longitude": 120.52,
+      "latitude": 23.42,
+      "magnitude": 4.7,
+      "depth_km": 11.8,
+      "maximum_intensity": 4,
+      "location": "嘉義市政府東南方 9.2 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170525134811-fd8c63bb27c3"
+    },
+    {
+      "report_number": "024",
+      "origin_time": "2017-05-24T21:10:54+08:00",
+      "longitude": 120.51,
+      "latitude": 23.42,
+      "magnitude": 5.1,
+      "depth_km": 12.4,
+      "maximum_intensity": 4,
+      "location": "嘉義市政府東南方 9.0 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170524211054-61ab9257bcf6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-24T21:05:59+08:00",
+      "longitude": 120.51,
+      "latitude": 23.42,
+      "magnitude": 3.8,
+      "depth_km": 12.6,
+      "maximum_intensity": 2,
+      "location": "嘉義市政府東南方 9.1 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170524210559-9ff633a8229f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-24T20:01:56+08:00",
+      "longitude": 120.52,
+      "latitude": 23.42,
+      "magnitude": 3.6,
+      "depth_km": 12.9,
+      "maximum_intensity": 3,
+      "location": "嘉義市政府東南方 9.3 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170524200156-c3edffb460cb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-24T19:43:34+08:00",
+      "longitude": 120.52,
+      "latitude": 23.42,
+      "magnitude": 3.4,
+      "depth_km": 13.2,
+      "maximum_intensity": 2,
+      "location": "嘉義市政府東南方 9.4 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170524194334-4b03b1c6c60c"
+    },
+    {
+      "report_number": "023",
+      "origin_time": "2017-05-24T17:49:03+08:00",
+      "longitude": 120.52,
+      "latitude": 23.42,
+      "magnitude": 4.2,
+      "depth_km": 12.9,
+      "maximum_intensity": 4,
+      "location": "嘉義市政府東南方 9.6 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20170524174903-66a81419e8eb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-23T12:26:30+08:00",
+      "longitude": 120.46,
+      "latitude": 23.36,
+      "magnitude": 3.6,
+      "depth_km": 11,
+      "maximum_intensity": 2,
+      "location": "嘉義市政府南方 13.8 公里 (位於臺南市白河區)(臺南市白河區)",
+      "event_id": "cwa-report-20170523122630-5b03094c3480"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-20T15:21:00+08:00",
+      "longitude": 121.02,
+      "latitude": 23.89,
+      "magnitude": 4,
+      "depth_km": 16.8,
+      "maximum_intensity": 2,
+      "location": "南投縣政府東方 33.9 公里 (位於南投縣仁愛鄉)(南投縣仁愛鄉)",
+      "event_id": "cwa-report-20170520152100-af24227a73f6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-19T11:27:16+08:00",
+      "longitude": 121.4,
+      "latitude": 23.78,
+      "magnitude": 3.6,
+      "depth_km": 8.9,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府西南方 31.8 公里 (位於花蓮縣萬榮鄉)(花蓮縣萬榮鄉)",
+      "event_id": "cwa-report-20170519112716-1194ebc8cf28"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-16T12:57:25+08:00",
+      "longitude": 121.44,
+      "latitude": 23.84,
+      "magnitude": 2.9,
+      "depth_km": 19.6,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 25.0 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20170516125725-b66e75b97dfc"
+    },
+    {
+      "report_number": "022",
+      "origin_time": "2017-05-16T07:12:54+08:00",
+      "longitude": 121.43,
+      "latitude": 23.28,
+      "magnitude": 5.7,
+      "depth_km": 24.9,
+      "maximum_intensity": 5,
+      "location": "臺東縣政府北偏東方 64.9 公里 (位於臺東縣近海)(臺東縣近海)",
+      "event_id": "cwa-report-20170516071254-b21c230a080c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-15T11:12:47+08:00",
+      "longitude": 121.78,
+      "latitude": 24.39,
+      "magnitude": 3.1,
+      "depth_km": 8.9,
+      "maximum_intensity": 4,
+      "location": "宜蘭縣政府南方 37.5 公里 (位於宜蘭縣南澳鄉)(宜蘭縣南澳鄉)",
+      "event_id": "cwa-report-20170515111247-ccc2d6101a1d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-09T09:30:29+08:00",
+      "longitude": 120.57,
+      "latitude": 23.61,
+      "magnitude": 2.4,
+      "depth_km": 10,
+      "maximum_intensity": 2,
+      "location": "雲林縣政府南偏東方 10.3 公里 (位於雲林縣古坑鄉)(雲林縣古坑鄉)",
+      "event_id": "cwa-report-20170509093029-9d69a905f037"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-08T17:41:43+08:00",
+      "longitude": 122.19,
+      "latitude": 24.93,
+      "magnitude": 3.9,
+      "depth_km": 15.6,
+      "maximum_intensity": 1,
+      "location": "宜蘭縣政府東偏北方 48.7 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20170508174143-2ecbc0834d4a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-08T15:30:01+08:00",
+      "longitude": 121.93,
+      "latitude": 24.42,
+      "magnitude": 4.1,
+      "depth_km": 23.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府南偏東方 38.2 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20170508153001-aa99f340d47a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-07T20:57:19+08:00",
+      "longitude": 120.98,
+      "latitude": 22.94,
+      "magnitude": 3.8,
+      "depth_km": 6.8,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府西北方 27.2 公里 (位於臺東縣延平鄉)(臺東縣延平鄉)",
+      "event_id": "cwa-report-20170507205719-ab6790d98426"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-07T03:00:05+08:00",
+      "longitude": 120.96,
+      "latitude": 24.55,
+      "magnitude": 2.9,
+      "depth_km": 5.5,
+      "maximum_intensity": 2,
+      "location": "苗栗縣政府東方 13.9 公里 (位於苗栗縣南庄鄉)(苗栗縣南庄鄉)",
+      "event_id": "cwa-report-20170507030005-7b3b618cb882"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-05T20:16:51+08:00",
+      "longitude": 121.78,
+      "latitude": 21.39,
+      "magnitude": 4.6,
+      "depth_km": 147.2,
+      "maximum_intensity": 1,
+      "location": "臺東縣政府南偏東方 164.9 公里 (位於臺灣東南部海域)(臺灣東南部海域)",
+      "event_id": "cwa-report-20170505201651-6bd39ebb3ed1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-05T17:37:26+08:00",
+      "longitude": 121.31,
+      "latitude": 22.77,
+      "magnitude": 3.3,
+      "depth_km": 20.6,
+      "maximum_intensity": 1,
+      "location": "臺東縣政府東方 16.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20170505173726-c4eca0727527"
+    },
+    {
+      "report_number": "021",
+      "origin_time": "2017-05-05T13:07:30+08:00",
+      "longitude": 121.52,
+      "latitude": 23.43,
+      "magnitude": 4.6,
+      "depth_km": 34.3,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府南方 63.2 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20170505130730-80aec8efe38d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-04T04:12:00+08:00",
+      "longitude": 120.91,
+      "latitude": 22.83,
+      "magnitude": 3.7,
+      "depth_km": 8.3,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府西偏北方 26.5 公里 (位於臺東縣延平鄉)(臺東縣延平鄉)",
+      "event_id": "cwa-report-20170504041200-9ff34fafe627"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-03T18:45:33+08:00",
+      "longitude": 120.38,
+      "latitude": 23.25,
+      "magnitude": 2.8,
+      "depth_km": 10.1,
+      "maximum_intensity": 1,
+      "location": "嘉義縣政府南偏東方 24.6 公里 (位於臺南市柳營區)(臺南市柳營區)",
+      "event_id": "cwa-report-20170503184533-7f98f93359b2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2017-05-03T05:33:46+08:00",
+      "longitude": 121.87,
+      "latitude": 24.44,
+      "magnitude": 3.5,
+      "depth_km": 22.6,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府南偏東方 34.0 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20170503053346-ae58a1f1ccf8"
+    }
+  ]
+}

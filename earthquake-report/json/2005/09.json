@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "report_number": "140",
+      "origin_time": "2005-09-29T06:30:41+08:00",
+      "longitude": 121.64,
+      "latitude": 24.34,
+      "magnitude": 3.6,
+      "depth_km": 19.4,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站西南方 14.6 公里(宜蘭南澳地震站西南方 14.6 公里)",
+      "event_id": "cwa-report-20050929063041-47cd6a627ec1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-28T22:57:50+08:00",
+      "longitude": 121.53,
+      "latitude": 23.39,
+      "magnitude": 4.1,
+      "depth_km": 21.9,
+      "maximum_intensity": 3,
+      "location": "花蓮玉里地震站東方 23.1 公里(花蓮玉里地震站東方 23.1 公里)",
+      "event_id": "cwa-report-20050928225750-68550bfdd014"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-27T04:46:28+08:00",
+      "longitude": 121.39,
+      "latitude": 23.23,
+      "magnitude": 4.1,
+      "depth_km": 21.1,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站北方 14.8 公里(台東成功地震站北方 14.8 公里)",
+      "event_id": "cwa-report-20050927044628-58ce9d839515"
+    },
+    {
+      "report_number": "139",
+      "origin_time": "2005-09-27T02:50:20+08:00",
+      "longitude": 121.4,
+      "latitude": 23.23,
+      "magnitude": 5.3,
+      "depth_km": 21.3,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站北偏東方 15.2 公里(台東成功地震站北偏東方 15.2 公里)",
+      "event_id": "cwa-report-20050927025020-ca66ebd57f6a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-24T02:45:38+08:00",
+      "longitude": 121.29,
+      "latitude": 23.06,
+      "magnitude": 4.1,
+      "depth_km": 13.1,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西偏南 10.0 公里(台東成功地震站西偏南 10.0 公里)",
+      "event_id": "cwa-report-20050924024538-3c7f33c0c4d1"
+    },
+    {
+      "report_number": "138",
+      "origin_time": "2005-09-24T00:49:50+08:00",
+      "longitude": 121.28,
+      "latitude": 23.06,
+      "magnitude": 5,
+      "depth_km": 11.4,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站西偏南 10.0 公里(台東成功地震站西偏南 10.0 公里)",
+      "event_id": "cwa-report-20050924004950-2652cf4af4eb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-24T00:12:31+08:00",
+      "longitude": 121.29,
+      "latitude": 23.06,
+      "magnitude": 4,
+      "depth_km": 13.5,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西偏南 9.5 公里(台東成功地震站西偏南 9.5 公里)",
+      "event_id": "cwa-report-20050924001231-5f3df84ce557"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-23T18:59:17+08:00",
+      "longitude": 121.29,
+      "latitude": 23.06,
+      "magnitude": 4.2,
+      "depth_km": 10.3,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西偏南 9.4 公里(台東成功地震站西偏南 9.4 公里)",
+      "event_id": "cwa-report-20050923185917-fb9317c63f1f"
+    },
+    {
+      "report_number": "137",
+      "origin_time": "2005-09-23T18:34:22+08:00",
+      "longitude": 121.29,
+      "latitude": 23.06,
+      "magnitude": 4.5,
+      "depth_km": 14.1,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站西偏南 9.3 公里(台東成功地震站西偏南 9.3 公里)",
+      "event_id": "cwa-report-20050923183422-ebaa5637f7ba"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-23T14:50:29+08:00",
+      "longitude": 121.29,
+      "latitude": 23.08,
+      "magnitude": 3.3,
+      "depth_km": 11.7,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站西偏南 8.8 公里(台東成功地震站西偏南 8.8 公里)",
+      "event_id": "cwa-report-20050923145029-4c3ceedbd1f1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-23T14:30:10+08:00",
+      "longitude": 121.29,
+      "latitude": 23.08,
+      "magnitude": 3.8,
+      "depth_km": 12.2,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西偏南 8.3 公里(台東成功地震站西偏南 8.3 公里)",
+      "event_id": "cwa-report-20050923143010-81b04043a231"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-23T14:26:24+08:00",
+      "longitude": 121.27,
+      "latitude": 23.11,
+      "magnitude": 3.7,
+      "depth_km": 7.5,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站西方 11.0 公里(台東成功地震站西方 11.0 公里)",
+      "event_id": "cwa-report-20050923142624-12cbabc1f1e1"
+    },
+    {
+      "report_number": "136",
+      "origin_time": "2005-09-23T14:23:57+08:00",
+      "longitude": 121.3,
+      "latitude": 23.08,
+      "magnitude": 4.8,
+      "depth_km": 7.7,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站西偏南 7.6 公里(台東成功地震站西偏南 7.6 公里)",
+      "event_id": "cwa-report-20050923142357-bb5a87790ca6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-23T05:15:42+08:00",
+      "longitude": 121.47,
+      "latitude": 23.92,
+      "magnitude": 2.9,
+      "depth_km": 16.5,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站北偏東方 12.7 公里(花蓮西林地震站北偏東方 12.7 公里)",
+      "event_id": "cwa-report-20050923051542-7bb1430aab7e"
+    },
+    {
+      "report_number": "135",
+      "origin_time": "2005-09-20T00:39:02+08:00",
+      "longitude": 121.81,
+      "latitude": 24.35,
+      "magnitude": 3.9,
+      "depth_km": 8.1,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東南方 10.8 公里(宜蘭南澳地震站東南方 10.8 公里)",
+      "event_id": "cwa-report-20050920003902-73b788549f44"
+    },
+    {
+      "report_number": "134",
+      "origin_time": "2005-09-13T06:53:21+08:00",
+      "longitude": 120.95,
+      "latitude": 24.4,
+      "magnitude": 4.4,
+      "depth_km": 7,
+      "maximum_intensity": 3,
+      "location": "苗栗三義地震站東方 18.2 公里(苗栗三義地震站東方 18.2 公里)",
+      "event_id": "cwa-report-20050913065321-32bcd12624f5"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-10T19:50:04+08:00",
+      "longitude": 121,
+      "latitude": 24.36,
+      "magnitude": 4,
+      "depth_km": 8,
+      "maximum_intensity": 2,
+      "location": "台中德基地震站西北方 20.0 公里(台中德基地震站西北方 20.0 公里)",
+      "event_id": "cwa-report-20050910195004-6b11f4613fb5"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-10T14:38:09+08:00",
+      "longitude": 121.53,
+      "latitude": 24.09,
+      "magnitude": 3,
+      "depth_km": 28.4,
+      "maximum_intensity": 1,
+      "location": "花蓮秀林地震站西方 8.1 公里(花蓮秀林地震站西方 8.1 公里)",
+      "event_id": "cwa-report-20050910143809-8bbca67738a8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-10T14:07:53+08:00",
+      "longitude": 120.4,
+      "latitude": 23.25,
+      "magnitude": 3.8,
+      "depth_km": 8.1,
+      "maximum_intensity": 2,
+      "location": "台南東山地震站西方 10.7 公里(台南東山地震站西方 10.7 公里)",
+      "event_id": "cwa-report-20050910140753-3798b5f75b85"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-08T04:32:38+08:00",
+      "longitude": 120.67,
+      "latitude": 22.85,
+      "magnitude": 3.8,
+      "depth_km": 18,
+      "maximum_intensity": 3,
+      "location": "高雄旗山地震站東方 24.6 公里(高雄旗山地震站東方 24.6 公里)",
+      "event_id": "cwa-report-20050908043238-092a911f8853"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-07T15:12:10+08:00",
+      "longitude": 121.8,
+      "latitude": 24.47,
+      "magnitude": 3.4,
+      "depth_km": 26.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東北方 7.3 公里(宜蘭南澳地震站東北方 7.3 公里)",
+      "event_id": "cwa-report-20050907151210-933d2aefd78c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-07T14:41:39+08:00",
+      "longitude": 121.81,
+      "latitude": 24.47,
+      "magnitude": 4.2,
+      "depth_km": 26.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 8.0 公里(宜蘭南澳地震站東偏北方 8.0 公里)",
+      "event_id": "cwa-report-20050907144139-290203032377"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-07T14:16:58+08:00",
+      "longitude": 121.62,
+      "latitude": 24.22,
+      "magnitude": 3.8,
+      "depth_km": 13.7,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站北方 15.8 公里(花蓮秀林地震站北方 15.8 公里)",
+      "event_id": "cwa-report-20050907141658-4840c6c16c0e"
+    },
+    {
+      "report_number": "133",
+      "origin_time": "2005-09-06T09:16:00+08:00",
+      "longitude": 122.28,
+      "latitude": 23.96,
+      "magnitude": 6,
+      "depth_km": 16.8,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東方 68.2 公里(花蓮市地震站東方 68.2 公里)",
+      "event_id": "cwa-report-20050906091600-1a97d9e6aac1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-05T04:55:12+08:00",
+      "longitude": 121.45,
+      "latitude": 23.93,
+      "magnitude": 2.9,
+      "depth_km": 19.1,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站北方 12.7 公里(花蓮西林地震站北方 12.7 公里)",
+      "event_id": "cwa-report-20050905045512-1169bd7efdd6"
+    },
+    {
+      "report_number": "132",
+      "origin_time": "2005-09-03T20:52:15+08:00",
+      "longitude": 121.89,
+      "latitude": 24.81,
+      "magnitude": 4.3,
+      "depth_km": 8.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東偏北方 14.5 公里(宜蘭市地震站東偏北方 14.5 公里)",
+      "event_id": "cwa-report-20050903205215-71a4f063e92d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-03T02:34:38+08:00",
+      "longitude": 121.34,
+      "latitude": 23.07,
+      "magnitude": 3.9,
+      "depth_km": 18.1,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站西南方 4.8 公里(台東成功地震站西南方 4.8 公里)",
+      "event_id": "cwa-report-20050903023438-94cf2cb37585"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2005-09-02T19:36:54+08:00",
+      "longitude": 120.44,
+      "latitude": 23.54,
+      "magnitude": 2.9,
+      "depth_km": 12.9,
+      "maximum_intensity": 2,
+      "location": "嘉義市地震站北方 4.5 公里(嘉義市地震站北方 4.5 公里)",
+      "event_id": "cwa-report-20050902193654-d021467ee100"
+    }
+  ]
+}

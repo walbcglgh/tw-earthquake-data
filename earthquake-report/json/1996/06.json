@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "report_number": "020",
+      "origin_time": "1996-06-09T09:30:25+08:00",
+      "longitude": 121.58,
+      "latitude": 24.04,
+      "magnitude": 4.9,
+      "depth_km": 47.7,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站南偏西方 5.4 公里(花蓮秀林地震站南偏西方 5.4 公里)",
+      "event_id": "cwa-report-19960609093025-c1302cb7dece"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "006",
+      "origin_time": "1998-01-21T11:30:24+08:00",
+      "longitude": 121.07,
+      "latitude": 22.72,
+      "magnitude": 4.1,
+      "depth_km": 10.4,
+      "maximum_intensity": 3,
+      "location": "台東市地震站西偏南 9.6 公里(台東市地震站西偏南 9.6 公里)",
+      "event_id": "cwa-report-19980121113024-9621d6d39c3e"
+    },
+    {
+      "report_number": "005",
+      "origin_time": "1998-01-21T07:29:38+08:00",
+      "longitude": 121.08,
+      "latitude": 22.69,
+      "magnitude": 5.1,
+      "depth_km": 3.8,
+      "maximum_intensity": 4,
+      "location": "台東市地震站西南方 10.6 公里(台東市地震站西南方 10.6 公里)",
+      "event_id": "cwa-report-19980121072938-4d5a14aa90ad"
+    },
+    {
+      "report_number": "004",
+      "origin_time": "1998-01-19T03:56:51+08:00",
+      "longitude": 121.09,
+      "latitude": 22.73,
+      "magnitude": 5.1,
+      "depth_km": 3.3,
+      "maximum_intensity": 4,
+      "location": "台東市地震站西偏南 7.4 公里(台東市地震站西偏南 7.4 公里)",
+      "event_id": "cwa-report-19980119035651-a44e23b2f672"
+    },
+    {
+      "report_number": "003",
+      "origin_time": "1998-01-15T10:12:47+08:00",
+      "longitude": 121.97,
+      "latitude": 24.79,
+      "magnitude": 4.3,
+      "depth_km": 5.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東方 21.4 公里(宜蘭市地震站東方 21.4 公里)",
+      "event_id": "cwa-report-19980115101247-4e700102cc4c"
+    },
+    {
+      "report_number": "002",
+      "origin_time": "1998-01-15T01:57:13+08:00",
+      "longitude": 121.82,
+      "latitude": 21.83,
+      "magnitude": 5.2,
+      "depth_km": 5,
+      "maximum_intensity": 3,
+      "location": "台東蘭嶼地震站東南方 35.2 公里(台東蘭嶼地震站東南方 35.2 公里)",
+      "event_id": "cwa-report-19980115015713-37ff102011e9"
+    },
+    {
+      "report_number": "001",
+      "origin_time": "1998-01-15T01:54:45+08:00",
+      "longitude": 121.89,
+      "latitude": 21.78,
+      "magnitude": 5.3,
+      "depth_km": 5.4,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站東南方 44.0 公里(台東蘭嶼地震站東南方 44.0 公里)",
+      "event_id": "cwa-report-19980115015445-1afcde1298ec"
+    }
+  ]
+}

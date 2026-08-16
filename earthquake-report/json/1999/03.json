@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "report_number": "012",
+      "origin_time": "1999-03-16T07:46:48+08:00",
+      "longitude": 120.86,
+      "latitude": 23.67,
+      "magnitude": 4.3,
+      "depth_km": 7.1,
+      "maximum_intensity": 3,
+      "location": "南投名間地震站東南方 28.4 公里(南投名間地震站東南方 28.4 公里)",
+      "event_id": "cwa-report-19990316074648-dbc0bf1c3a00"
+    },
+    {
+      "report_number": "011",
+      "origin_time": "1999-03-06T05:12:27+08:00",
+      "longitude": 120.48,
+      "latitude": 23.25,
+      "magnitude": 4.6,
+      "depth_km": 15.7,
+      "maximum_intensity": 4,
+      "location": "台南東山地震站西偏南 2.6 公里(台南東山地震站西偏南 2.6 公里)",
+      "event_id": "cwa-report-19990306051227-6821bcc346a3"
+    }
+  ]
+}

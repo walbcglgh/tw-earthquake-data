@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "report_number": "037",
+      "origin_time": "1999-08-26T17:34:43+08:00",
+      "longitude": 120.49,
+      "latitude": 23.15,
+      "magnitude": 4.2,
+      "depth_km": 12.2,
+      "maximum_intensity": 3,
+      "location": "台南東山地震站南方 12.6 公里(台南東山地震站南方 12.6 公里)",
+      "event_id": "cwa-report-19990826173443-e1163036099e"
+    },
+    {
+      "report_number": "036",
+      "origin_time": "1999-08-07T14:09:53+08:00",
+      "longitude": 121.82,
+      "latitude": 24.64,
+      "magnitude": 4.6,
+      "depth_km": 73.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站西北方 5.0 公里(宜蘭蘇澳地震站西北方 5.0 公里)",
+      "event_id": "cwa-report-19990807140953-21be14a55da1"
+    },
+    {
+      "report_number": "035",
+      "origin_time": "1999-08-05T05:03:51+08:00",
+      "longitude": 121.14,
+      "latitude": 22.79,
+      "magnitude": 4.8,
+      "depth_km": 16.4,
+      "maximum_intensity": 4,
+      "location": "台東市地震站北偏西方 4.3 公里(台東市地震站北偏西方 4.3 公里)",
+      "event_id": "cwa-report-19990805050351-657a441bf3da"
+    }
+  ]
+}

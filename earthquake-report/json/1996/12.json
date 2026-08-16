@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "report_number": "042",
+      "origin_time": "1996-12-23T21:09:01+08:00",
+      "longitude": 120.2,
+      "latitude": 23.05,
+      "magnitude": 2.7,
+      "depth_km": 12.4,
+      "maximum_intensity": 3,
+      "location": "台南市地震站北方 7.7 公里(台南市地震站北方 7.7 公里)",
+      "event_id": "cwa-report-19961223210901-bc1c61e28868"
+    },
+    {
+      "report_number": "041",
+      "origin_time": "1996-12-23T16:53:11+08:00",
+      "longitude": 121.46,
+      "latitude": 23.93,
+      "magnitude": 4,
+      "depth_km": 19.4,
+      "maximum_intensity": 5,
+      "location": "花蓮西林地震站北偏東方 13.0 公里(花蓮西林地震站北偏東方 13.0 公里)",
+      "event_id": "cwa-report-19961223165311-4bc75a697ba4"
+    },
+    {
+      "report_number": "040",
+      "origin_time": "1996-12-18T19:20:23+08:00",
+      "longitude": 121.36,
+      "latitude": 22.82,
+      "magnitude": 5,
+      "depth_km": 16.2,
+      "maximum_intensity": 3,
+      "location": "台東市地震站東偏北方 22.2 公里(台東市地震站東偏北方 22.2 公里)",
+      "event_id": "cwa-report-19961218192023-5a8de9a582d2"
+    },
+    {
+      "report_number": "039",
+      "origin_time": "1996-12-18T10:50:08+08:00",
+      "longitude": 121.38,
+      "latitude": 22.8,
+      "magnitude": 4.9,
+      "depth_km": 16.3,
+      "maximum_intensity": 3,
+      "location": "台東市地震站東偏北方 23.6 公里(台東市地震站東偏北方 23.6 公里)",
+      "event_id": "cwa-report-19961218105008-fe93481d576b"
+    },
+    {
+      "report_number": "038",
+      "origin_time": "1996-12-16T02:56:26+08:00",
+      "longitude": 121.42,
+      "latitude": 24.02,
+      "magnitude": 4.8,
+      "depth_km": 71.4,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西偏南 19.7 公里(花蓮秀林地震站西偏南 19.7 公里)",
+      "event_id": "cwa-report-19961216025626-64fa003268c1"
+    }
+  ]
+}

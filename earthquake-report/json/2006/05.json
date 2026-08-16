@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-27T01:43:36+08:00",
+      "longitude": 120.88,
+      "latitude": 23.94,
+      "magnitude": 3.5,
+      "depth_km": 9.8,
+      "maximum_intensity": 3,
+      "location": "南投名間地震站東偏北方 20.7 公里(南投名間地震站東偏北方 20.7 公里)",
+      "event_id": "cwa-report-20060527014336-f1b1957d90a2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-25T08:11:41+08:00",
+      "longitude": 120.55,
+      "latitude": 23.64,
+      "magnitude": 3.3,
+      "depth_km": 11.3,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站南方 8.2 公里(斗六市地震站南方 8.2 公里)",
+      "event_id": "cwa-report-20060525081141-1676f1a8b050"
+    },
+    {
+      "report_number": "049",
+      "origin_time": "2006-05-25T04:52:41+08:00",
+      "longitude": 121.08,
+      "latitude": 22.9,
+      "magnitude": 4.3,
+      "depth_km": 7.8,
+      "maximum_intensity": 4,
+      "location": "台東市地震站北偏西方 18.2 公里(台東市地震站北偏西方 18.2 公里)",
+      "event_id": "cwa-report-20060525045241-3f16267e7ff3"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-18T14:22:23+08:00",
+      "longitude": 121.66,
+      "latitude": 24.07,
+      "magnitude": 3,
+      "depth_km": 6.7,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站東偏南方 6.2 公里(花蓮秀林地震站東偏南方 6.2 公里)",
+      "event_id": "cwa-report-20060518142223-f9a17c2ed632"
+    },
+    {
+      "report_number": "048",
+      "origin_time": "2006-05-16T09:39:03+08:00",
+      "longitude": 121.67,
+      "latitude": 24.07,
+      "magnitude": 4.5,
+      "depth_km": 8,
+      "maximum_intensity": 4,
+      "location": "花蓮秀林地震站東偏南方 6.4 公里(花蓮秀林地震站東偏南方 6.4 公里)",
+      "event_id": "cwa-report-20060516093903-130e83f22bef"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-16T08:03:22+08:00",
+      "longitude": 121.67,
+      "latitude": 23.93,
+      "magnitude": 3.7,
+      "depth_km": 40.3,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站東南方 7.2 公里(花蓮市地震站東南方 7.2 公里)",
+      "event_id": "cwa-report-20060516080322-307877b2a575"
+    },
+    {
+      "report_number": "047",
+      "origin_time": "2006-05-13T15:40:07+08:00",
+      "longitude": 121.02,
+      "latitude": 22.62,
+      "magnitude": 4.3,
+      "depth_km": 7.1,
+      "maximum_intensity": 4,
+      "location": "台東市地震站西南方 20.4 公里(台東市地震站西南方 20.4 公里)",
+      "event_id": "cwa-report-20060513154007-51370dbfe63a"
+    },
+    {
+      "report_number": "046",
+      "origin_time": "2006-05-12T20:35:50+08:00",
+      "longitude": 121.07,
+      "latitude": 22.76,
+      "magnitude": 4,
+      "depth_km": 6.7,
+      "maximum_intensity": 3,
+      "location": "台東市地震站西方 8.9 公里(台東市地震站西方 8.9 公里)",
+      "event_id": "cwa-report-20060512203550-09dae87fb5ca"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-11T13:33:05+08:00",
+      "longitude": 121.72,
+      "latitude": 23.36,
+      "magnitude": 3.9,
+      "depth_km": 26.4,
+      "maximum_intensity": 3,
+      "location": "花蓮玉里地震站東方 42.5 公里(花蓮玉里地震站東方 42.5 公里)",
+      "event_id": "cwa-report-20060511133305-4bf138e33a86"
+    },
+    {
+      "report_number": "045",
+      "origin_time": "2006-05-10T18:59:11+08:00",
+      "longitude": 121.58,
+      "latitude": 23.65,
+      "magnitude": 4.8,
+      "depth_km": 31.5,
+      "maximum_intensity": 4,
+      "location": "花蓮西林地震站東南方 23.3 公里(花蓮西林地震站東南方 23.3 公里)",
+      "event_id": "cwa-report-20060510185911-04271a439036"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-09T06:14:36+08:00",
+      "longitude": 121.3,
+      "latitude": 23.66,
+      "magnitude": 3.6,
+      "depth_km": 9.4,
+      "maximum_intensity": 2,
+      "location": "花蓮西林地震站西南方 22.4 公里(花蓮西林地震站西南方 22.4 公里)",
+      "event_id": "cwa-report-20060509061436-c654e2aa8f61"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-07T11:26:35+08:00",
+      "longitude": 121.95,
+      "latitude": 24.46,
+      "magnitude": 3.8,
+      "depth_km": 35.8,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站南偏東方 19.1 公里(宜蘭蘇澳地震站南偏東方 19.1 公里)",
+      "event_id": "cwa-report-20060507112635-72cb49f146b9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-07T09:53:02+08:00",
+      "longitude": 120.73,
+      "latitude": 21.59,
+      "magnitude": 5.2,
+      "depth_km": 42.5,
+      "maximum_intensity": 3,
+      "location": "屏東恆春地震站南方 46.2 公里(屏東恆春地震站南方 46.2 公里)",
+      "event_id": "cwa-report-20060507095302-8a22de277f38"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-06T12:47:08+08:00",
+      "longitude": 121.31,
+      "latitude": 22.62,
+      "magnitude": 4.2,
+      "depth_km": 29,
+      "maximum_intensity": 2,
+      "location": "台東市地震站東南方 21.3 公里(台東市地震站東南方 21.3 公里)",
+      "event_id": "cwa-report-20060506124708-4fd2f29e483f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-05T03:12:02+08:00",
+      "longitude": 121.87,
+      "latitude": 24.47,
+      "magnitude": 3.4,
+      "depth_km": 20.5,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東偏北方 13.3 公里(宜蘭南澳地震站東偏北方 13.3 公里)",
+      "event_id": "cwa-report-20060505031202-095ac4478876"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-03T02:56:20+08:00",
+      "longitude": 120.58,
+      "latitude": 23.66,
+      "magnitude": 3.7,
+      "depth_km": 12,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東南方 7.3 公里(斗六市地震站東南方 7.3 公里)",
+      "event_id": "cwa-report-20060503025620-5d2cbafdc395"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2006-05-01T10:48:30+08:00",
+      "longitude": 121.31,
+      "latitude": 23.02,
+      "magnitude": 3.5,
+      "depth_km": 18.5,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站西南方 10.6 公里(台東成功地震站西南方 10.6 公里)",
+      "event_id": "cwa-report-20060501104830-8869439cf0c0"
+    }
+  ]
+}

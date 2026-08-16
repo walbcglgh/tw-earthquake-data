@@ -1,0 +1,224 @@
+{
+  "records": [
+    {
+      "report_number": "012",
+      "origin_time": "2015-02-27T00:50:03+08:00",
+      "longitude": 122.3,
+      "latitude": 24.69,
+      "magnitude": 5.3,
+      "depth_km": 97.6,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府東方 55.0 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150227005003-d88d16d297b4"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-26T14:54:01+08:00",
+      "longitude": 120.75,
+      "latitude": 23.49,
+      "magnitude": 3.3,
+      "depth_km": 7.4,
+      "maximum_intensity": 3,
+      "location": "嘉義市政府東方 30.2 公里 (位於嘉義縣阿里山鄉)(嘉義縣阿里山鄉)",
+      "event_id": "cwa-report-20150226145401-b48e31768737"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-26T12:19:05+08:00",
+      "longitude": 121.49,
+      "latitude": 23.92,
+      "magnitude": 3.2,
+      "depth_km": 15.8,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西偏南方 15.4 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20150226121905-6978fa943b02"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-26T01:21:53+08:00",
+      "longitude": 121.49,
+      "latitude": 24,
+      "magnitude": 2.8,
+      "depth_km": 20.9,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府西方 12.8 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20150226012153-1e8c530363ad"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-25T10:05:52+08:00",
+      "longitude": 121.72,
+      "latitude": 24.17,
+      "magnitude": 3.4,
+      "depth_km": 14.1,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北偏東方 22.8 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20150225100552-c8af529d1bed"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-24T04:03:26+08:00",
+      "longitude": 121.42,
+      "latitude": 23.78,
+      "magnitude": 4.2,
+      "depth_km": 24.2,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府西南方 31.3 公里 (位於花蓮縣萬榮鄉)(花蓮縣萬榮鄉)",
+      "event_id": "cwa-report-20150224040326-cf7bd42171c4"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-24T02:44:43+08:00",
+      "longitude": 120.37,
+      "latitude": 23.26,
+      "magnitude": 3,
+      "depth_km": 6.3,
+      "maximum_intensity": 2,
+      "location": "嘉義縣政府南偏東方 23.3 公里 (位於臺南市柳營區)(臺南市柳營區)",
+      "event_id": "cwa-report-20150224024443-182738059494"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-23T04:25:10+08:00",
+      "longitude": 121.8,
+      "latitude": 24.25,
+      "magnitude": 3.3,
+      "depth_km": 14.9,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府東北方 34.2 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20150223042510-ca525a7361e6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-20T21:52:07+08:00",
+      "longitude": 121.35,
+      "latitude": 22.68,
+      "magnitude": 3.8,
+      "depth_km": 24.6,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府東偏南方 21.9 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150220215207-9e5196c4262d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-18T23:10:29+08:00",
+      "longitude": 120.39,
+      "latitude": 23.2,
+      "magnitude": 3,
+      "depth_km": 12.5,
+      "maximum_intensity": 2,
+      "location": "嘉義縣政府南偏東方 30.0 公里 (位於臺南市官田區)(臺南市官田區)",
+      "event_id": "cwa-report-20150218231029-d827266e8b9d"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-16T00:44:07+08:00",
+      "longitude": 121.27,
+      "latitude": 22.71,
+      "magnitude": 4.3,
+      "depth_km": 19,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府東偏南方 13.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150216004407-b684405b78a6"
+    },
+    {
+      "report_number": "011",
+      "origin_time": "2015-02-14T04:06:31+08:00",
+      "longitude": 121.4,
+      "latitude": 22.66,
+      "magnitude": 6.3,
+      "depth_km": 27.8,
+      "maximum_intensity": 5,
+      "location": "臺東縣政府東偏南方 27.4 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150214040631-3811706ba4cc"
+    },
+    {
+      "report_number": "010",
+      "origin_time": "2015-02-12T15:35:35+08:00",
+      "longitude": 121.7,
+      "latitude": 24.27,
+      "magnitude": 4.7,
+      "depth_km": 29.7,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府北偏東方 31.5 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20150212153535-e9f3ae423ab8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-09T16:09:40+08:00",
+      "longitude": 121.69,
+      "latitude": 24.27,
+      "magnitude": 3.2,
+      "depth_km": 28.6,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北偏東方 31.2 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20150209160940-b1960556a5ae"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-08T01:47:13+08:00",
+      "longitude": 120.59,
+      "latitude": 21.81,
+      "magnitude": 4.5,
+      "depth_km": 44.4,
+      "maximum_intensity": 3,
+      "location": "高雄市政府南偏東方 94.6 公里 (位於臺灣南部海域)(臺灣南部海域)",
+      "event_id": "cwa-report-20150208014713-742c94b49efd"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-07T04:32:48+08:00",
+      "longitude": 121.48,
+      "latitude": 24.27,
+      "magnitude": 3.2,
+      "depth_km": 5.8,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北偏西方 33.9 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20150207043248-e3ec95858e25"
+    },
+    {
+      "report_number": "009",
+      "origin_time": "2015-02-07T02:27:45+08:00",
+      "longitude": 121.76,
+      "latitude": 24.19,
+      "magnitude": 3.8,
+      "depth_km": 13.2,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府東北方 26.7 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150207022745-90c3fc8b02be"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-05T15:27:54+08:00",
+      "longitude": 122.05,
+      "latitude": 23.79,
+      "magnitude": 3.9,
+      "depth_km": 37.7,
+      "maximum_intensity": 1,
+      "location": "花蓮縣政府東偏南方 49.1 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150205152754-d3d289a7ca42"
+    },
+    {
+      "report_number": "008",
+      "origin_time": "2015-02-04T16:14:47+08:00",
+      "longitude": 121.61,
+      "latitude": 24.59,
+      "magnitude": 4.7,
+      "depth_km": 52.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府西南方 22.3 公里 (位於宜蘭縣大同鄉)(宜蘭縣大同鄉)",
+      "event_id": "cwa-report-20150204161447-34a02d5e9f0f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2015-02-03T18:10:10+08:00",
+      "longitude": 123.21,
+      "latitude": 24.93,
+      "magnitude": 4.7,
+      "depth_km": 122.2,
+      "maximum_intensity": 1,
+      "location": "宜蘭縣政府東方 148.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20150203181010-c83f30a004ed"
+    }
+  ]
+}

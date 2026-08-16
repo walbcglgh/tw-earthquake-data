@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "report_number": "034",
+      "origin_time": "1997-06-27T23:53:27+08:00",
+      "longitude": 121.58,
+      "latitude": 21.84,
+      "magnitude": 4.6,
+      "depth_km": 5,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站南方 22.5 公里(台東蘭嶼地震站南方 22.5 公里)",
+      "event_id": "cwa-report-19970627235327-6ab5679b9529"
+    },
+    {
+      "report_number": "033",
+      "origin_time": "1997-06-22T17:36:04+08:00",
+      "longitude": 121.38,
+      "latitude": 22.17,
+      "magnitude": 5.4,
+      "depth_km": 1.8,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站西北方 23.3 公里(台東蘭嶼地震站西北方 23.3 公里)",
+      "event_id": "cwa-report-19970622173604-e759f9e55a4d"
+    },
+    {
+      "report_number": "032",
+      "origin_time": "1997-06-18T10:03:30+08:00",
+      "longitude": 121.83,
+      "latitude": 23.96,
+      "magnitude": 5.2,
+      "depth_km": 31.7,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站東方 22.1 公里(花蓮市地震站東方 22.1 公里)",
+      "event_id": "cwa-report-19970618100330-a31c2e7d088b"
+    },
+    {
+      "report_number": "031",
+      "origin_time": "1997-06-15T03:25:20+08:00",
+      "longitude": 121.7,
+      "latitude": 23.89,
+      "magnitude": 4.6,
+      "depth_km": 17.9,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東南方 12.8 公里(花蓮市地震站東南方 12.8 公里)",
+      "event_id": "cwa-report-19970615032520-76f6ba2d5148"
+    },
+    {
+      "report_number": "030",
+      "origin_time": "1997-06-05T08:42:52+08:00",
+      "longitude": 120.32,
+      "latitude": 22.64,
+      "magnitude": 4.1,
+      "depth_km": 37.2,
+      "maximum_intensity": 2,
+      "location": "高雄市地震站北方 7.7 公里(高雄市地震站北方 7.7 公里)",
+      "event_id": "cwa-report-19970605084252-7b1abc38d6b9"
+    },
+    {
+      "report_number": "029",
+      "origin_time": "1997-06-01T07:21:37+08:00",
+      "longitude": 121.87,
+      "latitude": 24.62,
+      "magnitude": 4.8,
+      "depth_km": 64.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東北方 1.8 公里(宜蘭蘇澳地震站東北方 1.8 公里)",
+      "event_id": "cwa-report-19970601072137-03d79471b4cb"
+    }
+  ]
+}

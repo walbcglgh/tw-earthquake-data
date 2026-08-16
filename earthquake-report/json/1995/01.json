@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "report_number": "004",
+      "origin_time": "1995-01-24T16:45:23+08:00",
+      "longitude": 120.19,
+      "latitude": 23.05,
+      "magnitude": 4.2,
+      "depth_km": 16,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北偏西方 7.4 公里(台南市地震站北偏西方 7.4 公里)",
+      "event_id": "cwa-report-19950124164523-c31e3f8dbd86"
+    },
+    {
+      "report_number": "003",
+      "origin_time": "1995-01-19T19:39:08+08:00",
+      "longitude": 120.76,
+      "latitude": 23.3,
+      "magnitude": 4.5,
+      "depth_km": 14.3,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東偏北方 15.7 公里(嘉義大埔地震站東偏北方 15.7 公里)",
+      "event_id": "cwa-report-19950119193908-f1e84cb56224"
+    },
+    {
+      "report_number": "002",
+      "origin_time": "1995-01-10T15:55:19+08:00",
+      "longitude": 121.43,
+      "latitude": 23.68,
+      "magnitude": 5.1,
+      "depth_km": 3.8,
+      "maximum_intensity": 6,
+      "location": "花蓮西林地震站南方 14.6 公里(花蓮西林地震站南方 14.6 公里)",
+      "event_id": "cwa-report-19950110155519-2f9f3c29a8b8"
+    },
+    {
+      "report_number": "001",
+      "origin_time": "1995-01-05T06:14:55+08:00",
+      "longitude": 121.7,
+      "latitude": 24.96,
+      "magnitude": 4.5,
+      "depth_km": 91.5,
+      "maximum_intensity": 2,
+      "location": "台北市地震站東偏南方 20.2 公里(台北市地震站東偏南方 20.2 公里)",
+      "event_id": "cwa-report-19950105061455-0ce5b9cda937"
+    }
+  ]
+}

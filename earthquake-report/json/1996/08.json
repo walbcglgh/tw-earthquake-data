@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "report_number": "026",
+      "origin_time": "1996-08-10T14:23:05+08:00",
+      "longitude": 122.65,
+      "latitude": 23.89,
+      "magnitude": 5.8,
+      "depth_km": 5.7,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東方 106.0 公里(花蓮市地震站東方 106.0 公里)",
+      "event_id": "cwa-report-19960810142305-fa2d7c3e2b2e"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "1996-08-06T02:41:13+08:00",
+      "longitude": 121.7,
+      "latitude": 23.17,
+      "magnitude": 4.8,
+      "depth_km": 32.5,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東偏北方 34.8 公里(台東成功地震站東偏北方 34.8 公里)",
+      "event_id": "cwa-report-19960806024113-25a87e5c5111"
+    }
+  ]
+}

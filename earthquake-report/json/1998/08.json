@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "report_number": "037",
+      "origin_time": "1998-08-16T19:13:03+08:00",
+      "longitude": 120.53,
+      "latitude": 23.2,
+      "magnitude": 4.8,
+      "depth_km": 8,
+      "maximum_intensity": 5,
+      "location": "台南東山地震站南偏東方 7.4 公里(台南東山地震站南偏東方 7.4 公里)",
+      "event_id": "cwa-report-19980816191303-f1ff2904a304"
+    },
+    {
+      "report_number": "036",
+      "origin_time": "1998-08-09T01:49:04+08:00",
+      "longitude": 121.6,
+      "latitude": 24.02,
+      "magnitude": 4.2,
+      "depth_km": 18.6,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站北偏西方 5.6 公里(花蓮市地震站北偏西方 5.6 公里)",
+      "event_id": "cwa-report-19980809014904-f9456db1a460"
+    }
+  ]
+}

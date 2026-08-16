@@ -1,0 +1,59 @@
+{
+  "records": [
+    {
+      "report_number": "042",
+      "origin_time": "1998-09-22T00:29:37+08:00",
+      "longitude": 121.55,
+      "latitude": 23.94,
+      "magnitude": 4.6,
+      "depth_km": 9.7,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站西偏南 7.9 公里(花蓮市地震站西偏南 7.9 公里)",
+      "event_id": "cwa-report-19980922002937-a0e3638dd849"
+    },
+    {
+      "report_number": "041",
+      "origin_time": "1998-09-21T14:55:04+08:00",
+      "longitude": 120.72,
+      "latitude": 23.5,
+      "magnitude": 3.8,
+      "depth_km": 4.8,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站東方 29.5 公里(嘉義市地震站東方 29.5 公里)",
+      "event_id": "cwa-report-19980921145504-c4848cbbd470"
+    },
+    {
+      "report_number": "040",
+      "origin_time": "1998-09-16T12:56:11+08:00",
+      "longitude": 120.84,
+      "latitude": 23.84,
+      "magnitude": 4.5,
+      "depth_km": 26.3,
+      "maximum_intensity": 5,
+      "location": "南投名間地震站東偏南方 15.6 公里(南投名間地震站東偏南方 15.6 公里)",
+      "event_id": "cwa-report-19980916125611-54185d207b77"
+    },
+    {
+      "report_number": "039",
+      "origin_time": "1998-09-13T13:34:48+08:00",
+      "longitude": 123.01,
+      "latitude": 24.24,
+      "magnitude": 5.8,
+      "depth_km": 28.1,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東偏南方 124.2 公里(宜蘭蘇澳地震站東偏南方 124.2 公里)",
+      "event_id": "cwa-report-19980913133448-ba1dba0a04b8"
+    },
+    {
+      "report_number": "038",
+      "origin_time": "1998-09-04T18:40:50+08:00",
+      "longitude": 121.58,
+      "latitude": 23.91,
+      "magnitude": 5,
+      "depth_km": 11,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站南偏西方 7.8 公里(花蓮市地震站南偏西方 7.8 公里)",
+      "event_id": "cwa-report-19980904184050-2d21e81daef6"
+    }
+  ]
+}

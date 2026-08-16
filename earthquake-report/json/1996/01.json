@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "report_number": "004",
+      "origin_time": "1996-01-23T03:22:57+08:00",
+      "longitude": 121.72,
+      "latitude": 24.93,
+      "magnitude": 5.1,
+      "depth_km": 66.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站北方 18.6 公里(宜蘭市地震站北方 18.6 公里)",
+      "event_id": "cwa-report-19960123032257-2dac4ff0a637"
+    },
+    {
+      "report_number": "003",
+      "origin_time": "1996-01-20T12:24:41+08:00",
+      "longitude": 121.4,
+      "latitude": 23.34,
+      "magnitude": 4.6,
+      "depth_km": 16.9,
+      "maximum_intensity": 4,
+      "location": "花蓮玉里地震站東方 9.6 公里(花蓮玉里地震站東方 9.6 公里)",
+      "event_id": "cwa-report-19960120122441-0692304e3a6f"
+    },
+    {
+      "report_number": "002",
+      "origin_time": "1996-01-17T20:12:04+08:00",
+      "longitude": 121.62,
+      "latitude": 23.28,
+      "magnitude": 4.7,
+      "depth_km": 25.9,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站東北方 32.4 公里(台東成功地震站東北方 32.4 公里)",
+      "event_id": "cwa-report-19960117201204-ea9f1696f79c"
+    },
+    {
+      "report_number": "001",
+      "origin_time": "1996-01-10T00:10:29+08:00",
+      "longitude": 120.18,
+      "latitude": 23.04,
+      "magnitude": 3.8,
+      "depth_km": 8.7,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北偏西方 6.8 公里(台南市地震站北偏西方 6.8 公里)",
+      "event_id": "cwa-report-19960110001029-759ae8f49965"
+    }
+  ]
+}

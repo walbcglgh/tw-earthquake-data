@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "report_number": "019",
+      "origin_time": "1996-05-30T05:56:12+08:00",
+      "longitude": 120.63,
+      "latitude": 22.75,
+      "magnitude": 4.4,
+      "depth_km": 31.8,
+      "maximum_intensity": 3,
+      "location": "屏東市地震站東偏北方 16.1 公里(屏東市地震站東偏北方 16.1 公里)",
+      "event_id": "cwa-report-19960530055612-2f6df6a4fd8d"
+    },
+    {
+      "report_number": "018",
+      "origin_time": "1996-05-29T05:53:22+08:00",
+      "longitude": 121.58,
+      "latitude": 24.05,
+      "magnitude": 5.1,
+      "depth_km": 25,
+      "maximum_intensity": 5,
+      "location": "花蓮秀林地震站西南方 3.8 公里(花蓮秀林地震站西南方 3.8 公里)",
+      "event_id": "cwa-report-19960529055322-f43bb4a7f06a"
+    }
+  ]
+}

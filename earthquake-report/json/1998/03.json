@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "report_number": "013",
+      "origin_time": "1998-03-12T10:03:21+08:00",
+      "longitude": 120.66,
+      "latitude": 22.98,
+      "magnitude": 4.4,
+      "depth_km": 14.1,
+      "maximum_intensity": 3,
+      "location": "高雄甲仙地震站東南方 13.4 公里(高雄甲仙地震站東南方 13.4 公里)",
+      "event_id": "cwa-report-19980312100321-80d92df811f4"
+    },
+    {
+      "report_number": "012",
+      "origin_time": "1998-03-10T08:09:11+08:00",
+      "longitude": 121.92,
+      "latitude": 24.4,
+      "magnitude": 4.5,
+      "depth_km": 44,
+      "maximum_intensity": 4,
+      "location": "宜蘭南澳地震站東方 17.6 公里(宜蘭南澳地震站東方 17.6 公里)",
+      "event_id": "cwa-report-19980310080911-55132ea1c706"
+    },
+    {
+      "report_number": "011",
+      "origin_time": "1998-03-01T20:07:23+08:00",
+      "longitude": 121.69,
+      "latitude": 23.26,
+      "magnitude": 4.4,
+      "depth_km": 27.2,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站東偏北方 36.8 公里(台東成功地震站東偏北方 36.8 公里)",
+      "event_id": "cwa-report-19980301200723-b80285484061"
+    }
+  ]
+}

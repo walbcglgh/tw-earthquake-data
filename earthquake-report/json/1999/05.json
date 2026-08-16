@@ -1,0 +1,92 @@
+{
+  "records": [
+    {
+      "report_number": "025",
+      "origin_time": "1999-05-18T11:43:22+08:00",
+      "longitude": 121.4,
+      "latitude": 22.17,
+      "magnitude": 5.5,
+      "depth_km": 84.3,
+      "maximum_intensity": 5,
+      "location": "台東蘭嶼地震站西北方 22.0 公里(台東蘭嶼地震站西北方 22.0 公里)",
+      "event_id": "cwa-report-19990518114322-4253a1d6ed86"
+    },
+    {
+      "report_number": "024",
+      "origin_time": "1999-05-10T09:57:05+08:00",
+      "longitude": 121.26,
+      "latitude": 23.23,
+      "magnitude": 4,
+      "depth_km": 3.6,
+      "maximum_intensity": 3,
+      "location": "花蓮玉里地震站南偏西方 13.9 公里(花蓮玉里地震站南偏西方 13.9 公里)",
+      "event_id": "cwa-report-19990510095705-15a8f44ebc47"
+    },
+    {
+      "report_number": "023",
+      "origin_time": "1999-05-09T07:33:28+08:00",
+      "longitude": 121.85,
+      "latitude": 24.76,
+      "magnitude": 4.4,
+      "depth_km": 4.4,
+      "maximum_intensity": 4,
+      "location": "宜蘭市地震站東方 9.9 公里(宜蘭市地震站東方 9.9 公里)",
+      "event_id": "cwa-report-19990509073328-207ef5beb9d5"
+    },
+    {
+      "report_number": "022",
+      "origin_time": "1999-05-08T15:54:35+08:00",
+      "longitude": 121.87,
+      "latitude": 24.78,
+      "magnitude": 4.2,
+      "depth_km": 11.3,
+      "maximum_intensity": 4,
+      "location": "宜蘭市地震站東方 11.8 公里(宜蘭市地震站東方 11.8 公里)",
+      "event_id": "cwa-report-19990508155435-c1367daf5ddb"
+    },
+    {
+      "report_number": "021",
+      "origin_time": "1999-05-08T15:52:48+08:00",
+      "longitude": 121.88,
+      "latitude": 24.78,
+      "magnitude": 4.3,
+      "depth_km": 9.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東方 12.4 公里(宜蘭市地震站東方 12.4 公里)",
+      "event_id": "cwa-report-19990508155248-16372aacdc11"
+    },
+    {
+      "report_number": "020",
+      "origin_time": "1999-05-07T20:24:41+08:00",
+      "longitude": 121.86,
+      "latitude": 24.75,
+      "magnitude": 4.1,
+      "depth_km": 10.1,
+      "maximum_intensity": 4,
+      "location": "宜蘭市地震站東方 10.3 公里(宜蘭市地震站東方 10.3 公里)",
+      "event_id": "cwa-report-19990507202441-10f32086ed24"
+    },
+    {
+      "report_number": "019",
+      "origin_time": "1999-05-07T09:03:24+08:00",
+      "longitude": 121.89,
+      "latitude": 24.74,
+      "magnitude": 5.4,
+      "depth_km": 4.2,
+      "maximum_intensity": 4,
+      "location": "宜蘭市地震站東方 14.0 公里(宜蘭市地震站東方 14.0 公里)",
+      "event_id": "cwa-report-19990507090324-6d827a71d73c"
+    },
+    {
+      "report_number": "018",
+      "origin_time": "1999-05-02T05:26:20+08:00",
+      "longitude": 120.71,
+      "latitude": 23.46,
+      "magnitude": 4.1,
+      "depth_km": 11.8,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站北偏東方 26.0 公里(嘉義大埔地震站北偏東方 26.0 公里)",
+      "event_id": "cwa-report-19990502052620-9b2bbfb09f18"
+    }
+  ]
+}

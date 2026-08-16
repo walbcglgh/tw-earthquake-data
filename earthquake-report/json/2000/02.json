@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "report_number": "031",
+      "origin_time": "2000-02-25T14:12:56+08:00",
+      "longitude": 124.45,
+      "latitude": 25.02,
+      "magnitude": 6.2,
+      "depth_km": 93.8,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東方 265.6 公里(宜蘭蘇澳地震站東方 265.6 公里)",
+      "event_id": "cwa-report-20000225141256-8d2c530eb6cc"
+    },
+    {
+      "report_number": "030",
+      "origin_time": "2000-02-23T12:30:48+08:00",
+      "longitude": 120.74,
+      "latitude": 23.33,
+      "magnitude": 4.3,
+      "depth_km": 15.9,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東北方 14.9 公里(嘉義大埔地震站東北方 14.9 公里)",
+      "event_id": "cwa-report-20000223123048-587ffa8c956c"
+    },
+    {
+      "report_number": "029",
+      "origin_time": "2000-02-22T23:42:31+08:00",
+      "longitude": 121.15,
+      "latitude": 22.5,
+      "magnitude": 4.8,
+      "depth_km": 24.5,
+      "maximum_intensity": 3,
+      "location": "台東市地震站南方 28.1 公里(台東市地震站南方 28.1 公里)",
+      "event_id": "cwa-report-20000222234231-2cf4c79999ef"
+    },
+    {
+      "report_number": "028",
+      "origin_time": "2000-02-17T03:48:26+08:00",
+      "longitude": 120.9,
+      "latitude": 24.35,
+      "magnitude": 3.9,
+      "depth_km": 5.9,
+      "maximum_intensity": 3,
+      "location": "苗栗三義地震站東偏南方 14.4 公里(苗栗三義地震站東偏南方 14.4 公里)",
+      "event_id": "cwa-report-20000217034826-30bc41f588ef"
+    },
+    {
+      "report_number": "027",
+      "origin_time": "2000-02-16T08:06:47+08:00",
+      "longitude": 120.74,
+      "latitude": 23.32,
+      "magnitude": 4.3,
+      "depth_km": 17.7,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東北方 15.2 公里(嘉義大埔地震站東北方 15.2 公里)",
+      "event_id": "cwa-report-20000216080647-081a917e1675"
+    },
+    {
+      "report_number": "026",
+      "origin_time": "2000-02-16T05:33:18+08:00",
+      "longitude": 120.74,
+      "latitude": 23.32,
+      "magnitude": 5.6,
+      "depth_km": 14.7,
+      "maximum_intensity": 5,
+      "location": "嘉義大埔地震站東偏北方 14.5 公里(嘉義大埔地震站東偏北方 14.5 公里)",
+      "event_id": "cwa-report-20000216053318-4004325675a8"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "2000-02-10T12:33:21+08:00",
+      "longitude": 121.52,
+      "latitude": 24.07,
+      "magnitude": 4,
+      "depth_km": 15,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西方 9.2 公里(花蓮秀林地震站西方 9.2 公里)",
+      "event_id": "cwa-report-20000210123321-6ecebc95d088"
+    },
+    {
+      "report_number": "024",
+      "origin_time": "2000-02-07T19:10:24+08:00",
+      "longitude": 120.8,
+      "latitude": 23.57,
+      "magnitude": 3.9,
+      "depth_km": 8.8,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東偏南方 31.6 公里(斗六市地震站東偏南方 31.6 公里)",
+      "event_id": "cwa-report-20000207191024-75b325c749e8"
+    },
+    {
+      "report_number": "023",
+      "origin_time": "2000-02-07T12:16:37+08:00",
+      "longitude": 120.61,
+      "latitude": 23.56,
+      "magnitude": 4,
+      "depth_km": 10.9,
+      "maximum_intensity": 4,
+      "location": "斗六市地震站南偏東方 19.0 公里(斗六市地震站南偏東方 19.0 公里)",
+      "event_id": "cwa-report-20000207121637-2f4719e35aa6"
+    },
+    {
+      "report_number": "022",
+      "origin_time": "2000-02-04T02:48:07+08:00",
+      "longitude": 121.26,
+      "latitude": 22.79,
+      "magnitude": 4.9,
+      "depth_km": 18.3,
+      "maximum_intensity": 4,
+      "location": "台東市地震站東偏北方 11.7 公里(台東市地震站東偏北方 11.7 公里)",
+      "event_id": "cwa-report-20000204024807-10cee8731469"
+    },
+    {
+      "report_number": "021",
+      "origin_time": "2000-02-03T16:29:30+08:00",
+      "longitude": 121.92,
+      "latitude": 24.33,
+      "magnitude": 4.6,
+      "depth_km": 16.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏南方 20.0 公里(宜蘭南澳地震站東偏南方 20.0 公里)",
+      "event_id": "cwa-report-20000203162930-173809e4c362"
+    },
+    {
+      "report_number": "020",
+      "origin_time": "2000-02-01T05:11:52+08:00",
+      "longitude": 120.93,
+      "latitude": 24.36,
+      "magnitude": 4.5,
+      "depth_km": 4.6,
+      "maximum_intensity": 4,
+      "location": "苗栗三義地震站東偏南方 17.4 公里(苗栗三義地震站東偏南方 17.4 公里)",
+      "event_id": "cwa-report-20000201051152-8fd8f53551d3"
+    }
+  ]
+}

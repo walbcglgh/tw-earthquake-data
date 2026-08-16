@@ -1,0 +1,213 @@
+{
+  "records": [
+    {
+      "report_number": "305",
+      "origin_time": "1999-12-31T08:39:49+08:00",
+      "longitude": 120.88,
+      "latitude": 23.61,
+      "magnitude": 4.4,
+      "depth_km": 6.8,
+      "maximum_intensity": 3,
+      "location": "南投名間地震站東南方 34.6 公里(南投名間地震站東南方 34.6 公里)",
+      "event_id": "cwa-report-19991231083949-988683be4c7d"
+    },
+    {
+      "report_number": "304",
+      "origin_time": "1999-12-30T20:24:32+08:00",
+      "longitude": 121.29,
+      "latitude": 22.65,
+      "magnitude": 4.9,
+      "depth_km": 17.5,
+      "maximum_intensity": 3,
+      "location": "台東市地震站東南方 18.6 公里(台東市地震站東南方 18.6 公里)",
+      "event_id": "cwa-report-19991230202432-ebee6f1a7a17"
+    },
+    {
+      "report_number": "303",
+      "origin_time": "1999-12-27T14:11:18+08:00",
+      "longitude": 120.5,
+      "latitude": 23.57,
+      "magnitude": 3.7,
+      "depth_km": 15,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站東北方 11.0 公里(嘉義市地震站東北方 11.0 公里)",
+      "event_id": "cwa-report-19991227141118-2428d1cf2c11"
+    },
+    {
+      "report_number": "302",
+      "origin_time": "1999-12-27T09:21:38+08:00",
+      "longitude": 121,
+      "latitude": 23.65,
+      "magnitude": 4.1,
+      "depth_km": 3.2,
+      "maximum_intensity": 2,
+      "location": "南投名間地震站東南方 40.5 公里(南投名間地震站東南方 40.5 公里)",
+      "event_id": "cwa-report-19991227092138-f7bb51f5b065"
+    },
+    {
+      "report_number": "301",
+      "origin_time": "1999-12-27T01:51:02+08:00",
+      "longitude": 120.79,
+      "latitude": 23.57,
+      "magnitude": 3.8,
+      "depth_km": 20.2,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東偏南方 30.6 公里(斗六市地震站東偏南方 30.6 公里)",
+      "event_id": "cwa-report-19991227015102-8b6ecdf7e14a"
+    },
+    {
+      "report_number": "300",
+      "origin_time": "1999-12-26T00:09:43+08:00",
+      "longitude": 120.81,
+      "latitude": 23.57,
+      "magnitude": 3.5,
+      "depth_km": 11.9,
+      "maximum_intensity": 3,
+      "location": "斗六市地震站東偏南方 32.0 公里(斗六市地震站東偏南方 32.0 公里)",
+      "event_id": "cwa-report-19991226000943-69ed61a2545e"
+    },
+    {
+      "report_number": "299",
+      "origin_time": "1999-12-25T08:15:19+08:00",
+      "longitude": 120.51,
+      "latitude": 23.5,
+      "magnitude": 4.3,
+      "depth_km": 5.3,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站東方 8.4 公里(嘉義市地震站東方 8.4 公里)",
+      "event_id": "cwa-report-19991225081519-2c6e8f2fbc78"
+    },
+    {
+      "report_number": "298",
+      "origin_time": "1999-12-25T02:14:12+08:00",
+      "longitude": 121.27,
+      "latitude": 23.62,
+      "magnitude": 4.8,
+      "depth_km": 8.9,
+      "maximum_intensity": 4,
+      "location": "花蓮西林地震站西南方 27.8 公里(花蓮西林地震站西南方 27.8 公里)",
+      "event_id": "cwa-report-19991225021412-76cacef96274"
+    },
+    {
+      "report_number": "297",
+      "origin_time": "1999-12-21T23:13:12+08:00",
+      "longitude": 120.67,
+      "latitude": 23.98,
+      "magnitude": 3.9,
+      "depth_km": 11.6,
+      "maximum_intensity": 4,
+      "location": "南投名間地震站北偏西方 11.5 公里(南投名間地震站北偏西方 11.5 公里)",
+      "event_id": "cwa-report-19991221231312-47b6cdb9e3e6"
+    },
+    {
+      "report_number": "296",
+      "origin_time": "1999-12-19T19:54:48+08:00",
+      "longitude": 121.17,
+      "latitude": 24.2,
+      "magnitude": 4.5,
+      "depth_km": 4,
+      "maximum_intensity": 3,
+      "location": "台中德基地震站南方 6.1 公里(台中德基地震站南方 6.1 公里)",
+      "event_id": "cwa-report-19991219195448-81c2ed20900e"
+    },
+    {
+      "report_number": "295",
+      "origin_time": "1999-12-11T04:23:44+08:00",
+      "longitude": 120.83,
+      "latitude": 24.38,
+      "magnitude": 3.8,
+      "depth_km": 29.6,
+      "maximum_intensity": 3,
+      "location": "苗栗三義地震站東偏南方 7.6 公里(苗栗三義地震站東偏南方 7.6 公里)",
+      "event_id": "cwa-report-19991211042344-93c5844400b2"
+    },
+    {
+      "report_number": "294",
+      "origin_time": "1999-12-09T00:01:24+08:00",
+      "longitude": 121.69,
+      "latitude": 24.56,
+      "magnitude": 4.5,
+      "depth_km": 40.2,
+      "maximum_intensity": 3,
+      "location": "宜蘭牛鬥地震站東偏南方 13.9 公里(宜蘭牛鬥地震站東偏南方 13.9 公里)",
+      "event_id": "cwa-report-19991209000124-4d81be9b583c"
+    },
+    {
+      "report_number": "293",
+      "origin_time": "1999-12-08T05:22:54+08:00",
+      "longitude": 120.52,
+      "latitude": 23.16,
+      "magnitude": 4.2,
+      "depth_km": 15.2,
+      "maximum_intensity": 3,
+      "location": "高雄甲仙地震站西北方 11.6 公里(高雄甲仙地震站西北方 11.6 公里)",
+      "event_id": "cwa-report-19991208052254-fdb7601e82cb"
+    },
+    {
+      "report_number": "292",
+      "origin_time": "1999-12-07T17:34:44+08:00",
+      "longitude": 121.53,
+      "latitude": 24.09,
+      "magnitude": 3.7,
+      "depth_km": 20.6,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西方 7.9 公里(花蓮秀林地震站西方 7.9 公里)",
+      "event_id": "cwa-report-19991207173444-97bddd0d4a00"
+    },
+    {
+      "report_number": "291",
+      "origin_time": "1999-12-07T02:14:33+08:00",
+      "longitude": 122.01,
+      "latitude": 24.86,
+      "magnitude": 4.8,
+      "depth_km": 100.2,
+      "maximum_intensity": 3,
+      "location": "宜蘭市地震站東偏北方 27.5 公里(宜蘭市地震站東偏北方 27.5 公里)",
+      "event_id": "cwa-report-19991207021433-69095a0d53f9"
+    },
+    {
+      "report_number": "290",
+      "origin_time": "1999-12-03T22:57:00+08:00",
+      "longitude": 120.47,
+      "latitude": 23.49,
+      "magnitude": 4.1,
+      "depth_km": 10.9,
+      "maximum_intensity": 4,
+      "location": "嘉義市地震站東方 3.8 公里(嘉義市地震站東方 3.8 公里)",
+      "event_id": "cwa-report-19991203225700-895cff7ce2f8"
+    },
+    {
+      "report_number": "289",
+      "origin_time": "1999-12-03T19:43:34+08:00",
+      "longitude": 120.45,
+      "latitude": 23.49,
+      "magnitude": 3.9,
+      "depth_km": 11.7,
+      "maximum_intensity": 2,
+      "location": "嘉義市地震站東方 1.8 公里(嘉義市地震站東方 1.8 公里)",
+      "event_id": "cwa-report-19991203194334-98029022c616"
+    },
+    {
+      "report_number": "288",
+      "origin_time": "1999-12-03T11:49:06+08:00",
+      "longitude": 120.44,
+      "latitude": 23.5,
+      "magnitude": 3.3,
+      "depth_km": 10.8,
+      "maximum_intensity": 4,
+      "location": "嘉義市地震站東北方 1.2 公里(嘉義市地震站東北方 1.2 公里)",
+      "event_id": "cwa-report-19991203114906-89ed1441ec6e"
+    },
+    {
+      "report_number": "287",
+      "origin_time": "1999-12-02T01:06:55+08:00",
+      "longitude": 120.43,
+      "latitude": 23.5,
+      "magnitude": 4.5,
+      "depth_km": 10.9,
+      "maximum_intensity": 4,
+      "location": "嘉義市地震站北偏東方 .7 公里(嘉義市地震站北偏東方 .7 公里)",
+      "event_id": "cwa-report-19991202010655-deb00f8f3946"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "records": [
+    {
+      "report_number": "090",
+      "origin_time": "2001-08-31T23:29:20+08:00",
+      "longitude": 121.66,
+      "latitude": 24.13,
+      "magnitude": 4,
+      "depth_km": 8.3,
+      "maximum_intensity": 4,
+      "location": "花蓮秀林地震站東北方 8.4 公里(花蓮秀林地震站東北方 8.4 公里)",
+      "event_id": "cwa-report-20010831232920-67d25bd85183"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-31T19:37:46+08:00",
+      "longitude": 121.65,
+      "latitude": 24.15,
+      "magnitude": 2.9,
+      "depth_km": 6.7,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站東北方 9.6 公里(花蓮秀林地震站東北方 9.6 公里)",
+      "event_id": "cwa-report-20010831193746-f494d53c171f"
+    },
+    {
+      "report_number": "089",
+      "origin_time": "2001-08-31T19:33:16+08:00",
+      "longitude": 121.66,
+      "latitude": 24.14,
+      "magnitude": 4.5,
+      "depth_km": 5.9,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東北方 8.6 公里(花蓮秀林地震站東北方 8.6 公里)",
+      "event_id": "cwa-report-20010831193316-aab138f1dc5c"
+    },
+    {
+      "report_number": "088",
+      "origin_time": "2001-08-30T21:57:17+08:00",
+      "longitude": 121.68,
+      "latitude": 24.13,
+      "magnitude": 4,
+      "depth_km": 40.5,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東北方 9.5 公里(花蓮秀林地震站東北方 9.5 公里)",
+      "event_id": "cwa-report-20010830215717-71ec8934ba8e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-30T21:44:31+08:00",
+      "longitude": 121.87,
+      "latitude": 24.02,
+      "magnitude": 3.2,
+      "depth_km": 42.8,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站東方 27.0 公里(花蓮市地震站東方 27.0 公里)",
+      "event_id": "cwa-report-20010830214431-8024bbcf8fba"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-30T11:23:59+08:00",
+      "longitude": 121.47,
+      "latitude": 23.94,
+      "magnitude": 3.3,
+      "depth_km": 17,
+      "maximum_intensity": 2,
+      "location": "花蓮西林地震站北方 14.9 公里(花蓮西林地震站北方 14.9 公里)",
+      "event_id": "cwa-report-20010830112359-eb488d51204a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-29T20:50:30+08:00",
+      "longitude": 120.64,
+      "latitude": 23.55,
+      "magnitude": 3.2,
+      "depth_km": 7.5,
+      "maximum_intensity": 2,
+      "location": "斗六市地震站南偏東方 20.5 公里(斗六市地震站南偏東方 20.5 公里)",
+      "event_id": "cwa-report-20010829205030-3cfe1aef9fef"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-25T08:17:01+08:00",
+      "longitude": 121.81,
+      "latitude": 24.44,
+      "magnitude": 3.5,
+      "depth_km": 2.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 6.4 公里(宜蘭南澳地震站東偏北方 6.4 公里)",
+      "event_id": "cwa-report-20010825081701-c3be65ec577e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-24T09:50:08+08:00",
+      "longitude": 121.6,
+      "latitude": 24.28,
+      "magnitude": 2.6,
+      "depth_km": 15.8,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站西南方 21.4 公里(宜蘭南澳地震站西南方 21.4 公里)",
+      "event_id": "cwa-report-20010824095008-3737514d431a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-23T00:29:19+08:00",
+      "longitude": 121.48,
+      "latitude": 23.91,
+      "magnitude": 3.4,
+      "depth_km": 19.3,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站北偏東方 11.1 公里(花蓮西林地震站北偏東方 11.1 公里)",
+      "event_id": "cwa-report-20010823002919-9d043fa4a5d6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-22T23:39:48+08:00",
+      "longitude": 120.67,
+      "latitude": 22.88,
+      "magnitude": 3.9,
+      "depth_km": 20,
+      "maximum_intensity": 2,
+      "location": "高雄甲仙地震站南偏東方 24.1 公里(高雄甲仙地震站南偏東方 24.1 公里)",
+      "event_id": "cwa-report-20010822233948-c962d77d7e78"
+    },
+    {
+      "report_number": "087",
+      "origin_time": "2001-08-21T00:57:59+08:00",
+      "longitude": 121.59,
+      "latitude": 23.98,
+      "magnitude": 4.8,
+      "depth_km": 12.8,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站西方 2.4 公里(花蓮市地震站西方 2.4 公里)",
+      "event_id": "cwa-report-20010821005759-caea02d820bc"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-20T14:07:40+08:00",
+      "longitude": 120.67,
+      "latitude": 22.88,
+      "magnitude": 4.1,
+      "depth_km": 21,
+      "maximum_intensity": 3,
+      "location": "高雄甲仙地震站南偏東方 23.9 公里(高雄甲仙地震站南偏東方 23.9 公里)",
+      "event_id": "cwa-report-20010820140740-985730af726b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-20T14:06:09+08:00",
+      "longitude": 120.66,
+      "latitude": 22.85,
+      "magnitude": 4,
+      "depth_km": 19.6,
+      "maximum_intensity": 3,
+      "location": "高雄旗山地震站東方 23.8 公里(高雄旗山地震站東方 23.8 公里)",
+      "event_id": "cwa-report-20010820140609-5e02dced0d71"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-19T19:01:53+08:00",
+      "longitude": 120.66,
+      "latitude": 22.84,
+      "magnitude": 4.1,
+      "depth_km": 22.2,
+      "maximum_intensity": 2,
+      "location": "高雄旗山地震站東方 23.5 公里(高雄旗山地震站東方 23.5 公里)",
+      "event_id": "cwa-report-20010819190153-9ce0d0d46815"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-19T18:47:06+08:00",
+      "longitude": 120.66,
+      "latitude": 22.84,
+      "magnitude": 4.2,
+      "depth_km": 21.4,
+      "maximum_intensity": 3,
+      "location": "高雄旗山地震站東方 23.3 公里(高雄旗山地震站東方 23.3 公里)",
+      "event_id": "cwa-report-20010819184706-54d00c742f25"
+    },
+    {
+      "report_number": "086",
+      "origin_time": "2001-08-19T09:58:26+08:00",
+      "longitude": 121.58,
+      "latitude": 22.37,
+      "magnitude": 4.4,
+      "depth_km": 27.2,
+      "maximum_intensity": 2,
+      "location": "台東蘭嶼地震站北方 36.8 公里(台東蘭嶼地震站北方 36.8 公里)",
+      "event_id": "cwa-report-20010819095826-0bdbc905f084"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-12T15:21:16+08:00",
+      "longitude": 120.47,
+      "latitude": 23.45,
+      "magnitude": 3,
+      "depth_km": 7.2,
+      "maximum_intensity": 2,
+      "location": "嘉義市地震站東南方 6.0 公里(嘉義市地震站東南方 6.0 公里)",
+      "event_id": "cwa-report-20010812152116-e4b39aea3e70"
+    },
+    {
+      "report_number": "085",
+      "origin_time": "2001-08-11T09:02:23+08:00",
+      "longitude": 121.09,
+      "latitude": 23.19,
+      "magnitude": 4.4,
+      "depth_km": 7.3,
+      "maximum_intensity": 4,
+      "location": "台東利稻地震站東方 6.8 公里(台東利稻地震站東方 6.8 公里)",
+      "event_id": "cwa-report-20010811090223-bffdb7c485a0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-09T07:46:37+08:00",
+      "longitude": 121.74,
+      "latitude": 23.96,
+      "magnitude": 3.9,
+      "depth_km": 19,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站東方 12.5 公里(花蓮市地震站東方 12.5 公里)",
+      "event_id": "cwa-report-20010809074637-0fc10e78c963"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-08T13:01:57+08:00",
+      "longitude": 120.46,
+      "latitude": 23.55,
+      "magnitude": 3.4,
+      "depth_km": 11.1,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站北偏東方 6.1 公里(嘉義市地震站北偏東方 6.1 公里)",
+      "event_id": "cwa-report-20010808130157-418135bbc3ff"
+    },
+    {
+      "report_number": "084",
+      "origin_time": "2001-08-08T01:27:41+08:00",
+      "longitude": 120.96,
+      "latitude": 24.15,
+      "magnitude": 4.1,
+      "depth_km": 41.2,
+      "maximum_intensity": 2,
+      "location": "台中德基地震站西偏南 22.8 公里(台中德基地震站西偏南 22.8 公里)",
+      "event_id": "cwa-report-20010808012741-71315441658b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2001-08-06T22:18:55+08:00",
+      "longitude": 121.82,
+      "latitude": 24.12,
+      "magnitude": 4.1,
+      "depth_km": 7.7,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東方 21.8 公里(花蓮秀林地震站東方 21.8 公里)",
+      "event_id": "cwa-report-20010806221855-3d1b73fd5961"
+    }
+  ]
+}

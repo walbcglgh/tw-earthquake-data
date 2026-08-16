@@ -1,0 +1,301 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-28T19:27:35+08:00",
+      "longitude": 121.55,
+      "latitude": 23.97,
+      "magnitude": 3.5,
+      "depth_km": 39.5,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站西方 6.4 公里(花蓮市地震站西方 6.4 公里)",
+      "event_id": "cwa-report-20090428192735-556d7a9d66c0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-28T13:08:39+08:00",
+      "longitude": 121.78,
+      "latitude": 23.72,
+      "magnitude": 3.5,
+      "depth_km": 35.7,
+      "maximum_intensity": 1,
+      "location": "花蓮市地震站南偏東方 33.2 公里(花蓮市地震站南偏東方 33.2 公里)",
+      "event_id": "cwa-report-20090428130839-e6fc4959cf06"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-28T03:28:16+08:00",
+      "longitude": 121.76,
+      "latitude": 24.43,
+      "magnitude": 2.5,
+      "depth_km": 10.2,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 1.3 公里(宜蘭南澳地震站東偏北方 1.3 公里)",
+      "event_id": "cwa-report-20090428032816-d8c20c6ff035"
+    },
+    {
+      "report_number": "028",
+      "origin_time": "2009-04-26T05:45:17+08:00",
+      "longitude": 121.52,
+      "latitude": 24.01,
+      "magnitude": 3.9,
+      "depth_km": 18.5,
+      "maximum_intensity": 3,
+      "location": "花蓮市地震站西偏北方 10.7 公里(花蓮市地震站西偏北方 10.7 公里)",
+      "event_id": "cwa-report-20090426054517-a658eb82d07c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-26T01:02:35+08:00",
+      "longitude": 122.6,
+      "latitude": 24.38,
+      "magnitude": 4.8,
+      "depth_km": 72.7,
+      "maximum_intensity": 1,
+      "location": "宜蘭蘇澳地震站東偏南方 78.8 公里(宜蘭蘇澳地震站東偏南方 78.8 公里)",
+      "event_id": "cwa-report-20090426010235-e1896e72a1e9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-25T17:52:28+08:00",
+      "longitude": 121.7,
+      "latitude": 23.68,
+      "magnitude": 3.6,
+      "depth_km": 29.8,
+      "maximum_intensity": 1,
+      "location": "花蓮西林地震站東偏南方 30.1 公里(花蓮西林地震站東偏南方 30.1 公里)",
+      "event_id": "cwa-report-20090425175228-025b5da35190"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-24T05:45:32+08:00",
+      "longitude": 121.53,
+      "latitude": 24.13,
+      "magnitude": 3.8,
+      "depth_km": 24.7,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西偏北方 9.0 公里(花蓮秀林地震站西偏北方 9.0 公里)",
+      "event_id": "cwa-report-20090424054532-a95ea412d28a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-19T12:44:26+08:00",
+      "longitude": 120.76,
+      "latitude": 24.35,
+      "magnitude": 3,
+      "depth_km": 9,
+      "maximum_intensity": 2,
+      "location": "苗栗三義地震站南方 6.8 公里(苗栗三義地震站南方 6.8 公里)",
+      "event_id": "cwa-report-20090419124426-72ac0ba816d8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-19T12:01:42+08:00",
+      "longitude": 121.76,
+      "latitude": 24.7,
+      "magnitude": 3.8,
+      "depth_km": 80.2,
+      "maximum_intensity": 1,
+      "location": "宜蘭市地震站南方 7.1 公里(宜蘭市地震站南方 7.1 公里)",
+      "event_id": "cwa-report-20090419120142-8514373a9ff2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-18T02:49:38+08:00",
+      "longitude": 121.78,
+      "latitude": 24.45,
+      "magnitude": 3.1,
+      "depth_km": 28,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東北方 3.9 公里(宜蘭南澳地震站東北方 3.9 公里)",
+      "event_id": "cwa-report-20090418024938-e24b965b6a4a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-18T02:36:32+08:00",
+      "longitude": 121.97,
+      "latitude": 24.46,
+      "magnitude": 3.1,
+      "depth_km": 17.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東南方 20.2 公里(宜蘭蘇澳地震站東南方 20.2 公里)",
+      "event_id": "cwa-report-20090418023632-1f93bb5e377b"
+    },
+    {
+      "report_number": "027",
+      "origin_time": "2009-04-17T20:37:48+08:00",
+      "longitude": 121.68,
+      "latitude": 23.92,
+      "magnitude": 5.3,
+      "depth_km": 43.4,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站東南方 9.5 公里(花蓮市地震站東南方 9.5 公里)",
+      "event_id": "cwa-report-20090417203748-d97ba4e1b7f9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-16T20:24:48+08:00",
+      "longitude": 122,
+      "latitude": 24.83,
+      "magnitude": 3.7,
+      "depth_km": 8.6,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東偏北方 25.9 公里(宜蘭市地震站東偏北方 25.9 公里)",
+      "event_id": "cwa-report-20090416202448-c4970907d039"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-16T16:23:34+08:00",
+      "longitude": 122,
+      "latitude": 24.84,
+      "magnitude": 4.1,
+      "depth_km": 12.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東偏北方 26.0 公里(宜蘭市地震站東偏北方 26.0 公里)",
+      "event_id": "cwa-report-20090416162334-f5818aa7a992"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-11T01:04:57+08:00",
+      "longitude": 121.78,
+      "latitude": 24.44,
+      "magnitude": 3.6,
+      "depth_km": 28.9,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 3.4 公里(宜蘭南澳地震站東偏北方 3.4 公里)",
+      "event_id": "cwa-report-20090411010457-e4824d914ee6"
+    },
+    {
+      "report_number": "026",
+      "origin_time": "2009-04-10T15:10:46+08:00",
+      "longitude": 120.96,
+      "latitude": 22.56,
+      "magnitude": 4.1,
+      "depth_km": 9.6,
+      "maximum_intensity": 5,
+      "location": "台東大武地震站北偏東方 23.4 公里(台東大武地震站北偏東方 23.4 公里)",
+      "event_id": "cwa-report-20090410151046-ab76fb2442e2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-10T04:18:18+08:00",
+      "longitude": 121.54,
+      "latitude": 23.19,
+      "magnitude": 4.3,
+      "depth_km": 40.3,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站東偏北方 20.1 公里(台東成功地震站東偏北方 20.1 公里)",
+      "event_id": "cwa-report-20090410041818-019dcf6ce6b7"
+    },
+    {
+      "report_number": "025",
+      "origin_time": "2009-04-09T08:12:29+08:00",
+      "longitude": 121.45,
+      "latitude": 23.16,
+      "magnitude": 4.6,
+      "depth_km": 27.2,
+      "maximum_intensity": 5,
+      "location": "台東成功地震站東北方 10.6 公里(台東成功地震站東北方 10.6 公里)",
+      "event_id": "cwa-report-20090409081229-2b34d5b90482"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-07T10:53:48+08:00",
+      "longitude": 120.61,
+      "latitude": 23.32,
+      "magnitude": 3,
+      "depth_km": 6.5,
+      "maximum_intensity": 2,
+      "location": "嘉義大埔地震站北方 8.5 公里(嘉義大埔地震站北方 8.5 公里)",
+      "event_id": "cwa-report-20090407105348-dd6f2d43fd96"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-07T04:59:45+08:00",
+      "longitude": 122.41,
+      "latitude": 24.8,
+      "magnitude": 4.4,
+      "depth_km": 16.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東偏北方 59.3 公里(宜蘭蘇澳地震站東偏北方 59.3 公里)",
+      "event_id": "cwa-report-20090407045945-0a31b919c7fd"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-07T01:48:53+08:00",
+      "longitude": 121.77,
+      "latitude": 24.57,
+      "magnitude": 3.7,
+      "depth_km": 67.8,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站西偏南 10.3 公里(宜蘭蘇澳地震站西偏南 10.3 公里)",
+      "event_id": "cwa-report-20090407014853-4f9b306312f2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-06T15:15:25+08:00",
+      "longitude": 122,
+      "latitude": 24.81,
+      "magnitude": 3.5,
+      "depth_km": 4.6,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東方 25.4 公里(宜蘭市地震站東方 25.4 公里)",
+      "event_id": "cwa-report-20090406151525-cf610769a71e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-06T04:11:49+08:00",
+      "longitude": 121.91,
+      "latitude": 21.6,
+      "magnitude": 4.1,
+      "depth_km": 30,
+      "maximum_intensity": 2,
+      "location": "台東蘭嶼地震站東南方 60.5 公里(台東蘭嶼地震站東南方 60.5 公里)",
+      "event_id": "cwa-report-20090406041149-8cb3f803584c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-04T19:12:42+08:00",
+      "longitude": 121.48,
+      "latitude": 24.07,
+      "magnitude": 3.1,
+      "depth_km": 21.2,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站西方 12.9 公里(花蓮秀林地震站西方 12.9 公里)",
+      "event_id": "cwa-report-20090404191242-7b502603734b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-04T17:07:59+08:00",
+      "longitude": 121.9,
+      "latitude": 24.44,
+      "magnitude": 3.1,
+      "depth_km": 20.2,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站東方 15.6 公里(宜蘭南澳地震站東方 15.6 公里)",
+      "event_id": "cwa-report-20090404170759-71008b5d2300"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-03T16:12:22+08:00",
+      "longitude": 121.79,
+      "latitude": 24.22,
+      "magnitude": 3.4,
+      "depth_km": 26.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站南方 23.4 公里(宜蘭南澳地震站南方 23.4 公里)",
+      "event_id": "cwa-report-20090403161222-edcf5b38d049"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2009-04-02T12:20:11+08:00",
+      "longitude": 121.57,
+      "latitude": 23.78,
+      "magnitude": 3.4,
+      "depth_km": 7.6,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站東偏南方 13.3 公里(花蓮西林地震站東偏南方 13.3 公里)",
+      "event_id": "cwa-report-20090402122011-555684a58e9d"
+    }
+  ]
+}

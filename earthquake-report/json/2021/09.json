@@ -1,0 +1,312 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-30T23:55:37+08:00",
+      "longitude": 121.446,
+      "latitude": 22.2317,
+      "magnitude": 3.9,
+      "depth_km": 24.3,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府南南東方 65.4 公里 (位於臺灣東南部海域)(臺灣東南部海域)",
+      "event_id": "cwa-report-20210930235537-38ca3a7b2c3d"
+    },
+    {
+      "report_number": "096",
+      "origin_time": "2021-09-26T06:21:19+08:00",
+      "longitude": 121.683,
+      "latitude": 24.317,
+      "magnitude": 5.7,
+      "depth_km": 46.1,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府北方 36.7 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20210926062119-04a729231b6a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-23T17:28:01+08:00",
+      "longitude": 121.51,
+      "latitude": 23.8113,
+      "magnitude": 3.5,
+      "depth_km": 9,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府南南西方 22.8 公里 (位於花蓮縣壽豐鄉)(花蓮縣壽豐鄉)",
+      "event_id": "cwa-report-20210923172801-ec52a7aa1757"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-23T12:20:20+08:00",
+      "longitude": 121.392,
+      "latitude": 23.7188,
+      "magnitude": 3.4,
+      "depth_km": 15,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 38.0 公里 (位於花蓮縣萬榮鄉)(花蓮縣萬榮鄉)",
+      "event_id": "cwa-report-20210923122020-557b972458bf"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-22T17:05:11+08:00",
+      "longitude": 121.958,
+      "latitude": 24.8435,
+      "magnitude": 3.7,
+      "depth_km": 9.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東北東方 23.4 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210922170511-b30a0890b42f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-19T12:46:03+08:00",
+      "longitude": 122.319,
+      "latitude": 24.731,
+      "magnitude": 5,
+      "depth_km": 98.1,
+      "maximum_intensity": 1,
+      "location": "宜蘭縣政府東方 56.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210919124603-6896b265c43a"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-16T17:51:17+08:00",
+      "longitude": 121.537,
+      "latitude": 23.8072,
+      "magnitude": 3.7,
+      "depth_km": 49.5,
+      "maximum_intensity": 1,
+      "location": "花蓮縣政府南南西方 22.1 公里 (位於花蓮縣壽豐鄉)(花蓮縣壽豐鄉)",
+      "event_id": "cwa-report-20210916175117-8859b3a007b4"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-16T17:46:54+08:00",
+      "longitude": 120.469,
+      "latitude": 23.4765,
+      "magnitude": 3.2,
+      "depth_km": 7.5,
+      "maximum_intensity": 2,
+      "location": "嘉義市政府東南東方 1.6 公里 (位於嘉義市東區)(嘉義市東區)",
+      "event_id": "cwa-report-20210916174654-25ced92d3924"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-16T16:42:15+08:00",
+      "longitude": 121.156,
+      "latitude": 23.086,
+      "magnitude": 2.9,
+      "depth_km": 7.5,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府北方 36.7 公里 (位於臺東縣海端鄉)(臺東縣海端鄉)",
+      "event_id": "cwa-report-20210916164215-b6d99abae590"
+    },
+    {
+      "report_number": "095",
+      "origin_time": "2021-09-15T18:50:53+08:00",
+      "longitude": 121.391,
+      "latitude": 23.1622,
+      "magnitude": 4.5,
+      "depth_km": 20.6,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府北北東方 51.3 公里 (位於臺東縣成功鎮)(臺東縣成功鎮)",
+      "event_id": "cwa-report-20210915185053-852bb4224b98"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-15T11:45:50+08:00",
+      "longitude": 121.989,
+      "latitude": 24.8488,
+      "magnitude": 3.6,
+      "depth_km": 9.2,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東北東方 26.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210915114550-d5a646e4f85b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-14T12:50:13+08:00",
+      "longitude": 121.083,
+      "latitude": 22.1378,
+      "magnitude": 3.9,
+      "depth_km": 12.5,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府南方 68.7 公里 (位於臺灣東南部海域)(臺灣東南部海域)",
+      "event_id": "cwa-report-20210914125013-572b3d107fd9"
+    },
+    {
+      "report_number": "094",
+      "origin_time": "2021-09-13T18:41:27+08:00",
+      "longitude": 121.013,
+      "latitude": 24.1233,
+      "magnitude": 5.6,
+      "depth_km": 46.1,
+      "maximum_intensity": 4,
+      "location": "南投縣政府東北方 41.0 公里 (位於南投縣仁愛鄉)(南投縣仁愛鄉)",
+      "event_id": "cwa-report-20210913184127-6d3376ee4d85"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-13T08:03:34+08:00",
+      "longitude": 121.09,
+      "latitude": 23.192,
+      "magnitude": 3.5,
+      "depth_km": 5.9,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府北方 48.8 公里 (位於臺東縣海端鄉)(臺東縣海端鄉)",
+      "event_id": "cwa-report-20210913080334-31556b6fccaa"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-11T23:03:49+08:00",
+      "longitude": 121.05,
+      "latitude": 22.9935,
+      "magnitude": 3.8,
+      "depth_km": 4.2,
+      "maximum_intensity": 2,
+      "location": "臺東縣政府北北西方 28.4 公里 (位於臺東縣延平鄉)(臺東縣延平鄉)",
+      "event_id": "cwa-report-20210911230349-c30beaf7c955"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-11T19:51:03+08:00",
+      "longitude": 121.353,
+      "latitude": 22.9738,
+      "magnitude": 3,
+      "depth_km": 7.6,
+      "maximum_intensity": 4,
+      "location": "臺東縣政府東北方 31.9 公里 (位於臺東縣近海)(臺東縣近海)",
+      "event_id": "cwa-report-20210911195103-3c4aa836feb2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-11T01:39:45+08:00",
+      "longitude": 121.476,
+      "latitude": 23.7758,
+      "magnitude": 4,
+      "depth_km": 8.7,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南方 28.0 公里 (位於花蓮縣鳳林鎮)(花蓮縣鳳林鎮)",
+      "event_id": "cwa-report-20210911013945-f0eaf60d64cb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-10T13:45:03+08:00",
+      "longitude": 122.062,
+      "latitude": 23.8575,
+      "magnitude": 4.8,
+      "depth_km": 45.4,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府東南東方 47.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210910134503-1ed213a18f59"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-08T00:19:11+08:00",
+      "longitude": 122.016,
+      "latitude": 24.485,
+      "magnitude": 4.3,
+      "depth_km": 25.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東南方 37.4 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210908001911-740025a820bd"
+    },
+    {
+      "report_number": "093",
+      "origin_time": "2021-09-06T22:00:26+08:00",
+      "longitude": 122.077,
+      "latitude": 23.85,
+      "magnitude": 5.9,
+      "depth_km": 41.1,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府東南東方 49.0 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210906220026-b20640178101"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-05T08:54:27+08:00",
+      "longitude": 120.398,
+      "latitude": 23.257,
+      "magnitude": 3.4,
+      "depth_km": 12.2,
+      "maximum_intensity": 2,
+      "location": "臺南市政府東北方 36.5 公里 (位於臺南市柳營區)(臺南市柳營區)",
+      "event_id": "cwa-report-20210905085427-a1f5621fb804"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-04T12:37:08+08:00",
+      "longitude": 121.956,
+      "latitude": 24.4022,
+      "magnitude": 4.5,
+      "depth_km": 29.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府南南東方 41.3 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20210904123708-d1f36e7774c1"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-03T12:17:40+08:00",
+      "longitude": 120.532,
+      "latitude": 23.177,
+      "magnitude": 3.6,
+      "depth_km": 3.7,
+      "maximum_intensity": 4,
+      "location": "臺南市政府東北東方 41.0 公里 (位於臺南市楠西區)(臺南市楠西區)",
+      "event_id": "cwa-report-20210903121740-ba12a0d3ae3b"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-03T00:07:20+08:00",
+      "longitude": 121.3,
+      "latitude": 23.1708,
+      "magnitude": 3.3,
+      "depth_km": 6.3,
+      "maximum_intensity": 4,
+      "location": "花蓮縣政府南南西方 96.5 公里 (位於花蓮縣富里鄉)(花蓮縣富里鄉)",
+      "event_id": "cwa-report-20210903000720-6acafa0b3a2e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-02T19:09:24+08:00",
+      "longitude": 120.53,
+      "latitude": 23.1703,
+      "magnitude": 4.2,
+      "depth_km": 4.3,
+      "maximum_intensity": 4,
+      "location": "臺南市政府東北東方 40.4 公里 (位於臺南市楠西區)(臺南市楠西區)",
+      "event_id": "cwa-report-20210902190924-b0a9be6e310c"
+    },
+    {
+      "report_number": "092",
+      "origin_time": "2021-09-02T18:56:58+08:00",
+      "longitude": 120.545,
+      "latitude": 23.179,
+      "magnitude": 4.7,
+      "depth_km": 4.1,
+      "maximum_intensity": null,
+      "location": "臺南市政府東北東方 42.3 公里 (位於臺南市楠西區)(臺南市楠西區)",
+      "event_id": "cwa-report-20210902185658-74da13563c26"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2021-09-02T13:41:17+08:00",
+      "longitude": 121.056,
+      "latitude": 23.0112,
+      "magnitude": 4.1,
+      "depth_km": 6.7,
+      "maximum_intensity": 3,
+      "location": "臺東縣政府北北西方 30.0 公里 (位於臺東縣海端鄉)(臺東縣海端鄉)",
+      "event_id": "cwa-report-20210902134117-5392db01859d"
+    },
+    {
+      "report_number": "091",
+      "origin_time": "2021-09-01T06:27:56+08:00",
+      "longitude": 120.714,
+      "latitude": 23.2657,
+      "magnitude": 4.9,
+      "depth_km": 13.7,
+      "maximum_intensity": 4,
+      "location": "高雄市政府北北東方 82.4 公里 (位於高雄市那瑪夏區)(高雄市那瑪夏區)",
+      "event_id": "cwa-report-20210901062756-8b0818dad793"
+    }
+  ]
+}

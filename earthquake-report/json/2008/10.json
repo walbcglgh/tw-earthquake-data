@@ -1,0 +1,323 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-31T18:13:45+08:00",
+      "longitude": 120.2,
+      "latitude": 23.06,
+      "magnitude": 3.3,
+      "depth_km": 15.5,
+      "maximum_intensity": 2,
+      "location": "台南市地震站北方 8.8 公里(台南市地震站北方 8.8 公里)",
+      "event_id": "cwa-report-20081031181345-3de1d79c5ebb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-31T17:21:11+08:00",
+      "longitude": 120.2,
+      "latitude": 23.06,
+      "magnitude": 3.4,
+      "depth_km": 15.5,
+      "maximum_intensity": 2,
+      "location": "台南市地震站北方 8.3 公里(台南市地震站北方 8.3 公里)",
+      "event_id": "cwa-report-20081031172111-6dcce384419f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-31T16:40:20+08:00",
+      "longitude": 120.16,
+      "latitude": 23.05,
+      "magnitude": 2.9,
+      "depth_km": 15.5,
+      "maximum_intensity": 1,
+      "location": "台南市地震站西北方 8.3 公里(台南市地震站西北方 8.3 公里)",
+      "event_id": "cwa-report-20081031164020-bc33501ed6fd"
+    },
+    {
+      "report_number": "083",
+      "origin_time": "2008-10-31T16:38:15+08:00",
+      "longitude": 120.22,
+      "latitude": 23.07,
+      "magnitude": 4.6,
+      "depth_km": 15.4,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北方 8.9 公里(台南市地震站北方 8.9 公里)",
+      "event_id": "cwa-report-20081031163815-30dc9cd092c2"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-31T07:36:37+08:00",
+      "longitude": 120.22,
+      "latitude": 23.05,
+      "magnitude": 3.5,
+      "depth_km": 14.7,
+      "maximum_intensity": 2,
+      "location": "台南市地震站北方 7.4 公里(台南市地震站北方 7.4 公里)",
+      "event_id": "cwa-report-20081031073637-994f85245bbb"
+    },
+    {
+      "report_number": "082",
+      "origin_time": "2008-10-31T06:25:24+08:00",
+      "longitude": 120.23,
+      "latitude": 23.07,
+      "magnitude": 4,
+      "depth_km": 16,
+      "maximum_intensity": 4,
+      "location": "台南市地震站北偏東方 9.4 公里(台南市地震站北偏東方 9.4 公里)",
+      "event_id": "cwa-report-20081031062524-2f9cb910dcf4"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-31T06:07:57+08:00",
+      "longitude": 121.92,
+      "latitude": 23.32,
+      "magnitude": 4.6,
+      "depth_km": 29.8,
+      "maximum_intensity": 3,
+      "location": "台東成功地震站東偏北方 61.8 公里(台東成功地震站東偏北方 61.8 公里)",
+      "event_id": "cwa-report-20081031060757-03294f54edc1"
+    },
+    {
+      "report_number": "081",
+      "origin_time": "2008-10-28T03:00:37+08:00",
+      "longitude": 121.82,
+      "latitude": 24.6,
+      "magnitude": 4,
+      "depth_km": 72.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站西方 3.6 公里(宜蘭蘇澳地震站西方 3.6 公里)",
+      "event_id": "cwa-report-20081028030037-678579fe28f8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-27T06:28:47+08:00",
+      "longitude": 121.75,
+      "latitude": 24.25,
+      "magnitude": 3.4,
+      "depth_km": 28.1,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站南方 19.6 公里(宜蘭南澳地震站南方 19.6 公里)",
+      "event_id": "cwa-report-20081027062847-2abdc8708eab"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-26T19:01:38+08:00",
+      "longitude": 121.42,
+      "latitude": 23.13,
+      "magnitude": 3.3,
+      "depth_km": 25,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東北方 6.0 公里(台東成功地震站東北方 6.0 公里)",
+      "event_id": "cwa-report-20081026190138-ea2e65b12af6"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-25T12:47:57+08:00",
+      "longitude": 121.62,
+      "latitude": 24.28,
+      "magnitude": 4.3,
+      "depth_km": 57.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站西南方 21.2 公里(宜蘭南澳地震站西南方 21.2 公里)",
+      "event_id": "cwa-report-20081025124757-696acfb77b9b"
+    },
+    {
+      "report_number": "080",
+      "origin_time": "2008-10-25T06:03:31+08:00",
+      "longitude": 121.83,
+      "latitude": 24.4,
+      "magnitude": 3.5,
+      "depth_km": 11.8,
+      "maximum_intensity": 5,
+      "location": "宜蘭南澳地震站東偏南方 8.5 公里(宜蘭南澳地震站東偏南方 8.5 公里)",
+      "event_id": "cwa-report-20081025060331-3626e5bfd1c8"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-23T10:43:29+08:00",
+      "longitude": 121.72,
+      "latitude": 24.45,
+      "magnitude": 3.9,
+      "depth_km": 36.9,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站西北方 3.9 公里(宜蘭南澳地震站西北方 3.9 公里)",
+      "event_id": "cwa-report-20081023104329-fca092e1f997"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-23T09:05:26+08:00",
+      "longitude": 121.22,
+      "latitude": 22.98,
+      "magnitude": 3.2,
+      "depth_km": 24.3,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站西南方 20.1 公里(台東成功地震站西南方 20.1 公里)",
+      "event_id": "cwa-report-20081023090526-228307c5310e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-21T08:13:59+08:00",
+      "longitude": 122.34,
+      "latitude": 24.6,
+      "magnitude": 4.3,
+      "depth_km": 85.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭蘇澳地震站東方 48.6 公里(宜蘭蘇澳地震站東方 48.6 公里)",
+      "event_id": "cwa-report-20081021081359-89830b0d1e25"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-20T07:23:43+08:00",
+      "longitude": 120.32,
+      "latitude": 24.07,
+      "magnitude": 3.5,
+      "depth_km": 28.3,
+      "maximum_intensity": 3,
+      "location": "彰化大城地震站北方 23.8 公里(彰化大城地震站北方 23.8 公里)",
+      "event_id": "cwa-report-20081020072343-a452999983f9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-20T00:13:35+08:00",
+      "longitude": 121.42,
+      "latitude": 23.7,
+      "magnitude": 3.3,
+      "depth_km": 12.1,
+      "maximum_intensity": 4,
+      "location": "花蓮西林地震站南偏西方 13.0 公里(花蓮西林地震站南偏西方 13.0 公里)",
+      "event_id": "cwa-report-20081020001335-ae5da9dec9cd"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-19T02:35:32+08:00",
+      "longitude": 121.8,
+      "latitude": 24.34,
+      "magnitude": 3.2,
+      "depth_km": 12.8,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站南偏東方 10.6 公里(宜蘭南澳地震站南偏東方 10.6 公里)",
+      "event_id": "cwa-report-20081019023532-5837a8495505"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-15T19:48:44+08:00",
+      "longitude": 121.77,
+      "latitude": 24.54,
+      "magnitude": 3.6,
+      "depth_km": 56.5,
+      "maximum_intensity": 1,
+      "location": "宜蘭蘇澳地震站西南方 11.5 公里(宜蘭蘇澳地震站西南方 11.5 公里)",
+      "event_id": "cwa-report-20081015194844-0a72c269e52e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-15T19:26:54+08:00",
+      "longitude": 121.71,
+      "latitude": 24.11,
+      "magnitude": 3.2,
+      "depth_km": 9.4,
+      "maximum_intensity": 2,
+      "location": "花蓮秀林地震站東偏北方 11.4 公里(花蓮秀林地震站東偏北方 11.4 公里)",
+      "event_id": "cwa-report-20081015192654-26fb2af15a8f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-15T15:58:50+08:00",
+      "longitude": 121.28,
+      "latitude": 24.67,
+      "magnitude": 3.3,
+      "depth_km": 7.9,
+      "maximum_intensity": 2,
+      "location": "桃園三光地震站西方 8.8 公里(桃園三光地震站西方 8.8 公里)",
+      "event_id": "cwa-report-20081015155850-d6f52f1ce446"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-14T15:05:19+08:00",
+      "longitude": 121.92,
+      "latitude": 24.8,
+      "magnitude": 3.5,
+      "depth_km": 7.7,
+      "maximum_intensity": 2,
+      "location": "宜蘭市地震站東偏北方 17.0 公里(宜蘭市地震站東偏北方 17.0 公里)",
+      "event_id": "cwa-report-20081014150519-f537331267aa"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-14T11:55:04+08:00",
+      "longitude": 121.58,
+      "latitude": 23.86,
+      "magnitude": 4.1,
+      "depth_km": 51.9,
+      "maximum_intensity": 2,
+      "location": "花蓮市地震站南偏西方 13.6 公里(花蓮市地震站南偏西方 13.6 公里)",
+      "event_id": "cwa-report-20081014115504-8d2ba59be1c9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-13T17:27:52+08:00",
+      "longitude": 120.22,
+      "latitude": 23.07,
+      "magnitude": 3.2,
+      "depth_km": 16,
+      "maximum_intensity": 2,
+      "location": "台南市地震站北方 9.4 公里(台南市地震站北方 9.4 公里)",
+      "event_id": "cwa-report-20081013172752-d0dfa30c5fdc"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-10T17:34:45+08:00",
+      "longitude": 121.01,
+      "latitude": 23.85,
+      "magnitude": 3.9,
+      "depth_km": 28.5,
+      "maximum_intensity": 2,
+      "location": "南投名間地震站東方 32.0 公里(南投名間地震站東方 32.0 公里)",
+      "event_id": "cwa-report-20081010173445-ee9c8c876d9c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-09T00:51:50+08:00",
+      "longitude": 121.4,
+      "latitude": 23.75,
+      "magnitude": 3.4,
+      "depth_km": 23.7,
+      "maximum_intensity": 3,
+      "location": "花蓮西林地震站南偏西方 8.4 公里(花蓮西林地震站南偏西方 8.4 公里)",
+      "event_id": "cwa-report-20081009005150-18704af02e3f"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-07T18:41:17+08:00",
+      "longitude": 121.36,
+      "latitude": 23.17,
+      "magnitude": 3.2,
+      "depth_km": 18.3,
+      "maximum_intensity": 2,
+      "location": "台東成功地震站北偏西方 7.8 公里(台東成功地震站北偏西方 7.8 公里)",
+      "event_id": "cwa-report-20081007184117-43a21d79260e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-05T00:24:48+08:00",
+      "longitude": 121.86,
+      "latitude": 24.46,
+      "magnitude": 3.2,
+      "depth_km": 20.7,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏北方 12.1 公里(宜蘭南澳地震站東偏北方 12.1 公里)",
+      "event_id": "cwa-report-20081005002448-d7985ba8d0a9"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2008-10-02T10:10:57+08:00",
+      "longitude": 121.84,
+      "latitude": 24.39,
+      "magnitude": 2.8,
+      "depth_km": 12.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏南方 9.9 公里(宜蘭南澳地震站東偏南方 9.9 公里)",
+      "event_id": "cwa-report-20081002101057-9f65ebd2e5ba"
+    }
+  ]
+}

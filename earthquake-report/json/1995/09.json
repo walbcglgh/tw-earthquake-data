@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "report_number": "047",
+      "origin_time": "1995-09-29T01:58:05+08:00",
+      "longitude": 120.45,
+      "latitude": 23.51,
+      "magnitude": 4.5,
+      "depth_km": 9.3,
+      "maximum_intensity": 5,
+      "location": "嘉義市地震站東北方 1.9 公里(嘉義市地震站東北方 1.9 公里)",
+      "event_id": "cwa-report-19950929015805-c5a8bf439a2f"
+    }
+  ]
+}

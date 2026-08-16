@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "report_number": "030",
+      "origin_time": "1996-09-18T06:58:12+08:00",
+      "longitude": 121.51,
+      "latitude": 23.92,
+      "magnitude": 3.8,
+      "depth_km": 15,
+      "maximum_intensity": 4,
+      "location": "花蓮市地震站西偏南 12.0 公里(花蓮市地震站西偏南 12.0 公里)",
+      "event_id": "cwa-report-19960918065812-597c3518dc91"
+    },
+    {
+      "report_number": "029",
+      "origin_time": "1996-09-09T09:52:38+08:00",
+      "longitude": 121.83,
+      "latitude": 24.31,
+      "magnitude": 4.8,
+      "depth_km": 9,
+      "maximum_intensity": 5,
+      "location": "宜蘭南澳地震站東南方 15.2 公里(宜蘭南澳地震站東南方 15.2 公里)",
+      "event_id": "cwa-report-19960909095238-c71f48174c1b"
+    },
+    {
+      "report_number": "028",
+      "origin_time": "1996-09-06T10:04:56+08:00",
+      "longitude": 121.37,
+      "latitude": 21.93,
+      "magnitude": 5.5,
+      "depth_km": 7,
+      "maximum_intensity": 4,
+      "location": "台東蘭嶼地震站西偏南 23.2 公里(台東蘭嶼地震站西偏南 23.2 公里)",
+      "event_id": "cwa-report-19960906100456-bcdef51e7fba"
+    },
+    {
+      "report_number": "027",
+      "origin_time": "1996-09-06T07:42:07+08:00",
+      "longitude": 121.37,
+      "latitude": 22,
+      "magnitude": 7.1,
+      "depth_km": 14.8,
+      "maximum_intensity": 3,
+      "location": "台東蘭嶼地震站西方 20.2 公里(台東蘭嶼地震站西方 20.2 公里)",
+      "event_id": "cwa-report-19960906074207-432835c1ac06"
+    }
+  ]
+}

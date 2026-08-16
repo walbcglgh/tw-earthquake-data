@@ -1,0 +1,191 @@
+{
+  "records": [
+    {
+      "report_number": "048",
+      "origin_time": "2000-03-31T20:34:44+08:00",
+      "longitude": 120.15,
+      "latitude": 23.11,
+      "magnitude": 4.4,
+      "depth_km": 15.4,
+      "maximum_intensity": 5,
+      "location": "台南佳里地震站西南方 8.8 公里(台南佳里地震站西南方 8.8 公里)",
+      "event_id": "cwa-report-20000331203444-17459b9a48f0"
+    },
+    {
+      "report_number": "047",
+      "origin_time": "2000-03-27T16:14:11+08:00",
+      "longitude": 120.73,
+      "latitude": 23.31,
+      "magnitude": 4.5,
+      "depth_km": 13.7,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東偏北方 13.4 公里(嘉義大埔地震站東偏北方 13.4 公里)",
+      "event_id": "cwa-report-20000327161411-a811e34bd6e0"
+    },
+    {
+      "report_number": "046",
+      "origin_time": "2000-03-24T22:13:16+08:00",
+      "longitude": 122.18,
+      "latitude": 24.32,
+      "magnitude": 4.7,
+      "depth_km": 44.4,
+      "maximum_intensity": 3,
+      "location": "宜蘭南澳地震站東偏南方 45.6 公里(宜蘭南澳地震站東偏南方 45.6 公里)",
+      "event_id": "cwa-report-20000324221316-c8b959e20d7f"
+    },
+    {
+      "report_number": "045",
+      "origin_time": "2000-03-24T20:40:23+08:00",
+      "longitude": 121.68,
+      "latitude": 24.25,
+      "magnitude": 4.2,
+      "depth_km": 26.3,
+      "maximum_intensity": 3,
+      "location": "花蓮秀林地震站北偏東方 20.2 公里(花蓮秀林地震站北偏東方 20.2 公里)",
+      "event_id": "cwa-report-20000324204023-ce5eb7c579ac"
+    },
+    {
+      "report_number": "044",
+      "origin_time": "2000-03-20T01:57:07+08:00",
+      "longitude": 120.74,
+      "latitude": 23.3,
+      "magnitude": 4.7,
+      "depth_km": 14.4,
+      "maximum_intensity": 4,
+      "location": "嘉義大埔地震站東偏北方 13.8 公里(嘉義大埔地震站東偏北方 13.8 公里)",
+      "event_id": "cwa-report-20000320015707-21931418a50f"
+    },
+    {
+      "report_number": "043",
+      "origin_time": "2000-03-19T16:50:46+08:00",
+      "longitude": 122.31,
+      "latitude": 24.7,
+      "magnitude": 4.7,
+      "depth_km": 4.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭蘇澳地震站東偏北方 46.8 公里(宜蘭蘇澳地震站東偏北方 46.8 公里)",
+      "event_id": "cwa-report-20000319165046-de5fe65f04a0"
+    },
+    {
+      "report_number": "042",
+      "origin_time": "2000-03-18T20:52:14+08:00",
+      "longitude": 121.03,
+      "latitude": 24.11,
+      "magnitude": 4.5,
+      "depth_km": 7.3,
+      "maximum_intensity": 3,
+      "location": "台中德基地震站西南方 20.4 公里(台中德基地震站西南方 20.4 公里)",
+      "event_id": "cwa-report-20000318205214-7a87fb227a1b"
+    },
+    {
+      "report_number": "041",
+      "origin_time": "2000-03-18T18:06:08+08:00",
+      "longitude": 120.74,
+      "latitude": 23.32,
+      "magnitude": 4.4,
+      "depth_km": 16,
+      "maximum_intensity": 3,
+      "location": "嘉義大埔地震站東北方 14.5 公里(嘉義大埔地震站東北方 14.5 公里)",
+      "event_id": "cwa-report-20000318180608-76c39a55237f"
+    },
+    {
+      "report_number": "040",
+      "origin_time": "2000-03-18T13:57:00+08:00",
+      "longitude": 120.42,
+      "latitude": 23.54,
+      "magnitude": 3.4,
+      "depth_km": 7.9,
+      "maximum_intensity": 3,
+      "location": "嘉義市地震站北偏西方 4.7 公里(嘉義市地震站北偏西方 4.7 公里)",
+      "event_id": "cwa-report-20000318135700-f22e5c9aa503"
+    },
+    {
+      "report_number": "039",
+      "origin_time": "2000-03-18T02:41:13+08:00",
+      "longitude": 121.76,
+      "latitude": 24.36,
+      "magnitude": 4,
+      "depth_km": 57.4,
+      "maximum_intensity": 2,
+      "location": "宜蘭南澳地震站南偏東方 6.9 公里(宜蘭南澳地震站南偏東方 6.9 公里)",
+      "event_id": "cwa-report-20000318024113-ade490abf9e0"
+    },
+    {
+      "report_number": "038",
+      "origin_time": "2000-03-17T00:05:15+08:00",
+      "longitude": 120.74,
+      "latitude": 23.32,
+      "magnitude": 4.4,
+      "depth_km": 14.8,
+      "maximum_intensity": 2,
+      "location": "嘉義大埔地震站東偏北方 15.1 公里(嘉義大埔地震站東偏北方 15.1 公里)",
+      "event_id": "cwa-report-20000317000515-91d866f4e642"
+    },
+    {
+      "report_number": "037",
+      "origin_time": "2000-03-16T21:10:55+08:00",
+      "longitude": 120.75,
+      "latitude": 23.31,
+      "magnitude": 5,
+      "depth_km": 11.5,
+      "maximum_intensity": 4,
+      "location": "嘉義大埔地震站東偏北方 15.0 公里(嘉義大埔地震站東偏北方 15.0 公里)",
+      "event_id": "cwa-report-20000316211055-b021dc66b420"
+    },
+    {
+      "report_number": "036",
+      "origin_time": "2000-03-16T08:37:53+08:00",
+      "longitude": 121.62,
+      "latitude": 22.73,
+      "magnitude": 5,
+      "depth_km": 24.4,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東南方 47.7 公里(台東成功地震站東南方 47.7 公里)",
+      "event_id": "cwa-report-20000316083753-e90b38a5d6be"
+    },
+    {
+      "report_number": "035",
+      "origin_time": "2000-03-09T13:08:44+08:00",
+      "longitude": 121.49,
+      "latitude": 23.22,
+      "magnitude": 5.1,
+      "depth_km": 33.8,
+      "maximum_intensity": 4,
+      "location": "台東成功地震站東北方 18.4 公里(台東成功地震站東北方 18.4 公里)",
+      "event_id": "cwa-report-20000309130844-44bdbeef811c"
+    },
+    {
+      "report_number": "034",
+      "origin_time": "2000-03-09T12:24:38+08:00",
+      "longitude": 120.92,
+      "latitude": 23.83,
+      "magnitude": 4.2,
+      "depth_km": 1.2,
+      "maximum_intensity": 4,
+      "location": "南投名間地震站東方 23.7 公里(南投名間地震站東方 23.7 公里)",
+      "event_id": "cwa-report-20000309122438-dcc4ae15f131"
+    },
+    {
+      "report_number": "033",
+      "origin_time": "2000-03-04T07:02:08+08:00",
+      "longitude": 120.45,
+      "latitude": 23.52,
+      "magnitude": 4,
+      "depth_km": 14.8,
+      "maximum_intensity": 4,
+      "location": "嘉義市地震站北偏東方 3.4 公里(嘉義市地震站北偏東方 3.4 公里)",
+      "event_id": "cwa-report-20000304070208-38cefc9308fd"
+    },
+    {
+      "report_number": "032",
+      "origin_time": "2000-03-01T12:49:07+08:00",
+      "longitude": 121.03,
+      "latitude": 23.76,
+      "magnitude": 4.3,
+      "depth_km": 24.4,
+      "maximum_intensity": 3,
+      "location": "南投名間地震站東偏南方 36.4 公里(南投名間地震站東偏南方 36.4 公里)",
+      "event_id": "cwa-report-20000301124907-d235a9c49f06"
+    }
+  ]
+}

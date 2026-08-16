@@ -1,0 +1,202 @@
+{
+  "records": [
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-30T05:15:02+08:00",
+      "longitude": 122.098,
+      "latitude": 24.8097,
+      "magnitude": 5,
+      "depth_km": 95,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府東北東方 35.0 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20260630051502-f43a1223fc15"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-29T09:20:57+08:00",
+      "longitude": 121.518,
+      "latitude": 24.1377,
+      "magnitude": 3.9,
+      "depth_km": 23.8,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府西北方 19.3 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20260629092057-ab1a648230fb"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-25T05:30:42+08:00",
+      "longitude": 120.435,
+      "latitude": 23.4302,
+      "magnitude": 3.2,
+      "depth_km": 8.5,
+      "maximum_intensity": 2,
+      "location": "嘉義縣政府東南東方 14.8 公里 (位於嘉義縣中埔鄉)(嘉義縣中埔鄉)",
+      "event_id": "cwa-report-20260625053042-70ce9d39d271"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-21T10:37:30+08:00",
+      "longitude": 120.435,
+      "latitude": 23.4795,
+      "magnitude": 3.6,
+      "depth_km": 11.7,
+      "maximum_intensity": 3,
+      "location": "嘉義市政府西方 1.9 公里 (位於嘉義市西區)(嘉義市西區)",
+      "event_id": "cwa-report-20260621103730-e648ab7af902"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-19T19:33:11+08:00",
+      "longitude": 121.836,
+      "latitude": 24.4038,
+      "magnitude": 3.5,
+      "depth_km": 10.3,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府南南東方 37.0 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20260619193311-7d955e664efc"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-19T19:00:43+08:00",
+      "longitude": 120.569,
+      "latitude": 23.8745,
+      "magnitude": 2.9,
+      "depth_km": 23.3,
+      "maximum_intensity": 2,
+      "location": "彰化縣政府南方 22.5 公里 (位於彰化縣田中鎮)(彰化縣田中鎮)",
+      "event_id": "cwa-report-20260619190043-5da593a44736"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-18T06:28:03+08:00",
+      "longitude": 120.836,
+      "latitude": 23.8522,
+      "magnitude": 3.2,
+      "depth_km": 7.6,
+      "maximum_intensity": 1,
+      "location": "南投縣政府東南東方 15.9 公里 (位於南投縣水里鄉)(南投縣水里鄉)",
+      "event_id": "cwa-report-20260618062803-ccdfa7f3d72e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-14T11:15:04+08:00",
+      "longitude": 121.643,
+      "latitude": 24.5385,
+      "magnitude": 4.6,
+      "depth_km": 45.5,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府南南西方 24.5 公里 (位於宜蘭縣南澳鄉)(宜蘭縣南澳鄉)",
+      "event_id": "cwa-report-20260614111504-a5a723d457c0"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-11T23:57:40+08:00",
+      "longitude": 121.603,
+      "latitude": 23.9282,
+      "magnitude": 3.9,
+      "depth_km": 25,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府南南西方 7.2 公里 (位於花蓮縣壽豐鄉)(花蓮縣壽豐鄉)",
+      "event_id": "cwa-report-20260611235740-01486c4b6f63"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-08T23:04:52+08:00",
+      "longitude": 121.456,
+      "latitude": 23.9292,
+      "magnitude": 3.6,
+      "depth_km": 18,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府西南西方 18.0 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20260608230452-6009edb1ffd5"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-08T16:22:41+08:00",
+      "longitude": 121.816,
+      "latitude": 24.4155,
+      "magnitude": 3.6,
+      "depth_km": 14.1,
+      "maximum_intensity": 3,
+      "location": "宜蘭縣政府南方 35.4 公里 (位於宜蘭縣近海)(宜蘭縣近海)",
+      "event_id": "cwa-report-20260608162241-63a9afd67d7e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-08T01:13:44+08:00",
+      "longitude": 121.756,
+      "latitude": 23.953,
+      "magnitude": 4.4,
+      "depth_km": 24.4,
+      "maximum_intensity": 3,
+      "location": "花蓮縣政府東南東方 14.4 公里 (位於臺灣東部海域)(臺灣東部海域)",
+      "event_id": "cwa-report-20260608011344-36f2e9badffc"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-07T19:49:08+08:00",
+      "longitude": 121.57,
+      "latitude": 24.4477,
+      "magnitude": 3.3,
+      "depth_km": 8.3,
+      "maximum_intensity": 2,
+      "location": "宜蘭縣政府西南方 37.0 公里 (位於宜蘭縣南澳鄉)(宜蘭縣南澳鄉)",
+      "event_id": "cwa-report-20260607194908-4591e6bc4816"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-05T05:45:58+08:00",
+      "longitude": 121.505,
+      "latitude": 24.0202,
+      "magnitude": 3.8,
+      "depth_km": 17.7,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府西北西方 12.2 公里 (位於花蓮縣秀林鄉)(花蓮縣秀林鄉)",
+      "event_id": "cwa-report-20260605054558-246430336f44"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-04T22:45:30+08:00",
+      "longitude": 121.686,
+      "latitude": 24.2158,
+      "magnitude": 3.9,
+      "depth_km": 31.2,
+      "maximum_intensity": 2,
+      "location": "花蓮縣政府北北東方 25.8 公里 (位於花蓮縣近海)(花蓮縣近海)",
+      "event_id": "cwa-report-20260604224530-04ffbe1735af"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-04T01:03:31+08:00",
+      "longitude": 120.682,
+      "latitude": 23.5873,
+      "magnitude": 3,
+      "depth_km": 8.3,
+      "maximum_intensity": 2,
+      "location": "雲林縣政府東南方 20.1 公里 (位於雲林縣古坑鄉)(雲林縣古坑鄉)",
+      "event_id": "cwa-report-20260604010331-b2c509a1f04e"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-02T01:39:12+08:00",
+      "longitude": 120.68,
+      "latitude": 23.5583,
+      "magnitude": 3.7,
+      "depth_km": 7.3,
+      "maximum_intensity": 2,
+      "location": "嘉義縣政府東北東方 41.0 公里 (位於嘉義縣梅山鄉)(嘉義縣梅山鄉)",
+      "event_id": "cwa-report-20260602013912-d26352f8573c"
+    },
+    {
+      "report_number": "小區域有感地震",
+      "origin_time": "2026-06-02T01:39:00+08:00",
+      "longitude": 120.685,
+      "latitude": 23.5542,
+      "magnitude": 3.9,
+      "depth_km": 8.4,
+      "maximum_intensity": 3,
+      "location": "嘉義縣政府東北東方 41.4 公里 (位於嘉義縣梅山鄉)(嘉義縣梅山鄉)",
+      "event_id": "cwa-report-20260602013900-0ef8a2b341cd"
+    }
+  ]
+}
